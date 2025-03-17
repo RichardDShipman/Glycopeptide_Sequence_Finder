@@ -1,0 +1,10 @@
+/digested_glycopeptide_library/0_digested_glycopeptide_library.csv
+/digested_glycopeptide_library/0_digested_glycopeptide_library_sqlite.db
+test_proteomes/.DS_Store
+.DS_Store
+/test_proteomes/XMAn_v2_missense.fasta
+/test_proteomes/XMAn_v2_nonsense.fasta
+/test_proteomes/XMAn*
+compute*
+logs/*
+digested_peptide_library/*
