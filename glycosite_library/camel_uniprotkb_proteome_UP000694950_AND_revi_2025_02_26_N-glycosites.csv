@@ -1,0 +1,27 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|A5Z1X6|ITB1_CAMBA,50,NST,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,78,NDT,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,94,NVT,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,97,NRS,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,212,NCT,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,269,NVT,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,363,NSS,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,406,NGT,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,417,NIS,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,481,NGT,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,520,NSS,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,584,NYT,Camelus bactrianus,9837,ITGB1
+sp|A5Z1X6|ITB1_CAMBA,669,NIT,Camelus bactrianus,9837,ITGB1
+sp|P63105|HBA_CAMBA,131,NVS,Camelus bactrianus,9837,HBA
+sp|Q34028|CYB_CAMBA,26,NIS,Camelus bactrianus,9837,MT-CYB
+sp|Q34028|CYB_CAMBA,255,NYT,Camelus bactrianus,9837,MT-CYB
+sp|Q865W6|IFNG_CAMBA,2,NYT,Camelus bactrianus,9837,IFNG
+sp|Q865W6|IFNG_CAMBA,39,NAS,Camelus bactrianus,9837,IFNG
+sp|Q865W6|IFNG_CAMBA,106,NGS,Camelus bactrianus,9837,IFNG
+sp|Q2PE47|IL2_CAMBA,111,NLT,Camelus bactrianus,9837,IL2
+sp|Q865W5|IL13_CAMBA,38,NIT,Camelus bactrianus,9837,IL13
+sp|Q865W5|IL13_CAMBA,49,NGS,Camelus bactrianus,9837,IL13
+sp|Q865W5|IL13_CAMBA,57,NLT,Camelus bactrianus,9837,IL13
+sp|Q865W5|IL13_CAMBA,72,NIT,Camelus bactrianus,9837,IL13
+sp|Q865W5|IL13_CAMBA,75,NCS,Camelus bactrianus,9837,IL13
+sp|Q865W5|IL13_CAMBA,131,NWS,Camelus bactrianus,9837,IL13

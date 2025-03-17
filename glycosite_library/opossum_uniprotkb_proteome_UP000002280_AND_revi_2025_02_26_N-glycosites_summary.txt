@@ -1,0 +1,30 @@
+Glycosite Summary for opossum_uniprotkb_proteome_UP000002280_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 52
+Total Proteins with Glycosites: 24
+
+Glycosites per Protein:
+sp|F7D4X9|SIR5_MONDO: 1 glycosites
+sp|P0C593|DUS29_MONDO: 2 glycosites
+sp|Q06HQ7|PLB1_MONDO: 13 glycosites
+sp|Q07983|RASK_MONDO: 1 glycosites
+sp|Q2QL96|WNT2_MONDO: 2 glycosites
+sp|Q9TUI7|ABEC1_MONDO: 3 glycosites
+sp|O77618|ARF_MONDO: 1 glycosites
+sp|Q8HY33|CAH1_MONDO: 4 glycosites
+sp|Q95J82|FSHB_MONDO: 2 glycosites
+sp|Q95ME4|RASN_MONDO: 2 glycosites
+sp|A4UMC6|TFP11_MONDO: 2 glycosites
+sp|O02789|TDT_MONDO: 2 glycosites
+sp|O62738|RS4X_MONDO: 1 glycosites
+sp|O78703|NU1M_MONDO: 2 glycosites
+sp|Q04911|CYB_MONDO: 3 glycosites
+sp|Q28462|AMEL_MONDO: 1 glycosites
+sp|Q689Z7|PEPB_MONDO: 1 glycosites
+sp|Q6YNX4|GLHA_MONDO: 2 glycosites
+sp|Q95J85|LSHB_MONDO: 1 glycosites
+sp|Q95J88|TSHB_MONDO: 1 glycosites
+sp|Q9XT86|LDHB_MONDO: 2 glycosites
+sp|O62739|RS4Y1_MONDO: 1 glycosites
+sp|Q19KS6|UBL4B_MONDO: 1 glycosites
+sp|Q2QLA1|TES_MONDO: 1 glycosites

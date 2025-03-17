@@ -1,0 +1,29 @@
+Glycosite Summary for elephant_uniprotkb_proteome_UP000007646_AND_revi_2025_02_01
+Glycosylation Type: N
+Total Glycosites Found: 96
+Total Proteins with Glycosites: 23
+
+Glycosites per Protein:
+sp|Q108U0|CFTR_LOXAF: 13 glycosites
+sp|Q108U2|WNT2_LOXAF: 1 glycosites
+sp|Q108U6|MET_LOXAF: 19 glycosites
+sp|Q68J47|OPSD_LOXAF: 3 glycosites
+sp|P01955|HBA_LOXAF: 1 glycosites
+sp|P02085|HBB_LOXAF: 1 glycosites
+sp|Q45XH8|HBG_LOXAF: 1 glycosites
+sp|Q45XJ0|HBD_LOXAF: 1 glycosites
+sp|Q9TA27|COX1_LOXAF: 5 glycosites
+sp|P24958|CYB_LOXAF: 2 glycosites
+sp|Q108T9|CTTB2_LOXAF: 15 glycosites
+sp|Q108U1|ASZ1_LOXAF: 2 glycosites
+sp|Q2I3F2|NU4M_LOXAF: 4 glycosites
+sp|Q2I3F4|NU3M_LOXAF: 2 glycosites
+sp|Q2I3F5|COX3_LOXAF: 1 glycosites
+sp|Q9TA19|NU5M_LOXAF: 6 glycosites
+sp|Q9TA21|NU4LM_LOXAF: 2 glycosites
+sp|Q9TA24|ATP6_LOXAF: 2 glycosites
+sp|Q9TA26|COX2_LOXAF: 2 glycosites
+sp|Q9TA28|NU2M_LOXAF: 4 glycosites
+sp|Q9TA29|NU1M_LOXAF: 2 glycosites
+sp|Q108U3|ST7_LOXAF: 5 glycosites
+sp|Q108U9|TES_LOXAF: 2 glycosites

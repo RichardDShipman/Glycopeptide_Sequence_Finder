@@ -1,0 +1,16 @@
+Glycosite Summary for blacktruffle_uniprotkb_proteome_UP000006911_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 24
+Total Proteins with Glycosites: 10
+
+Glycosites per Protein:
+sp|D5GCI8|ITPA_TUBMM: 1 glycosites
+sp|D5G4B1|KEX1_TUBMM: 3 glycosites
+sp|D5GE59|MTND_TUBMM: 1 glycosites
+sp|D5GFR0|MTAP_TUBMM: 1 glycosites
+sp|D5GI81|PFF1_TUBMM: 4 glycosites
+sp|D5GM60|DAPB_TUBMM: 4 glycosites
+sp|D5GN29|TRM5_TUBMM: 2 glycosites
+sp|D5GA77|RRP36_TUBMM: 2 glycosites
+sp|D5GAC6|AMPP1_TUBMM: 3 glycosites
+sp|D5GHP2|AMPP2_TUBMM: 3 glycosites

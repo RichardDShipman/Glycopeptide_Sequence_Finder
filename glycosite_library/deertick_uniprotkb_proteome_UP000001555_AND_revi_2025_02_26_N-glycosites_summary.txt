@@ -1,0 +1,33 @@
+Glycosite Summary for deertick_uniprotkb_proteome_UP000001555_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 45
+Total Proteins with Glycosites: 27
+
+Glycosites per Protein:
+sp|B7QK46|QPCT_IXOSC: 2 glycosites
+sp|B7PS00|LIS1_IXOSC: 1 glycosites
+sp|B7PXE3|SPAST_IXOSC: 3 glycosites
+sp|F6KSY1|TSLPI_IXOSC: 2 glycosites
+sp|Q202J4|DTSPH_IXOSC: 2 glycosites
+sp|Q95WY7|SP14_IXOSC: 3 glycosites
+sp|Q95WZ4|SP15_IXOSC: 3 glycosites
+sp|Q964Q0|IXOSP_IXOSC: 3 glycosites
+sp|B7P877|NCBP2_IXOSC: 2 glycosites
+sp|B7PDC5|GATA_IXOSC: 2 glycosites
+sp|B7PP17|DRE2_IXOSC: 1 glycosites
+sp|Q4PMS3|XNXN_IXOSC: 1 glycosites
+sp|Q4PN35|ISTX_IXOSC: 1 glycosites
+sp|Q8MUP7|SP9_IXOSC: 2 glycosites
+sp|B7Q052|IXOP_IXOSC: 1 glycosites
+sp|B7Q1Q9|T2AG_IXOSC: 1 glycosites
+sp|B7Q5K1|QTRT2_IXOSC: 2 glycosites
+sp|B7QDG3|NNRE_IXOSC: 1 glycosites
+sp|F6KSY2|SP23_IXOSC: 4 glycosites
+sp|Q4PLZ3|TCTP_IXOSC: 1 glycosites
+sp|Q4PM31|RS3A_IXOSC: 1 glycosites
+sp|Q4PM54|RL17_IXOSC: 1 glycosites
+sp|Q4PMB3|RS4_IXOSC: 1 glycosites
+sp|Q4PMC9|PNO1_IXOSC: 1 glycosites
+sp|Q4PMD1|RL38_IXOSC: 1 glycosites
+sp|Q4PMW1|IXO39_IXOSC: 1 glycosites
+sp|Q4PMX3|IXOL_IXOSC: 1 glycosites

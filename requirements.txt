@@ -1,0 +1,4 @@
+Bio==1.7.1
+biopython==1.84
+pandas==2.2.3
+pyteomics==4.7.5

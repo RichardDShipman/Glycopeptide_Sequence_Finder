@@ -1,0 +1,20 @@
+Glycosite Summary for peach_uniprotkb_taxonomy_id_3760_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 29
+Total Proteins with Glycosites: 14
+
+Glycosites per Protein:
+sp|Q43062|PME_PRUPE: 9 glycosites
+sp|A0A251PW43|DRO1_PRUPE: 1 glycosites
+sp|O04011|ABP20_PRUPE: 1 glycosites
+sp|O04012|AB19B_PRUPE: 1 glycosites
+sp|P48979|PGLR_PRUPE: 1 glycosites
+sp|P52408|E13B_PRUPE: 1 glycosites
+sp|Q9M7M1|ETR1_PRUPE: 2 glycosites
+sp|Q9SM64|SODM_PRUPE: 1 glycosites
+sp|Q9ZRA4|AB19A_PRUPE: 1 glycosites
+sp|O64982|PRS7_PRUPE: 2 glycosites
+sp|P38534|GUNX_PRUPE: 1 glycosites
+sp|P83335|TLP2_PRUPE: 1 glycosites
+sp|P83344|XYNB_PRUPE: 1 glycosites
+sp|Q8WJP1|MATK_PRUPE: 6 glycosites

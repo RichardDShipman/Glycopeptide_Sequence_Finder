@@ -1,0 +1,12 @@
+Glycosite Summary for softshellturtle_uniprotkb_proteome_UP000007267_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 31
+Total Proteins with Glycosites: 6
+
+Glycosites per Protein:
+sp|K7FQW8|SCNNB_PELSI: 10 glycosites
+sp|Q5R2J2|G3P_PELSI: 2 glycosites
+sp|K7FSQ4|SCNNG_PELSI: 7 glycosites
+sp|K7GET2|SCNNA_PELSI: 6 glycosites
+sp|P55026|TYRO_PELSI: 3 glycosites
+sp|Q5R2J4|APCD1_PELSI: 3 glycosites

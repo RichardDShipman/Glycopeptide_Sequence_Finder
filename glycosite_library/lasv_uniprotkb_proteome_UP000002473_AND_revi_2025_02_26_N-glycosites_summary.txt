@@ -1,0 +1,9 @@
+Glycosite Summary for lasv_uniprotkb_proteome_UP000002473_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 27
+Total Proteins with Glycosites: 3
+
+Glycosites per Protein:
+sp|P08669|GLYC_LASSJ: 11 glycosites
+sp|P13699|NCAP_LASSJ: 6 glycosites
+sp|O09705|L_LASSJ: 10 glycosites

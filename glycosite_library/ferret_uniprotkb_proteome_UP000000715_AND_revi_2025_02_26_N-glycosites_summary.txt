@@ -1,0 +1,30 @@
+Glycosite Summary for ferret_uniprotkb_proteome_UP000000715_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 106
+Total Proteins with Glycosites: 24
+
+Glycosites per Protein:
+sp|A3FKF7|G3P_MUSPF: 2 glycosites
+sp|P79197|KCNA5_MUSPF: 3 glycosites
+sp|Q07E16|CFTR_MUSPF: 13 glycosites
+sp|Q07E18|WNT2_MUSPF: 1 glycosites
+sp|Q07E24|MET_MUSPF: 17 glycosites
+sp|Q28527|KCNA4_MUSPF: 3 glycosites
+sp|Q38HS2|TGFB1_MUSPF: 3 glycosites
+sp|Q38L25|TGFB2_MUSPF: 3 glycosites
+sp|Q6QT07|BCDO2_MUSPF: 3 glycosites
+sp|Q6TLI9|DRD2_MUSPF: 6 glycosites
+sp|Q8HYZ1|KCND2_MUSPF: 3 glycosites
+sp|A4UYK8|IL1B_MUSPF: 4 glycosites
+sp|A5A4L1|GHSR_MUSPF: 4 glycosites
+sp|P52114|PRIO_MUSPF: 2 glycosites
+sp|Q19AE6|ACHA4_MUSPF: 3 glycosites
+sp|Q6TLJ0|DRD4_MUSPF: 1 glycosites
+sp|A4PIZ9|IFNG_MUSPF: 3 glycosites
+sp|M3XWH1|FCG3A_MUSPF: 4 glycosites
+sp|Q07E15|CTTB2_MUSPF: 12 glycosites
+sp|Q07E17|ASZ1_MUSPF: 3 glycosites
+sp|Q07E27|TES_MUSPF: 2 glycosites
+sp|Q76MX5|CYB_MUSPF: 2 glycosites
+sp|Q9GK38|CNN1_MUSPF: 3 glycosites
+sp|M3XQV7|BTBD3_MUSPF: 6 glycosites

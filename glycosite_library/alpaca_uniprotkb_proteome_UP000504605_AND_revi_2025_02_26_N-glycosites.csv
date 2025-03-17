@@ -1,0 +1,6 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|P68228|HBB_VICPA,3,NLS,Vicugna pacos,30538,HBB
+sp|P67816|HBA_VICPA,131,NVS,Vicugna pacos,30538,HBA
+sp|Q1WBV0|RL34_VICPA,18,NKT,Vicugna pacos,30538,RPL34
+sp|Q34916|CYB_VICPA,26,NIS,Vicugna pacos,30538,MT-CYB
+sp|Q34916|CYB_VICPA,255,NYT,Vicugna pacos,30538,MT-CYB

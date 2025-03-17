@@ -1,0 +1,27 @@
+Glycosite Summary for starfish_uniprotkb_taxonomy_id_7594_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 99
+Total Proteins with Glycosites: 21
+
+Glycosites per Protein:
+sp|D7UQM5|AURK_PATPE: 1 glycosites
+sp|Q9GRC0|MOS_PATPE: 1 glycosites
+sp|Q9NLA3|ANO39_PATPE: 3 glycosites
+sp|P30676|GNAI_PATPE: 1 glycosites
+sp|F7J220|SRCR1_PATPE: 13 glycosites
+sp|P11993|NU5M_PATPE: 11 glycosites
+sp|P18063|CCNB_PATPE: 1 glycosites
+sp|Q33818|CYB_PATPE: 4 glycosites
+sp|Q33820|COX1_PATPE: 4 glycosites
+sp|Q33822|ATP8_PATPE: 5 glycosites
+sp|Q37411|COX2_PATPE: 3 glycosites
+sp|Q8WSR4|ITPR_PATPE: 19 glycosites
+sp|Q9NL40|TBR1_PATPE: 8 glycosites
+sp|Q9U903|TBXT_PATPE: 4 glycosites
+sp|E2RYF8|TPX2_PATPE: 4 glycosites
+sp|P11992|NU4M_PATPE: 5 glycosites
+sp|P23650|NU1M_PATPE: 3 glycosites
+sp|Q33819|NU2M_PATPE: 5 glycosites
+sp|Q33821|NU4LM_PATPE: 1 glycosites
+sp|Q33823|ATP6_PATPE: 2 glycosites
+sp|Q33824|COX3_PATPE: 1 glycosites

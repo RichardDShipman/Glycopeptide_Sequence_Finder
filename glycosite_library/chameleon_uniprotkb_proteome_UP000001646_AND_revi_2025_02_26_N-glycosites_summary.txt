@@ -1,0 +1,12 @@
+Glycosite Summary for chameleon_uniprotkb_proteome_UP000001646_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 23
+Total Proteins with Glycosites: 6
+
+Glycosites per Protein:
+sp|P0C598|DUS29_ANOCA: 5 glycosites
+sp|H9GBX2|SCNNA_ANOCA: 8 glycosites
+sp|P41591|OPSD_ANOCA: 3 glycosites
+sp|P41592|OPSR_ANOCA: 3 glycosites
+sp|P51471|OPSB_ANOCA: 3 glycosites
+sp|Q9YHT3|ESR1_ANOCA: 1 glycosites

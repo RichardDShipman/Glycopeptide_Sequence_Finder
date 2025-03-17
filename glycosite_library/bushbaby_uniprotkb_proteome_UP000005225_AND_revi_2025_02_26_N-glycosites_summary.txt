@@ -1,0 +1,23 @@
+Glycosite Summary for bushbaby_uniprotkb_proteome_UP000005225_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 82
+Total Proteins with Glycosites: 17
+
+Glycosites per Protein:
+sp|A4K2Q5|STK4_OTOGA: 3 glycosites
+sp|B4USZ0|CADH2_OTOGA: 9 glycosites
+sp|B4UT09|PI4KB_OTOGA: 3 glycosites
+sp|Q2QLH0|CFTR_OTOGA: 13 glycosites
+sp|Q2QLH2|WNT2_OTOGA: 1 glycosites
+sp|Q2QLH6|MET_OTOGA: 17 glycosites
+sp|B4USW8|KATL1_OTOGA: 1 glycosites
+sp|B5FW36|SETD3_OTOGA: 4 glycosites
+sp|B5FW69|SEPT8_OTOGA: 1 glycosites
+sp|B5SNH4|MS18A_OTOGA: 2 glycosites
+sp|A4K2Q6|KCNS1_OTOGA: 3 glycosites
+sp|Q2QLG9|CTTB2_OTOGA: 12 glycosites
+sp|Q2QLH1|ASZ1_OTOGA: 3 glycosites
+sp|Q9G9J4|CYB_OTOGA: 3 glycosites
+sp|A4K2Q7|WFDC5_OTOGA: 1 glycosites
+sp|B4USX2|SPB10_OTOGA: 3 glycosites
+sp|Q2QLH9|TES_OTOGA: 3 glycosites

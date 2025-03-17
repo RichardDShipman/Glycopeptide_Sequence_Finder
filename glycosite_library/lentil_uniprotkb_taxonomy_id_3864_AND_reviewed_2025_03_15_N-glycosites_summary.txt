@@ -1,0 +1,18 @@
+Glycosite Summary for lentil_uniprotkb_taxonomy_id_3864_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 27
+Total Proteins with Glycosites: 12
+
+Glycosites per Protein:
+sp|P02870|LEC_LENCU: 2 glycosites
+sp|P38414|LOX1_LENCU: 6 glycosites
+sp|P49252|AMO_LENCU: 4 glycosites
+sp|A0AT29|NLTP2_LENCU: 1 glycosites
+sp|A0AT33|NLTP4_LENCU: 1 glycosites
+sp|B3F051|DEF_LENCC: 1 glycosites
+sp|P86782|ALB2_LENCU: 1 glycosites
+sp|A0AT31|NLTP5_LENCU: 1 glycosites
+sp|A0AT32|NLTP6_LENCU: 1 glycosites
+sp|Q8MCR6|MATK_LENCU: 5 glycosites
+sp|Q8VXF2|LEC_LENCT: 2 glycosites
+sp|Q93WH6|LEC_LENCC: 2 glycosites

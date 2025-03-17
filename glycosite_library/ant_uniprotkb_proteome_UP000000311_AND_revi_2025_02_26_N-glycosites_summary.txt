@@ -1,0 +1,11 @@
+Glycosite Summary for ant_uniprotkb_proteome_UP000000311_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 9
+Total Proteins with Glycosites: 5
+
+Glycosites per Protein:
+sp|E2AB17|F175B_CAMFO: 4 glycosites
+sp|E2AIS8|TACHY_CAMFO: 1 glycosites
+sp|E1ZXU8|NPLP1_CAMFO: 2 glycosites
+sp|E2AJ76|SNPF_CAMFO: 1 glycosites
+sp|E2ASG4|FAR_CAMFO: 1 glycosites

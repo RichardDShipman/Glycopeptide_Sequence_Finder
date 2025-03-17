@@ -1,0 +1,12 @@
+Glycosite Summary for camel_uniprotkb_proteome_UP000694950_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 26
+Total Proteins with Glycosites: 6
+
+Glycosites per Protein:
+sp|A5Z1X6|ITB1_CAMBA: 13 glycosites
+sp|P63105|HBA_CAMBA: 1 glycosites
+sp|Q34028|CYB_CAMBA: 2 glycosites
+sp|Q865W6|IFNG_CAMBA: 3 glycosites
+sp|Q2PE47|IL2_CAMBA: 1 glycosites
+sp|Q865W5|IL13_CAMBA: 6 glycosites

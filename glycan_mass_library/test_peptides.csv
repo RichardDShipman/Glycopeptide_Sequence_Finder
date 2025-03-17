@@ -1,0 +1,2 @@
+ProteinID,Site,Peptide,Start,End,Length,Sequon,PredictedMass,Hydrophobicity,pI,Protease,GlycosylationType,MissedCleavages,Species,TaxonID,GeneName,ProteinEvidence,SequenceVersion
+P12345,1,MKWVTFISLLFLFSSAYSR,1,20,20,N/A,2376.27,1.18,9.88,trypsin,N,0,Homo sapiens,9606,ALB,1,1

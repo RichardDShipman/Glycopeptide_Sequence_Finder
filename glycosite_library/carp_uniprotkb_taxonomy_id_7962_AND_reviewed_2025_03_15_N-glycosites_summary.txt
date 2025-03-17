@@ -1,0 +1,51 @@
+Glycosite Summary for carp_uniprotkb_taxonomy_id_7962_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 140
+Total Proteins with Glycosites: 45
+
+Glycosites per Protein:
+sp|P01235|GTHB2_CYPCA: 1 glycosites
+sp|P02139|HBB_CYPCA: 1 glycosites
+sp|Q90336|MK14A_CYPCA: 4 glycosites
+sp|Q9I958|MK14B_CYPCA: 3 glycosites
+sp|O42099|MK08B_CYPCA: 3 glycosites
+sp|P00026|CYC_CYPCA: 1 glycosites
+sp|P01221|GLHA1_CYPCA: 2 glycosites
+sp|P10298|SOMA_CYPCA: 2 glycosites
+sp|P22316|CAC1S_CYPCA: 13 glycosites
+sp|P24985|COX1_CYPCA: 4 glycosites
+sp|P51488|OPSD_CYPCA: 3 glycosites
+sp|P53479|ACTS_CYPCA: 1 glycosites
+sp|Q09178|JAK1_CYPCA: 5 glycosites
+sp|Q90327|MK08A_CYPCA: 3 glycosites
+sp|Q90339|MYSS_CYPCA: 9 glycosites
+sp|Q9IBD8|PTPRC_CYPCA: 27 glycosites
+sp|Q9W725|UCP2_CYPCA: 2 glycosites
+sp|O13050|GTHB1_CYPCA: 1 glycosites
+sp|O13082|COX6A_CYPCA: 1 glycosites
+sp|O93474|NTF7_CYPCA: 1 glycosites
+sp|P09227|PRVA_CYPCA: 1 glycosites
+sp|P09585|PRL_CYPCA: 1 glycosites
+sp|P18857|GLHA2_CYPCA: 2 glycosites
+sp|P24946|ATP6_CYPCA: 1 glycosites
+sp|P24951|CYB_CYPCA: 3 glycosites
+sp|P24969|NU1M_CYPCA: 1 glycosites
+sp|P24972|NU2M_CYPCA: 2 glycosites
+sp|P24979|NU5M_CYPCA: 3 glycosites
+sp|P24987|COX2_CYPCA: 2 glycosites
+sp|P38528|EPD_CYPCA: 2 glycosites
+sp|P68512|FEL_CYPCA: 1 glycosites
+sp|P79703|JUNB_CYPCA: 2 glycosites
+sp|P83750|ACTB_CYPCA: 1 glycosites
+sp|Q90322|BDNF_CYPCA: 1 glycosites
+sp|Q90325|IGF1A_CYPCA: 1 glycosites
+sp|Q90326|IGF1B_CYPCA: 1 glycosites
+sp|Q90341|MYC1_CYPCA: 4 glycosites
+sp|Q90342|MYC2_CYPCA: 4 glycosites
+sp|Q92038|ACOD_CYPCA: 2 glycosites
+sp|Q92155|VIME_CYPCA: 7 glycosites
+sp|Q9PTQ2|TGFB1_CYPCA: 4 glycosites
+sp|Q9YH38|RASK_CYPCA: 1 glycosites
+sp|P32759|A1AT_CYPCA: 2 glycosites
+sp|P79702|FOS_CYPCA: 1 glycosites
+sp|Q90346|HXB1_CYPCA: 3 glycosites

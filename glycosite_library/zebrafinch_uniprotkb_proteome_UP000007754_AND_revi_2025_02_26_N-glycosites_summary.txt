@@ -1,0 +1,27 @@
+Glycosite Summary for zebrafinch_uniprotkb_proteome_UP000007754_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 29
+Total Proteins with Glycosites: 21
+
+Glycosites per Protein:
+sp|B5FXE5|FSP1_TAEGU: 1 glycosites
+sp|B5FYQ0|ARL3_TAEGU: 1 glycosites
+sp|B5FZY7|IF4A3_TAEGU: 1 glycosites
+sp|H0ZAB5|GALT3_TAEGU: 1 glycosites
+sp|O73693|EGR1_TAEGU: 2 glycosites
+sp|P56971|CNR1_TAEGU: 3 glycosites
+sp|Q92112|CP19A_TAEGU: 2 glycosites
+sp|Q91250|ESR1_TAEGU: 2 glycosites
+sp|Q9I8W8|AL1A2_TAEGU: 2 glycosites
+sp|B5FXN8|THOC4_TAEGU: 1 glycosites
+sp|B5FXZ4|MZT1_TAEGU: 1 glycosites
+sp|B5FY35|EIF3H_TAEGU: 1 glycosites
+sp|B5G0G8|LTOR3_TAEGU: 1 glycosites
+sp|B5G1P1|IFT43_TAEGU: 1 glycosites
+sp|B5G279|NCBP2_TAEGU: 2 glycosites
+sp|B5KFI0|GET4_TAEGU: 2 glycosites
+sp|B5KFM4|SOSSC_TAEGU: 1 glycosites
+sp|B5FX56|MIX23_TAEGU: 1 glycosites
+sp|B5FXC9|SMCO4_TAEGU: 1 glycosites
+sp|B5G2S6|KISHA_TAEGU: 1 glycosites
+sp|B5FYC7|LYRM1_TAEGU: 1 glycosites

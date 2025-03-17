@@ -1,0 +1,33 @@
+Glycosite Summary for spikemoss_uniprotkb_proteome_UP000001514_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 56
+Total Proteins with Glycosites: 27
+
+Glycosites per Protein:
+sp|D8QTR2|MGH1_SELML: 1 glycosites
+sp|G9MAN7|TPS4_SELML: 6 glycosites
+sp|D8S5L4|MGS_SELML: 3 glycosites
+sp|D8RNZ9|MTS22_SELML: 1 glycosites
+sp|D8T3S4|MGH2_SELML: 1 glycosites
+sp|G1DGI7|TPS7_SELML: 2 glycosites
+sp|J9QS23|TPS9_SELML: 2 glycosites
+sp|J9QS25|MTS26_SELML: 2 glycosites
+sp|J9R388|TPS10_SELML: 2 glycosites
+sp|D8QNV6|CSPL5_SELML: 2 glycosites
+sp|D8QQW9|CSPLB_SELML: 1 glycosites
+sp|D8R814|CSPLA_SELML: 1 glycosites
+sp|D8S255|MTS30_SELML: 3 glycosites
+sp|D8SJ65|CSPL4_SELML: 2 glycosites
+sp|D8ST12|CSPL3_SELML: 1 glycosites
+sp|D8T2C0|CSPL1_SELML: 1 glycosites
+sp|D8T829|CSPL2_SELML: 1 glycosites
+sp|D8TFA8|LMBD3_SELML: 1 glycosites
+sp|P0DH61|CSPL6_SELML: 1 glycosites
+sp|P0DH62|Y4407_SELML: 6 glycosites
+sp|P0DH63|CSPL7_SELML: 1 glycosites
+sp|P0DH64|Y4891_SELML: 6 glycosites
+sp|P0DH65|CSPL8_SELML: 3 glycosites
+sp|P0DH66|Y3925_SELML: 1 glycosites
+sp|P0DH67|CSPL9_SELML: 3 glycosites
+sp|P0DH68|Y3132_SELML: 1 glycosites
+sp|D8TFB0|LMBD1_SELML: 1 glycosites

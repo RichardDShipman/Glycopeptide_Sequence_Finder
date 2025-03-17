@@ -1,0 +1,17 @@
+Glycosite Summary for rvb_uniprotkb_proteome_UP000114294_2025_03_14
+Glycosylation Type: N
+Total Glycosites Found: 47
+Total Proteins with Glycosites: 11
+
+Glycosites per Protein:
+tr|D6NGG2|D6NGG2_ROTGA: 1 glycosites
+tr|D6NGG4|D6NGG4_ROTGA: 1 glycosites
+tr|Q6XD85|Q6XD85_ROTGA: 3 glycosites
+tr|D6NGF4|D6NGF4_ROTGA: 6 glycosites
+tr|D6NGF5|D6NGF5_ROTGA: 6 glycosites
+tr|D6NGF7|D6NGF7_ROTGA: 9 glycosites
+tr|D6NGF9|D6NGF9_ROTGA: 2 glycosites
+tr|D6NGG3|D6NGG3_ROTGA: 4 glycosites
+tr|B6RUN8|B6RUN8_ROTGA: 6 glycosites
+tr|D6NGG0|D6NGG0_ROTGA: 1 glycosites
+tr|D6NGG1|D6NGG1_ROTGA: 8 glycosites

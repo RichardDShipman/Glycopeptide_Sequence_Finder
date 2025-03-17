@@ -1,0 +1,9 @@
+Glycosite Summary for hrsvs2_uniprotkb_proteome_UP000113393_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 5
+Total Proteins with Glycosites: 3
+
+Glycosites per Protein:
+sp|P0DOE4|SH_HRSS2: 2 glycosites
+sp|P0DOE6|MATRX_HRSS2: 2 glycosites
+sp|P0DOE8|NS1_HRSS2: 1 glycosites

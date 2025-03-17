@@ -1,0 +1,13 @@
+Glycosite Summary for cuttlefish_uniprotkb_taxonomy_id_6610_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 11
+Total Proteins with Glycosites: 7
+
+Glycosites per Protein:
+sp|P91889|FMRF_SEPOF: 1 glycosites
+sp|P56825|HCYE_SEPOF: 1 glycosites
+sp|P56826|HCYG_SEPOF: 2 glycosites
+sp|O16005|OPSD_SEPOF: 2 glycosites
+sp|P80001|PRT1_SEPOF: 1 glycosites
+sp|P80002|PRT2_SEPOF: 1 glycosites
+sp|Q8WEW3|COX1_SEPOF: 3 glycosites

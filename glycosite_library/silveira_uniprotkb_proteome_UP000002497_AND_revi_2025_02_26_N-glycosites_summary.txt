@@ -1,0 +1,25 @@
+Glycosite Summary for silveira_uniprotkb_proteome_UP000002497_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 44
+Total Proteins with Glycosites: 19
+
+Glycosites per Protein:
+sp|P0CB51|CHI1_COCPS: 1 glycosites
+sp|E9CXX8|MNS1B_COCPS: 2 glycosites
+sp|E9CS37|KEX1_COCPS: 4 glycosites
+sp|E9CUF4|DAPB_COCPS: 5 glycosites
+sp|E9CV02|DPEP2_COCPS: 1 glycosites
+sp|E9CWP5|HPPD_COCPS: 2 glycosites
+sp|E9CXH2|SEC11_COCPS: 2 glycosites
+sp|E9CZZ9|PFF1_COCPS: 6 glycosites
+sp|E9DBV9|LAP1_COCPS: 1 glycosites
+sp|E9DD69|ECM14_COCPS: 3 glycosites
+sp|E9DFH0|HEX1_COCPS: 1 glycosites
+sp|Q4VWW3|PYRF_COCPS: 1 glycosites
+sp|E9CTR7|AMPP1_COCPS: 1 glycosites
+sp|E9CY14|AMPP2_COCPS: 2 glycosites
+sp|E9D0S5|STS1_COCPS: 6 glycosites
+sp|E9D269|DPEP1_COCPS: 2 glycosites
+sp|E9D2Q2|WAPP_COCPS: 2 glycosites
+sp|E9DDK8|AMPP3_COCPS: 1 glycosites
+sp|E9DG92|P20D1_COCPS: 1 glycosites

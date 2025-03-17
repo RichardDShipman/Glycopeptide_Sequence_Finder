@@ -1,0 +1,20 @@
+Glycosite Summary for lobster_uniprotkb_taxonomy_id_6706_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 29
+Total Proteins with Glycosites: 14
+
+Glycosites per Protein:
+sp|P00357|G3P_HOMAM: 2 glycosites
+sp|O16118|GNAS_HOMAM: 1 glycosites
+sp|P41776|GNAI_HOMAM: 4 glycosites
+sp|Q25008|TBA1_HOMAM: 1 glycosites
+sp|Q94570|TBA2_HOMAM: 2 glycosites
+sp|Q94572|TBA3_HOMAM: 1 glycosites
+sp|O44119|TPM_HOMAM: 1 glycosites
+sp|P25784|CYSP3_HOMAM: 1 glycosites
+sp|P91950|GNAQ_HOMAM: 1 glycosites
+sp|Q25009|TBB1_HOMAM: 3 glycosites
+sp|Q27319|GELS_HOMAM: 1 glycosites
+sp|Q6KF81|PHCY2_HOMAM: 4 glycosites
+sp|Q6KF82|PHCY1_HOMAM: 4 glycosites
+sp|Q94571|TBB2_HOMAM: 3 glycosites

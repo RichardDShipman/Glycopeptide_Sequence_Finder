@@ -1,0 +1,8 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|P48683|RBL_ANACO,241,NAT,Ananas comosus,4615,rbcL
+sp|P48683|RBL_ANACO,277,NTS,Ananas comosus,4615,rbcL
+sp|O23791|BROM1_ANACO,119,NIS,,,
+sp|Q67IL7|NU2C_ANACO,477,NNS,Ananas comosus,4615,ndhB
+sp|P14518|BROM2_ANACO,117,NES,,,
+sp|Q67HN6|PSBL_ANACO,14,NRT,Ananas comosus,4615,psbL
+sp|Q9SQL5|SODC_ANACO,85,NVT,Ananas comosus,4615,SOD1
