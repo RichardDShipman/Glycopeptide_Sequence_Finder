@@ -44,7 +44,7 @@ glycosylation = {
     "C-Mannose-1": ("W..W..W"),  # W-X-X-W-X-X-W
     "C-Mannose-2": ("W..W..W..C"),  # W-X-X-W-X-X-W-X-X-C
     "C-Mannose-3": ("W..[WC]"),  # W-X-X-W or W-X-X-C
-    "N-Glycan": ("N.[ST]"),  # N-X-S/T
+    "N-Glycan": ("N[^P][STC]"),  # Extended N-X-S/T/C
     "O-Fucose-1": ("C....[ST]C"),  # C-X-X-X-X-S/T-C
     "O-Fucose-2": ("C..[ST]C"),  # C-X-X-S/T-C
     "O-Fucose-3": ("C..[ST]C..G"),  # C-X-X-S/T-C-X-X-G
@@ -52,10 +52,13 @@ glycosylation = {
     "O-Glucose-1": ("C.NT.GS[FY].C"),  # C-X-N-T-X-G-S-(F/Y)-X-C (corrected from previous entry)
     "O-Glucose-2": ("C.S.[PA]C"),  # C-X-S-X-P/A-C
 
-    # mutation glycosylation
-    "type-a": ("[^N][^P][ST]"),  # N-glycosylation mutation at first position
-    "type-b": ("NP[ST]"),  # N-glycosylation mutation at second pos
-    "type-c": ("[^N][^P][^S^T]"),  # N-glycosylation mutation at third pos
+    # mutation glycosylation site motifs
+    "type-a-mutation": ("[^N][^P][ST]"),  # N-glycosylation mutation at first position
+    "type-b-mutation": ("NP[ST]"),  # N-glycosylation mutation at second pos
+    "type-c-mutation": ("N[^P][^S^T]"),  # N-glycosylation mutation at third pos
+    "type-a-extended-mutation": ("[^N][^P][STC]"),  # N-glycosylation mutation at first position
+    "type-b-extended-mutation": ("NP[STC]"),  # N-glycosylation mutation at second pos
+    "type-c-extended-mutation": ("N[^P][^S^T^C]"),  # N-glycosylation mutation at third pos extended to include C
 
 }
 
