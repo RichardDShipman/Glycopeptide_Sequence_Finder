@@ -45,6 +45,7 @@ For ease of experimentation and reproducibility, all data used in the calculatio
 - [Log File Details](#log-file)
 - [Test Proteomes List](#test-proteomes)
 - [Glycan Mass Library](#glycan-mass-library)
+- [Test Proteomes](#test-proteomes)
 
 ## Features
 
@@ -296,47 +297,6 @@ G31852PQ,HexNAc(2)Hex(7) % 1540.528510,HexNAc(2)Hex(7),N2H7,NNHHHHHHH,HexNAc(2)H
 G41247ZX,HexNAc(2)Hex(6) % 1378.475686,HexNAc(2)Hex(6),N2H6,NNHHHHHH,HexNAc(2)Hex(6),1378.475686
 ```
 
-## Glycan Hydrophobicity Ranking
-
-This script ranks glycans based on their adjusted hydrophobicity factor (HF). The analysis removes the peptide effect, computes a weighted HF score considering glycan frequency, and normalizes the adjusted HF values using Z-scores. The glycans are then ranked by their weighted adjusted HF. Note, more glycopeptide data is needed for this to hold any value, work in progress.
-
-### Functions:
-
-- `compute_adjusted_hf(df)`: Adjusts HF by removing the peptide effect.
-- `compute_weighted_adjusted_hf(df)`: Normalizes the adjusted HF and computes a weighted HF based on glycan frequency.
-- `count_glycan_frequency(df)`: Counts the frequency of each glycan in the dataset.
-- `rank_glycans_by_hydrophobicity(input_csv, output_csv)`: Main function that processes the input CSV, computes the adjusted HF, and outputs the glycan ranking by hydrophobicity.
-
-```sh
-python script.py -i input_file.csv -o output_file.csv
-```
-
-Arguments:
-- `-i`, `--input`: Input CSV file path (required).
-- `-o`, `--output`: Output CSV file path (optional, defaults to `<input_file>_glycan_hydrophobicity_index.csv`).
-
-The output CSV will contain glycans ranked by their weighted adjusted HF score.
-
-## Glycopeptide Hydrophobicity Calculation
-
-This script calculates hydrophobicity scores for glycopeptides based on peptide hydrophobicity and glycan composition. It takes as input a glycopeptide data file and a glycan hydrophobicity data file, then outputs the results to a CSV file. Note, more glycopeptide data is needed for this to hold any value, work in progress.
-
-Usage
-
-```sh
-python script.py -i <glycopeptide_file> -gh <glycan_hf_file> -o <output_file>
-```
-
-Arguments:
-- `-i`: Input file containing glycopeptide data (CSV).
-- `-gh`: Input file containing glycan hydrophobicity data (CSV, optional if default is used).
-- `-o`: Output file name (optional, defaults to `<input_file_name>_HF.csv`).
-
-Workflow
-	1.	Load glycopeptide and glycan hydrophobicity data.
-	2.	Calculate hydrophobicity scores for each glycopeptide.
-	3.	Save the results to a CSV file.
-
 # Batch Processing Scripts
 
 Shell scripts for batch processing.
@@ -468,111 +428,6 @@ python encode_glycopeptides.py -i input.csv -o output.csv -d encoding_definition
 
 ```CSV
 ProteinID,Site,GlyToucan_AC,Composition,ShorthandGlycan,Peptide,Start,End,Length,Sequon,GlycopeptideMass,PeptideMass,GlycanMass,Hydrophobicity,pI,z2,Charge,IonSeries,Glycan_Composition_Sequence,One_Hot_Encoding
-# Glycopeptide_Sequence_Finder
-
-17JAN2025 -- Richard Shipman
-
-## Overview
-
-Welcome to the Glycopeptide Sequence Finder!
-
-![MockMassSpectrumOfAN-GlycopeptideFromAPig!](mock_mass_spectra/sp_P01042_KNG1_HUMAN_205_ITYSIVQTNCSK_G62765YT_mock_mass_spectrum.png)
-
-*Example above*: Calculated mass spectrum for glycopeptide Kininogen-1 (P01042) KNG1_HUMAN - ITYSIVQTNCSK - 205 - G62765YT - HexNAc(2)Hex(8) created `plot_mock_mass_spectra.py`. Note: This is a basic N-glycan structure fragment under are minimum sequential fragmentation of Hex(8) down to HexHAc(2) core N-glycan.
-
-**Glycopeptide Sequence Finder** is a Python script that processes protein sequences from a FASTA file to find amino acid sequences which may or may not contain the post-translational modification glycosylation, the attachment of glycans (polysaccharides) to protein sequences. It uses user-specified proteases to digest and cleave protein sequences into amino acid sequences. The script then identifies N-linked glycopeptides using glycosylation sequon (motifs) like the N-sequon “N[^P][STC]” (NX[STC], where X is not P), O-sequon "[S/T"], or C-sequon "W..[WCF]". It calculates the properties of these glycopeptides, including mass, hydrophobicity, and glycosylation sites. Additionally, the script gathers information from the inputted FASTA file to create a predicted digested glycopeptide (peptide sequence backbone) library. The output is written to a CSV file, making it easy to integrate into downstream analyses.
-
-Additionally, a directory containing proteomics related info is stored in a directory titled `digested_peptide_library' for other use cases. This may be expanded in the future for other needs
-
-I am currently developing a basic calculation tool for fragment ions of high mannose N-glycans to simulate the fragmentation behavior of N-glycopeptides under HCD (High-Energy Collisional Dissociation) conditions. That is the image used above of a mock mass spectrum. This tool is designed to provide a fundamental outline of N-glycopeptide fragmentation, focusing on the generation of fragment ions typically observed in mass spectrometry experiments.
-
-As part of the project, I am also integrating a plotting utility that visualizes the calculated mock fragment ion values, allowing for the comparison of the theoretical results against the mass spectrum data. This enables a clearer understanding of how glycopeptides and their glycans fragment during analysis.
-
-For ease of experimentation and reproducibility, all data used in the calculations and plots, including example glycopeptides and their corresponding glycan compositions, are provided in organized folders. This setup allows for quick reference and testing of different theoretical models and fragmentation pathways.
-
-*Note*: This project is for fun and more of an exploration of glycoproteomic space in silico. Who know where this may lead.
-
-# Table of Contents
-
-[Overview](#overview)
-
-[Requirements](#requirements)
-
-[Installation](#installation)
-
-[Usage](#usage)
-
-### Reference Materials
-
-[License](#license)
-
-[Acknowledgments](#acknowledgments)
-
-[Appendix](#appendix)
-    - [Log File Details](#log-file)
-    - [Test Proteomes List](#test-proteomes)
-    - [Glycan Mass Library](#glycan-mass-library)
-
-## Features
-
-1. **Protease-Specific Cleavage:**
-    - Supports several commonly used proteases, including:
-        - **Trypsin:** Cleaves after K or R, except if followed by P.
-        - **Chymotrypsin:** Cleaves after F, W, or Y, except if followed by P.
-        - **Glu-C:** Cleaves after E.
-        - **Lys-C:** Cleaves after K.
-        - **Arg-C:** Cleaves after R.
-        - **Asp-N:** Cleaves before D.
-        - **Pepsin:** Cleaves after F, L, W, or Y.
-        - **Proteinase K:** Cleaves after A, F, I, L, V, W, or Y.
-        - **All:** Runs all proteases above.
-2. **Missed Cleavages:**
-    - Allows specifying the number of missed cleavages to simulate incomplete digestion.
-3. **Glycosylation Type:** 
-    - Select from N-linked (N), O-linked (O), or C-linked (C) glycopeptides. (Adjust or add sequon)
-        - **N-linked:** N-sequon “N[^P][STC]"
-        - **O-linked:** O-sequon “[ST]" 
-        - **C-linked:** C-sequon "W..[WCF]"
-3. **Peptide Property Calculation:**
-    - Calculates peptide mass, hydrophobicity, isoelectric point (pI), charge states m/z values, and N-glycan ion fragmentation series (experimental).
-
-## Requirements
-
-- Python 3.7 or later
-- Libraries:
-    - argparse
-    - csv
-    - re
-    - biopython
-
-## Installation
-
-Install the required Python libraries using pip:
-
-```sh
-pip install argparse biopython pandas
-```
-
-## Usage
-
-Run the script from the command line with the following arguments:
-
-```sh
-python glycopeptide_finder_cmd.py -i <input_fasta> [-o <output_csv>] [-p <protease>] [-g <glycosylation>] [-c <missed_cleavages>] [-l <log.txt>] [-v]
-```
-
-### Arguments
-
-- `-i`, `--input` (required): Path to the input FASTA file.
-- `-o`, `--output` (optional): Path to the output CSV file. If omitted, a default name is generated.
-- `-p`, `--protease` (optional): Protease to use for cleavage. Default is trypsin.
-- `-g`, `--glycosylation` (optional): Glycosylation sequon to find in peptides. Default is N-linked. (N, O, C) Warning when using O or C, experimental.
-- `-c`, `--missed_cleavages` (optional): Number of missed cleavages allowed. Default is 0.
-- `-l log.txt`, `--log log.txt` (optional): Path to the log file. If omitted, logging is disabled.
-- `-v`, `--verbose` (optional): Enable verbose output. Default is False.
-- `-y`, `--glycan`: Path to the glycan file (CSV format) (Default, 4 glycans stored in file). 
-- `-z`, `--charge`: (Optional) Maximum charge state to compute (default: 5).
-- `-m`, `--max_peptide_length`: (Optional) Max peptide length after digestion (default: 50).
 
 ### Example
 
@@ -592,32 +447,6 @@ sp|O95445|APOM_HUMAN,135.0,G22768VO,HexNAc(2)Hex(3),N2H3,TELFSSSCPGGIMLNETGQGYQR
 sp|P00450|CERU_HUMAN,138.0,G22768VO,HexNAc(2)Hex(3),N2H3,EHEGAIYPDNTTDFQR,129.0,144.0,16.0,NTT,3108.2565080000004,1891.8336450000002,1216.422863,-1.51875,3.95,1555.1355300000002,2,"{'b': [130.0499, 267.1088, 396.1514, 453.1728, 524.2099, 637.294, 800.3573, 897.4101, 1012.437, 1126.48, 1227.5276, 1328.5753, 1443.6023, 1590.6707, 1718.7292], 'y': [175.119, 303.1775, 450.2459, 565.2729, 666.3206, 767.3682, 881.4112, 996.4381, 1093.4909, 1256.5542, 1369.6383, 1440.6754, 1497.6968, 1626.7394, 1763.7983], 'c': [147.0764, 284.1353, 413.1779, 470.1993, 541.2364, 654.3205, 817.3838, 914.4366, 1029.4635, 1143.5065, 1244.5541, 1345.6018, 1460.6288, 1607.6972, 1735.7557], 'z': [140.0819, 268.1405, 415.2089, 530.2358, 631.2835, 732.3312, 846.3741, 961.401, 1058.4538, 1221.5171, 1334.6012, 1405.6383, 1462.6598, 1591.7024, 1728.7613], 'Y': {'Y0': 1892.8409, 'Y1': 2095.9203, 'Y2': 2298.9997, 'Y3': 2461.0525, 'Y4': 2623.1053, 'Y5': 2785.1581}, '2Y': {'2Y0': 946.4205, '2Y1': 1047.9602, '2Y2': 1149.4999, '2Y3': 1230.5263, '2Y4': 1311.5527, '2Y5': 1392.5791}, 'B': {'B_HexNAc_1': 204.0867, 'B_HexNAc_2': 407.1661, 'B_Hex_1': 569.2189, 'B_Hex_2': 731.2717, 'B_Hex_3': 893.3245}, 'oxonium': {'ox_HexNAc': 204.0867, 'ox_Hex': 163.0601}}"
 sp|P00450|CERU_HUMAN,227.0,G22768VO,HexNAc(2)Hex(3),N2H3,EFVVMFSVVDENFSWYLEDNIK,216.0,237.0,22.0,NFS,3925.6900780000005,2709.2672150000003,1216.422863,0.14545,3.39,1963.8523150000003,2,"{'b': [130.0499, 277.1183, 376.1867, 475.2551, 606.2956, 753.364, 840.396, 939.4644, 1038.5328, 1153.5598, 1282.6024, 1396.6453, 1543.7137, 1630.7457, 1816.8251, 1979.8884, 2092.9724, 2222.015, 2337.042, 2451.0849, 2564.169], 'y': [147.1128, 260.1969, 374.2398, 489.2667, 618.3093, 731.3934, 894.4567, 1080.536, 1167.5681, 1314.6365, 1428.6794, 1557.722, 1672.7489, 1771.8173, 1870.8857, 1957.9178, 2104.9862, 2236.0267, 2335.0951, 2434.1635, 2581.2319], 'c': [147.0764, 294.1448, 393.2132, 492.2816, 623.3221, 770.3905, 857.4225, 956.4909, 1055.5593, 1170.5863, 1299.6289, 1413.6718, 1560.7402, 1647.7722, 1833.8516, 1996.9149, 2109.9989, 2239.0415, 2354.0685, 2468.1114, 2581.1955], 'z': [112.0757, 225.1598, 339.2027, 454.2297, 583.2723, 696.3563, 859.4196, 1045.499, 1132.531, 1279.5994, 1393.6423, 1522.6849, 1637.7119, 1736.7803, 1835.8487, 1922.8807, 2069.9491, 2200.9896, 2300.058, 2399.1264, 2546.1948], 'Y': {'Y0': 2710.2745, 'Y1': 2913.3539, 'Y2': 3116.4333, 'Y3': 3278.4861, 'Y4': 3440.5389, 'Y5': 3602.5917}, '2Y': {'2Y0': 1355.1372, '2Y1': 1456.6769, '2Y2': 1558.2166, '2Y3': 1639.243, '2Y4': 1720.2694, '2Y5': 1801.2958}, 'B': {'B_HexNAc_1': 204.0867, 'B_HexNAc_2': 407.1661, 'B_Hex_1': 569.2189, 'B_Hex_2': 731.2717, 'B_Hex_3': 893.3245}, 'oxonium': {'ox_HexNAc': 204.0867, 'ox_Hex': 163.0601}}"
 ```
-
-## Protease Rules
-
-The following proteases are supported:
-
-| Protease      | Cleavage Rule                        |
-|---------------|--------------------------------------|
-| Trypsin       | After K or R, not P                  |
-| Chymotrypsin  | After F, W, or Y, not P              |
-| Glu-C         | After E                              |
-| Lys-C         | After K                              |
-| Arg-C         | After R                              |
-| Asp-N         | Before D                             |
-| Pepsin        | After F, L, W, or Y                  |
-| Proteinase K  | After A, F, I, L, V, W, or Y         |
-| All           | Runs all proteases above             |
-
-## Glycosylation Type Rules
-
-The following glycosylation types sequons (motifs) are supported:
-
-| Glycosylation Type | Sequon Pattern |
-|--------------------|----------------|
-| N-linked           | N[^P][STC]     |
-| O-linked           | [ST]           |
-| C-linked           | W..[WCF]       |
 
 ## Glycan Library
 
