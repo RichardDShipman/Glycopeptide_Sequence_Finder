@@ -42,6 +42,7 @@ For ease of experimentation and reproducibility, all data used in the calculatio
 
 [Appendix](#appendix)
 
+- [Batch run](#batch-processing-scripts)
 - [Log File Details](#log-file)
 - [Test Proteomes List](#test-proteomes)
 - [Glycan Mass Library](#glycan-mass-library)
@@ -423,11 +424,6 @@ python encode_glycopeptides.py -i input.csv -o output.csv -d encoding_definition
 - pandas
 - argparse
 - re
-
-## Output
-
-```CSV
-ProteinID,Site,GlyToucan_AC,Composition,ShorthandGlycan,Peptide,Start,End,Length,Sequon,GlycopeptideMass,PeptideMass,GlycanMass,Hydrophobicity,pI,z2,Charge,IonSeries,Glycan_Composition_Sequence,One_Hot_Encoding
 
 ### Example
 
