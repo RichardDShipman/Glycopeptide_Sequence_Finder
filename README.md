@@ -302,10 +302,6 @@ G41247ZX,HexNAc(2)Hex(6) % 1378.475686,HexNAc(2)Hex(6),N2H6,NNHHHHHH,HexNAc(2)He
 
 Shell scripts for batch processing.
 
-## Batch Run for FASTA Processing
-
-batch_glycopeptide_sequence_finder.sh
-
 To process multiple FASTA files in parallel using all proteases, run the following command:
 
 ```sh
