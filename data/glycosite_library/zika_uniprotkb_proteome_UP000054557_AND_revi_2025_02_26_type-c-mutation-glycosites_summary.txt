@@ -1,0 +1,8 @@
+Glycosite Summary for zika_uniprotkb_proteome_UP000054557_AND_revi_2025_02_26
+Glycosylation Type: type-c-mutation
+Total Glycosites Found: 85
+Total Proteins with Glycosites: 2
+
+Glycosites per Protein:
+sp|Q32ZE1|POLG_ZIKV: 81 glycosites
+sp|P0DXN9|UORF_ZIKV: 4 glycosites

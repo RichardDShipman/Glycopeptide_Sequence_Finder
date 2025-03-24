@@ -1,0 +1,7 @@
+Glycosite Summary for phosvitin_uniprotkb_2025_03_20
+Glycosylation Type: N
+Total Glycosites Found: 2
+Total Proteins with Glycosites: 1
+
+Glycosites per Protein:
+sp|P87498|1140-1391: 2 glycosites

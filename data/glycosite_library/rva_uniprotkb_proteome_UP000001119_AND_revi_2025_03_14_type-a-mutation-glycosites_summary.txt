@@ -1,0 +1,18 @@
+Glycosite Summary for rva_uniprotkb_proteome_UP000001119_AND_revi_2025_03_14
+Glycosylation Type: type-a-mutation
+Total Glycosites Found: 590
+Total Proteins with Glycosites: 12
+
+Glycosites per Protein:
+sp|A2T3P0|NSP2_ROTSH: 28 glycosites
+sp|A2T3P5|VP7_ROTSH: 39 glycosites
+sp|A2T3Q9|NSP5_ROTSH: 27 glycosites
+sp|A2T3S5|VP3_ROTSH: 80 glycosites
+sp|A2T3T2|VP4_ROTSH: 99 glycosites
+sp|A2T3Q0|NSP4_ROTSH: 19 glycosites
+sp|A2T3M4|NSP1_ROTSH: 42 glycosites
+sp|A2T3R5|VP2_ROTSH: 69 glycosites
+sp|A2T3S0|RDRP_ROTSH: 112 glycosites
+sp|A2T3T0|VP6_ROTSH: 39 glycosites
+sp|A2T3N5|NSP3_ROTSH: 27 glycosites
+sp|A2T3R0|NSP6_ROTSH: 9 glycosites

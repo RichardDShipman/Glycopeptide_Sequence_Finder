@@ -1,0 +1,43 @@
+Glycosite Summary for turkey_uniprotkb_proteome_UP000001645_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 95
+Total Proteins with Glycosites: 37
+
+Glycosites per Protein:
+sp|O42221|GDF8_MELGA: 1 glycosites
+sp|O57672|G3P_MELGA: 1 glycosites
+sp|O73810|DRD2_MELGA: 4 glycosites
+sp|P07700|ADRB1_MELGA: 1 glycosites
+sp|Q2UVH8|ACRO_MELGA: 2 glycosites
+sp|P00821|ACYP2_MELGA: 1 glycosites
+sp|P13505|CALD1_MELGA: 2 glycosites
+sp|P33396|AGTR1_MELGA: 5 glycosites
+sp|P43141|ADB4C_MELGA: 4 glycosites
+sp|P45645|GNA11_MELGA: 2 glycosites
+sp|P45646|LSHB_MELGA: 1 glycosites
+sp|P49652|P2RY1_MELGA: 4 glycosites
+sp|P68241|GLHA_MELGA: 2 glycosites
+sp|P81024|HBAD_MELGA: 1 glycosites
+sp|P82013|VDAC2_MELGA: 4 glycosites
+sp|Q91085|VIPR_MELGA: 7 glycosites
+sp|Q91090|PON2_MELGA: 5 glycosites
+sp|Q91094|PRLR_MELGA: 12 glycosites
+sp|O57603|IFNG_MELGA: 2 glycosites
+sp|O73860|OVAL_MELGA: 3 glycosites
+sp|O93361|P2RY3_MELGA: 3 glycosites
+sp|P01125|REL_MELGA: 4 glycosites
+sp|P28125|WNT3A_MELGA: 1 glycosites
+sp|P28126|WNT3B_MELGA: 1 glycosites
+sp|P28127|WNT4_MELGA: 1 glycosites
+sp|P28128|WNT5A_MELGA: 2 glycosites
+sp|P28129|WNT7A_MELGA: 1 glycosites
+sp|P28130|WNT7B_MELGA: 1 glycosites
+sp|P37803|CNN1_MELGA: 1 glycosites
+sp|P45644|VIP_MELGA: 1 glycosites
+sp|P50663|CYB_MELGA: 3 glycosites
+sp|P56276|MYLK_MELGA: 1 glycosites
+sp|P68390|IOVO_MELGA: 5 glycosites
+sp|P79800|RASK_MELGA: 1 glycosites
+sp|Q05749|PIT1_MELGA: 2 glycosites
+sp|Q7SIE0|ARLY1_MELGA: 1 glycosites
+sp|P51527|IFNA_MELGA: 2 glycosites

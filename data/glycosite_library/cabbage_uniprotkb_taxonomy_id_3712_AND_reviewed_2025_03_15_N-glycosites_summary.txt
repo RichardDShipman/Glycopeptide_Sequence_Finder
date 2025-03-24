@@ -1,0 +1,55 @@
+Glycosite Summary for cabbage_uniprotkb_taxonomy_id_3712_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 134
+Total Proteins with Glycosites: 49
+
+Glycosites per Protein:
+sp|A2T1U1|ORANG_BRAOB: 2 glycosites
+sp|O49230|ETR1_BRAOL: 1 glycosites
+sp|Q09092|SRK6_BRAOV: 10 glycosites
+sp|Q6YDN9|XTH_BRAOB: 1 glycosites
+sp|A4ZGQ8|HMT1_BRAOT: 1 glycosites
+sp|O47881|GLDH_BRAOL: 1 glycosites
+sp|O82549|PLDA1_BRAOC: 1 glycosites
+sp|P09678|SODC_BRAOC: 1 glycosites
+sp|P48686|RBL_BRAOL: 2 glycosites
+sp|P55939|PLDA2_BRAOC: 3 glycosites
+sp|Q39366|LGUL_BRAOG: 1 glycosites
+sp|Q4VNK0|SMTA_BRAOT: 1 glycosites
+sp|D2K759|ERF1Y_BRAOB: 5 glycosites
+sp|P07761|SLSG6_BRAOL: 8 glycosites
+sp|P17840|SLSG3_BRAOL: 8 glycosites
+sp|P17841|SLSG4_BRAOL: 7 glycosites
+sp|P22551|SLSG0_BRAOA: 4 glycosites
+sp|P22552|SLSG1_BRAOA: 5 glycosites
+sp|P22553|SLSG2_BRAOA: 6 glycosites
+sp|P40934|CYB5_BRAOB: 1 glycosites
+sp|P49091|ASNS_BRAOL: 1 glycosites
+sp|P52178|TPT2_BRAOB: 5 glycosites
+sp|P68352|CSN1_BRAOL: 1 glycosites
+sp|P68353|CSN2_BRAOL: 1 glycosites
+sp|P68395|CSN7_BRAOL: 2 glycosites
+sp|Q05536|BOFH_BRAOB: 1 glycosites
+sp|Q39375|CAL_BRAOT: 3 glycosites
+sp|Q6R4R9|CALA_BRAOB: 1 glycosites
+sp|Q8GTF4|AP1C_BRAOB: 1 glycosites
+sp|Q8GTF5|AP1A_BRAOB: 1 glycosites
+sp|Q96355|1AP1_BRAOT: 1 glycosites
+sp|Q9M6D9|STM_BRAOL: 2 glycosites
+sp|B4YPV4|AP1C_BRAOA: 1 glycosites
+sp|B4YPW6|AP1A_BRAOA: 1 glycosites
+sp|D2K760|ERF1Z_BRAOB: 5 glycosites
+sp|D5LHJ0|ERF1X_BRAOB: 6 glycosites
+sp|O65098|REM1_BRAOB: 6 glycosites
+sp|P49676|BGAL_BRAOL: 9 glycosites
+sp|P52177|TPT1_BRAOB: 3 glycosites
+sp|P68357|CSN6B_BRAOL: 2 glycosites
+sp|Q31910|YCF4_BRAOL: 1 glycosites
+sp|Q39371|3AP1_BRAOL: 1 glycosites
+sp|Q6QHE0|MATK_BRAOL: 2 glycosites
+sp|Q6R4R6|CALD_BRAOB: 1 glycosites
+sp|Q6R4R7|CALC_BRAOB: 1 glycosites
+sp|Q6R4R8|CALB_BRAOB: 1 glycosites
+sp|Q96356|2AP1_BRAOT: 1 glycosites
+sp|Q9SQF4|SUI1_BRAOL: 2 glycosites
+sp|Q9XH45|RS7_BRAOL: 2 glycosites

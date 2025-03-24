@@ -1,0 +1,27 @@
+Glycosite Summary for platypus_uniprotkb_proteome_UP000002279_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 96
+Total Proteins with Glycosites: 21
+
+Glycosites per Protein:
+sp|A7X5R6|BAG6_ORNAN: 6 glycosites
+sp|Q07DZ6|CFTR_ORNAN: 16 glycosites
+sp|Q07DZ8|WNT2_ORNAN: 2 glycosites
+sp|Q07E01|MET_ORNAN: 22 glycosites
+sp|Q07E02|CAV1_ORNAN: 1 glycosites
+sp|P30805|LALBA_ORNAN: 1 glycosites
+sp|Q36452|COX1_ORNAN: 4 glycosites
+sp|F7A3P2|GATA_ORNAN: 3 glycosites
+sp|P0C8A2|DEFA2_ORNAN: 1 glycosites
+sp|Q07DZ5|CTTB2_ORNAN: 10 glycosites
+sp|Q07DZ7|ASZ1_ORNAN: 6 glycosites
+sp|Q36451|NU2M_ORNAN: 3 glycosites
+sp|Q36454|ATP6_ORNAN: 1 glycosites
+sp|Q36455|COX3_ORNAN: 1 glycosites
+sp|Q36457|NU4LM_ORNAN: 1 glycosites
+sp|Q36458|NU4M_ORNAN: 5 glycosites
+sp|Q36459|NU5M_ORNAN: 4 glycosites
+sp|Q36461|CYB_ORNAN: 3 glycosites
+sp|Q37717|NU1M_ORNAN: 2 glycosites
+sp|Q37718|COX2_ORNAN: 3 glycosites
+sp|P0C8A4|DEFA4_ORNAN: 1 glycosites

@@ -1,0 +1,57 @@
+Glycosite Summary for paramecium_uniprotkb_proteome_UP000000600_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 112
+Total Proteins with Glycosites: 51
+
+Glycosites per Protein:
+sp|P07463|CALM_PARTE: 1 glycosites
+sp|A0CDD4|CFA20_PARTE: 2 glycosites
+sp|A0CNL9|PP2A2_PARTE: 1 glycosites
+sp|A0CY51|CF300_PARTE: 1 glycosites
+sp|A0DTY1|PP2C4_PARTE: 5 glycosites
+sp|P47244|PGM1_PARTE: 1 glycosites
+sp|P48726|PP2A1_PARTE: 1 glycosites
+sp|P49444|PP2C1_PARTE: 4 glycosites
+sp|Q27828|DRTS_PARTE: 5 glycosites
+sp|Q6BFF6|PP2A3_PARTE: 1 glycosites
+sp|A0BD92|PURA_PARTE: 3 glycosites
+sp|A0BKG2|SEY11_PARTE: 2 glycosites
+sp|A0BLX0|PP2C2_PARTE: 3 glycosites
+sp|A0BQL0|PP2C3_PARTE: 4 glycosites
+sp|A0BV78|DRE21_PARTE: 3 glycosites
+sp|A0BZ55|ASNA1_PARTE: 4 glycosites
+sp|A0C1E4|PPX3_PARTE: 3 glycosites
+sp|A0C767|T4B_PARTE: 1 glycosites
+sp|A0CC46|TRM5_PARTE: 5 glycosites
+sp|A0CCD2|PPX4_PARTE: 2 glycosites
+sp|A0CH87|LIS12_PARTE: 2 glycosites
+sp|A0CIS3|DRE22_PARTE: 2 glycosites
+sp|A0CUB5|PP2C5_PARTE: 2 glycosites
+sp|A0CXT3|FEN11_PARTE: 3 glycosites
+sp|A0CYG2|FEN12_PARTE: 3 glycosites
+sp|A0DB19|LIS11_PARTE: 2 glycosites
+sp|A0DJ90|PPX2_PARTE: 1 glycosites
+sp|A0DSB3|PP2C6_PARTE: 2 glycosites
+sp|A0E2L1|SEY12_PARTE: 2 glycosites
+sp|A0E358|CATL2_PARTE: 2 glycosites
+sp|A0E7A5|ASNA2_PARTE: 3 glycosites
+sp|O02606|PGM2_PARTE: 1 glycosites
+sp|P33188|TBB1_PARTE: 3 glycosites
+sp|Q27172|T1F_PARTE: 2 glycosites
+sp|Q27173|T2A_PARTE: 2 glycosites
+sp|Q27174|T2B_PARTE: 1 glycosites
+sp|Q27177|CATR1_PARTE: 1 glycosites
+sp|Q27178|CATR3_PARTE: 1 glycosites
+sp|Q27179|CATR2_PARTE: 1 glycosites
+sp|Q27180|T1B_PARTE: 2 glycosites
+sp|Q27181|T2C_PARTE: 1 glycosites
+sp|Q27182|T4A_PARTE: 1 glycosites
+sp|Q94714|CATL1_PARTE: 1 glycosites
+sp|Q94715|CATL3_PARTE: 7 glycosites
+sp|A0BD73|RL72_PARTE: 1 glycosites
+sp|A0C574|EFTS2_PARTE: 2 glycosites
+sp|A0CEY2|RL71_PARTE: 1 glycosites
+sp|A0CRL1|EFTS1_PARTE: 4 glycosites
+sp|A0DUC3|COQ41_PARTE: 1 glycosites
+sp|Q3SEK2|CATR6_PARTE: 1 glycosites
+sp|Q94726|CATR4_PARTE: 2 glycosites

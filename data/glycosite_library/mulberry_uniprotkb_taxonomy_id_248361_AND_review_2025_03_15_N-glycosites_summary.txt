@@ -1,0 +1,52 @@
+Glycosite Summary for mulberry_uniprotkb_taxonomy_id_248361_AND_review_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 128
+Total Proteins with Glycosites: 46
+
+Glycosites per Protein:
+sp|C0HK14|LEC_MORIN: 1 glycosites
+sp|Q09X09|RBL_MORIN: 2 glycosites
+sp|Q09X37|PSBA_MORIN: 3 glycosites
+sp|P0CC92|NU2C1_MORIN: 1 glycosites
+sp|P0CC93|NU2C2_MORIN: 1 glycosites
+sp|Q09WW2|NDHH_MORIN: 1 glycosites
+sp|Q09WW3|NU1C_MORIN: 3 glycosites
+sp|Q09WW4|NDHI_MORIN: 1 glycosites
+sp|Q09WW5|NU6C_MORIN: 1 glycosites
+sp|Q09WW6|NU4LC_MORIN: 1 glycosites
+sp|Q09WW8|NU4C_MORIN: 2 glycosites
+sp|Q09WX1|NU5C_MORIN: 4 glycosites
+sp|Q09WY5|RPOA_MORIN: 5 glycosites
+sp|Q09WY8|PSBH_MORIN: 1 glycosites
+sp|Q09X08|ACCD_MORIN: 7 glycosites
+sp|Q09X10|ATPB_MORIN: 1 glycosites
+sp|Q09X13|NDHK_MORIN: 1 glycosites
+sp|Q09X17|PSAA_MORIN: 2 glycosites
+sp|Q09X18|PSAB_MORIN: 4 glycosites
+sp|Q09X21|PSBC_MORIN: 4 glycosites
+sp|Q09X22|PSBD_MORIN: 1 glycosites
+sp|Q09X25|RPOB_MORIN: 1 glycosites
+sp|Q09X26|RPOC1_MORIN: 1 glycosites
+sp|Q09X27|RPOC2_MORIN: 7 glycosites
+sp|Q09WV5|RK2_MORIN: 1 glycosites
+sp|Q09WV7|YCF2_MORIN: 21 glycosites
+sp|Q09WW0|TI214_MORIN: 18 glycosites
+sp|Q09WW9|CCSA_MORIN: 2 glycosites
+sp|Q09WX7|RR19_MORIN: 1 glycosites
+sp|Q09WX9|RR3_MORIN: 1 glycosites
+sp|Q09WY1|RK14_MORIN: 1 glycosites
+sp|Q09WY2|RR8_MORIN: 1 glycosites
+sp|Q09WY4|RR11_MORIN: 1 glycosites
+sp|Q09WZ1|PSBB_MORIN: 1 glycosites
+sp|Q09WZ3|RR12_MORIN: 1 glycosites
+sp|Q09WZ5|RR18_MORIN: 1 glycosites
+sp|Q09X02|PSBL_MORIN: 1 glycosites
+sp|Q09X04|CYF_MORIN: 2 glycosites
+sp|Q09X05|CEMA_MORIN: 3 glycosites
+sp|Q09X06|YCF4_MORIN: 1 glycosites
+sp|Q09X11|ATPE_MORIN: 1 glycosites
+sp|Q09X28|RR2_MORIN: 1 glycosites
+sp|Q09X29|ATPI_MORIN: 2 glycosites
+sp|Q09X31|ATPF_MORIN: 4 glycosites
+sp|Q09X35|RR16_MORIN: 1 glycosites
+sp|Q09X36|MATK_MORIN: 6 glycosites

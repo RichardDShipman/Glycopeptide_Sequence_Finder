@@ -1,0 +1,26 @@
+Glycosite Summary for brineshrimp_uniprotkb_taxonomy_id_6661_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 50
+Total Proteins with Glycosites: 20
+
+Glycosites per Protein:
+sp|P17326|AT1A_ARTSF: 5 glycosites
+sp|P28774|AT1B_ARTSF: 5 glycosites
+sp|P35316|ATC_ARTSF: 6 glycosites
+sp|O17488|TBP_ARTSF: 1 glycosites
+sp|P25169|AT1B1_ARTSF: 3 glycosites
+sp|Q05007|ABDA_ARTSF: 1 glycosites
+sp|Q37705|COX1_ARTSF: 5 glycosites
+sp|Q37706|COX2_ARTSF: 2 glycosites
+sp|Q37711|NU4M_ARTSF: 2 glycosites
+sp|Q37713|CYB_ARTSF: 1 glycosites
+sp|A7L6A0|RS3A_ARTSF: 1 glycosites
+sp|B1P1W2|SDHF2_ARTSF: 1 glycosites
+sp|Q05640|HMEN_ARTSF: 2 glycosites
+sp|Q36309|COX3_ARTSF: 2 glycosites
+sp|Q37704|NU2M_ARTSF: 4 glycosites
+sp|Q37709|NU3M_ARTSF: 2 glycosites
+sp|Q37710|NU5M_ARTSF: 3 glycosites
+sp|Q37712|NU6M_ARTSF: 1 glycosites
+sp|Q37714|NU1M_ARTSF: 2 glycosites
+sp|Q95V58|KARG_ARTSF: 1 glycosites

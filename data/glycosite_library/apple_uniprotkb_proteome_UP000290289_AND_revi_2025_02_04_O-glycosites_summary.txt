@@ -1,0 +1,10 @@
+Glycosite Summary for apple_uniprotkb_proteome_UP000290289_AND_revi_2025_02_04
+Glycosylation Type: O
+Total Glycosites Found: 186
+Total Proteins with Glycosites: 4
+
+Glycosites per Protein:
+sp|A0A498KFL4|ATGSA_MALDO: 44 glycosites
+sp|A0A498KE69|ATRGC_MALDO: 49 glycosites
+sp|A0A498KJ69|ATGSC_MALDO: 46 glycosites
+sp|A0A498KIQ3|ATGSD_MALDO: 47 glycosites

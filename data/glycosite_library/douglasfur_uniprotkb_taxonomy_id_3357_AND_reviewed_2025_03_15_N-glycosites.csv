@@ -1,0 +1,19 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|P69571|RBL_PSEMZ,241,NAT,Pseudotsuga menziesii,3357,rbcL
+sp|P69571|RBL_PSEMZ,277,NTS,Pseudotsuga menziesii,3357,rbcL
+sp|Q4QSN4|TPSBS_PSEMZ,163,NES,Pseudotsuga menziesii,3357,TPS3
+sp|Q4QSN4|TPSBS_PSEMZ,212,NLS,Pseudotsuga menziesii,3357,TPS3
+sp|Q4QSN4|TPSBS_PSEMZ,338,NAT,Pseudotsuga menziesii,3357,TPS3
+sp|Q4QSN4|TPSBS_PSEMZ,435,NLS,Pseudotsuga menziesii,3357,TPS3
+sp|Q4QSN4|TPSBS_PSEMZ,507,NVT,Pseudotsuga menziesii,3357,TPS3
+sp|P85903|RUBA_PSEMZ,2,NDS,,,
+sp|P85918|METE_PSEMZ,12,NAS,,,
+sp|P85932|HSP81_PSEMZ,5,NSS,,,
+sp|P85932|HSP81_PSEMZ,14,NNS,,,
+sp|Q85UY0|RR18_PSEMZ,15,NLT,Pseudotsuga menziesii,3357,rps18
+sp|Q85UY0|RR18_PSEMZ,36,NMS,Pseudotsuga menziesii,3357,rps18
+sp|Q9MV48|MATK_PSEMZ,71,NHS,Pseudotsuga menziesii,3357,matK
+sp|Q9MV48|MATK_PSEMZ,89,NKS,Pseudotsuga menziesii,3357,matK
+sp|Q9MV48|MATK_PSEMZ,186,NSS,Pseudotsuga menziesii,3357,matK
+sp|Q9MV48|MATK_PSEMZ,324,NCS,Pseudotsuga menziesii,3357,matK
+sp|P85904|HSP01_PSEMZ,5,NAS,,,

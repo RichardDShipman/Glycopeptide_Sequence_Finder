@@ -1,0 +1,46 @@
+Glycosite Summary for fissionyeast_uniprotkb_proteome_UP000001744_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 130
+Total Proteins with Glycosites: 40
+
+Glycosites per Protein:
+sp|B6JVD0|ARO1_SCHJY: 7 glycosites
+sp|B6JYI7|FEN1_SCHJY: 1 glycosites
+sp|B6JUV1|PURA_SCHJY: 2 glycosites
+sp|B6JVP0|DRE2_SCHJY: 3 glycosites
+sp|B6JWC1|NAGS_SCHJY: 4 glycosites
+sp|B6JWP7|CHO2_SCHJY: 5 glycosites
+sp|B6JY29|VPS10_SCHJY: 6 glycosites
+sp|B6JYD2|ARGJ_SCHJY: 1 glycosites
+sp|B6JYT1|LCL3_SCHJY: 3 glycosites
+sp|B6K052|GET3_SCHJY: 3 glycosites
+sp|B6K0N7|SEY1_SCHJY: 6 glycosites
+sp|B6K1G6|CFD1_SCHJY: 4 glycosites
+sp|B6K1Y8|NOP9_SCHJY: 2 glycosites
+sp|B6K286|EFGM_SCHJY: 3 glycosites
+sp|B6K327|PFF1_SCHJY: 7 glycosites
+sp|B6K412|SHC1_SCHJY: 5 glycosites
+sp|B6K463|MDM10_SCHJY: 5 glycosites
+sp|B6K4J2|LIPA_SCHJY: 1 glycosites
+sp|B6K4Q2|MTNA_SCHJY: 1 glycosites
+sp|B6K4Z5|MDM12_SCHJY: 3 glycosites
+sp|B6K6L6|GUF1_SCHJY: 3 glycosites
+sp|B6K6N3|MMM1_SCHJY: 2 glycosites
+sp|B6K7U7|KEX1_SCHJY: 8 glycosites
+sp|B6JW87|MTG1_SCHJY: 1 glycosites
+sp|B6JWE5|COQ4_SCHJY: 1 glycosites
+sp|B6JWF7|RS3A_SCHJY: 1 glycosites
+sp|B6JX19|UTP25_SCHJY: 4 glycosites
+sp|B6JYB6|GATB_SCHJY: 7 glycosites
+sp|B6JZY9|GET1_SCHJY: 1 glycosites
+sp|B6K0X1|MTNB_SCHJY: 1 glycosites
+sp|B6K180|RSSA1_SCHJY: 3 glycosites
+sp|B6K1S2|RSSA2_SCHJY: 3 glycosites
+sp|B6K1V7|CCM1_SCHJY: 5 glycosites
+sp|B6K2L2|RSSA3_SCHJY: 2 glycosites
+sp|B6K2N0|NAR1_SCHJY: 6 glycosites
+sp|B6K2P1|EFTS_SCHJY: 3 glycosites
+sp|B6K2Z6|RCF1_SCHJY: 1 glycosites
+sp|B6K4Q8|RTC5_SCHJY: 3 glycosites
+sp|B6K7R8|ASA1_SCHJY: 2 glycosites
+sp|B6K8A0|RRP36_SCHJY: 1 glycosites

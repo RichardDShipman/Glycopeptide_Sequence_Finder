@@ -1,0 +1,11 @@
+Glycosite Summary for amoeba_uniprotkb_proteome_UP000006671_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 18
+Total Proteins with Glycosites: 5
+
+Glycosites per Protein:
+sp|D2W6T1|TET1_NAEGR: 5 glycosites
+sp|D2VAA9|MTNA_NAEGR: 1 glycosites
+sp|D2VRR7|GUF1_NAEGR: 4 glycosites
+sp|D2V9W6|GATB_NAEGR: 7 glycosites
+sp|D2VN51|MTNB_NAEGR: 1 glycosites

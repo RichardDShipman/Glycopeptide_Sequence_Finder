@@ -1,0 +1,17 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|A0A8H8CMW1|CUBA_PSICU,246,NGT,Psilocybe cubensis,181762,cubA
+sp|P0DPA8|PSIK_PSICU,37,NVT,Psilocybe cubensis,181762,psiK
+sp|P0DPA9|PSIM_PSICU,87,NYT,Psilocybe cubensis,181762,psiM
+sp|P0DPA9|PSIM_PSICU,90,NKT,Psilocybe cubensis,181762,psiM
+sp|P0DPA6|PSID_PSICU,50,NYS,Psilocybe cubensis,181762,psiD
+sp|P0DPA6|PSID_PSICU,232,NNT,Psilocybe cubensis,181762,psiD
+sp|P0DPA6|PSID_PSICU,247,NVS,Psilocybe cubensis,181762,psiD
+sp|P0DPA6|PSID_PSICU,291,NVT,Psilocybe cubensis,181762,psiD
+sp|P0DPA6|PSID_PSICU,303,NGT,Psilocybe cubensis,181762,psiD
+sp|P0DPB0|PSIR_PSICU,32,NAS,Psilocybe cubensis,181762,psiR
+sp|P0DPB0|PSIR_PSICU,156,NAS,Psilocybe cubensis,181762,psiR
+sp|P0DPB1|PSIT1_PSICU,25,NST,Psilocybe cubensis,181762,psiT1
+sp|P0DPB1|PSIT1_PSICU,184,NTT,Psilocybe cubensis,181762,psiT1
+sp|P0DPB1|PSIT1_PSICU,384,NNT,Psilocybe cubensis,181762,psiT1
+sp|P0DPB2|PSIT2_PSICU,269,NST,Psilocybe cubensis,181762,psiT2
+sp|P0DPB2|PSIT2_PSICU,410,NKT,Psilocybe cubensis,181762,psiT2

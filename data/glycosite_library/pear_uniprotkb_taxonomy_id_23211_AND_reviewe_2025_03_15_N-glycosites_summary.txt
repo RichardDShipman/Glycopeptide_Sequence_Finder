@@ -1,0 +1,12 @@
+Glycosite Summary for pear_uniprotkb_taxonomy_id_23211_AND_reviewe_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 15
+Total Proteins with Glycosites: 6
+
+Glycosites per Protein:
+sp|Q05091|PGIP_PYRCO: 7 glycosites
+sp|Q84KP0|DFRA_PYRCO: 2 glycosites
+sp|D3UAG1|U7A16_PYRCO: 2 glycosites
+sp|D3UAG2|U71K2_PYRCO: 1 glycosites
+sp|D3UAG3|U88F2_PYRCO: 2 glycosites
+sp|D3UAG7|U88F3_PYRCO: 1 glycosites

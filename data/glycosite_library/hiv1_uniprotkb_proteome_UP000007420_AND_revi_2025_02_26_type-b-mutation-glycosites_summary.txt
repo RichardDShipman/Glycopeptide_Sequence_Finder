@@ -1,0 +1,6 @@
+Glycosite Summary for hiv1_uniprotkb_proteome_UP000007420_AND_revi_2025_02_26
+Glycosylation Type: type-b-mutation
+Total Glycosites Found: 0
+Total Proteins with Glycosites: 0
+
+Glycosites per Protein:

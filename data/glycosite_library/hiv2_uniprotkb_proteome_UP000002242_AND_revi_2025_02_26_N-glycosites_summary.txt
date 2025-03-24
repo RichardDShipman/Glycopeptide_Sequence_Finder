@@ -1,0 +1,12 @@
+Glycosite Summary for hiv2_uniprotkb_proteome_UP000002242_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 33
+Total Proteins with Glycosites: 6
+
+Glycosites per Protein:
+sp|P18094|ENV_HV2BE: 25 glycosites
+sp|P18095|GAG_HV2BE: 1 glycosites
+sp|P18096|POL_HV2BE: 4 glycosites
+sp|P18092|NEF_HV2BE: 1 glycosites
+sp|P18097|VIF_HV2BE: 1 glycosites
+sp|P18100|VPR_HV2BE: 1 glycosites

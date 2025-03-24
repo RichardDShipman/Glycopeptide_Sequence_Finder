@@ -1,0 +1,14 @@
+Glycosite Summary for oyster_uniprotkb_proteome_UP000005408_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 16
+Total Proteins with Glycosites: 8
+
+Glycosites per Protein:
+sp|P0DUE1|STING_MAGGI: 2 glycosites
+sp|Q7M456|RNOY_MAGGI: 3 glycosites
+sp|A9XE49|IL17L_MAGGI: 2 glycosites
+sp|O17320|ACT_MAGGI: 1 glycosites
+sp|P86785|GIGA2_MAGGI: 3 glycosites
+sp|Q95WY0|TPM03_MAGGI: 1 glycosites
+sp|P86786|GIGA3_MAGGI: 3 glycosites
+sp|P86788|GIGA5_MAGGI: 1 glycosites

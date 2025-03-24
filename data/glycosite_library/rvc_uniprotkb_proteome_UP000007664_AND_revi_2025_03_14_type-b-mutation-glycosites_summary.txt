@@ -1,0 +1,8 @@
+Glycosite Summary for rvc_uniprotkb_proteome_UP000007664_AND_revi_2025_03_14
+Glycosylation Type: type-b-mutation
+Total Glycosites Found: 2
+Total Proteins with Glycosites: 2
+
+Glycosites per Protein:
+sp|Q91E95|RDRP_ROTHC: 1 glycosites
+sp|P69481|VP6_ROTHC: 1 glycosites

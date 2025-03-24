@@ -1,0 +1,11 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|P14260|HBB_CAIMO,48,NLS,Cairina moschata,8855,HBB
+sp|P02003|HBAD_CAIMO,75,NLS,Cairina moschata,8855,HBAD
+sp|P14261|HBE_CAIMO,48,NLS,Cairina moschata,8855,HBE
+sp|Q7ZTV5|FSHR_CAIMO,47,NAT,Cairina moschata,8855,FSHR
+sp|Q7ZTV5|FSHR_CAIMO,191,NGT,Cairina moschata,8855,FSHR
+sp|Q7ZTV5|FSHR_CAIMO,199,NLS,Cairina moschata,8855,FSHR
+sp|Q7ZTV5|FSHR_CAIMO,268,NFT,Cairina moschata,8855,FSHR
+sp|P50666|COX2_CAIMO,3,NHS,Cairina moschata,8855,MT-CO2
+sp|P50666|COX2_CAIMO,179,NQT,Cairina moschata,8855,MT-CO2
+sp|P50666|COX2_CAIMO,202,NHS,Cairina moschata,8855,MT-CO2

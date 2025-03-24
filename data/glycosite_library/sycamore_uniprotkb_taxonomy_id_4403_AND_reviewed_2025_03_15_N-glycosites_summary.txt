@@ -1,0 +1,48 @@
+Glycosite Summary for sycamore_uniprotkb_taxonomy_id_4403_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 127
+Total Proteins with Glycosites: 42
+
+Glycosites per Protein:
+sp|P28441|RBL_PLAOC: 2 glycosites
+sp|Q09G66|PSBA_PLAOC: 3 glycosites
+sp|P0CD32|NU2C1_PLAOC: 1 glycosites
+sp|P0CD33|NU2C2_PLAOC: 1 glycosites
+sp|Q09FZ0|NDHH_PLAOC: 1 glycosites
+sp|Q09FZ1|NU1C_PLAOC: 1 glycosites
+sp|Q09FZ2|NDHI_PLAOC: 2 glycosites
+sp|Q09FZ3|NU6C_PLAOC: 1 glycosites
+sp|Q09FZ4|NU4LC_PLAOC: 1 glycosites
+sp|Q09FZ6|NU4C_PLAOC: 1 glycosites
+sp|Q09FZ9|NU5C_PLAOC: 7 glycosites
+sp|Q09G14|RPOA_PLAOC: 6 glycosites
+sp|Q09G37|ACCD_PLAOC: 8 glycosites
+sp|Q09G39|ATPB_PLAOC: 1 glycosites
+sp|Q09G42|NDHK_PLAOC: 1 glycosites
+sp|Q09G46|PSAA_PLAOC: 2 glycosites
+sp|Q09G47|PSAB_PLAOC: 4 glycosites
+sp|Q09G50|PSBC_PLAOC: 4 glycosites
+sp|Q09G51|PSBD_PLAOC: 1 glycosites
+sp|Q09G54|RPOB_PLAOC: 2 glycosites
+sp|Q09G55|RPOC1_PLAOC: 1 glycosites
+sp|Q09G56|RPOC2_PLAOC: 8 glycosites
+sp|Q09FY3|RK2_PLAOC: 1 glycosites
+sp|Q09FY5|YCF2_PLAOC: 23 glycosites
+sp|Q09FY8|TI214_PLAOC: 13 glycosites
+sp|Q09FY9|RR15_PLAOC: 1 glycosites
+sp|Q09FZ7|CCSA_PLAOC: 1 glycosites
+sp|Q09FZ8|RK32_PLAOC: 1 glycosites
+sp|Q09G05|RR19_PLAOC: 1 glycosites
+sp|Q09G06|RK22_PLAOC: 1 glycosites
+sp|Q09G13|RR11_PLAOC: 1 glycosites
+sp|Q09G20|PSBB_PLAOC: 1 glycosites
+sp|Q09G22|RR12_PLAOC: 1 glycosites
+sp|Q09G24|RR18_PLAOC: 1 glycosites
+sp|Q09G31|PSBL_PLAOC: 1 glycosites
+sp|Q09G33|CYF_PLAOC: 2 glycosites
+sp|Q09G34|CEMA_PLAOC: 3 glycosites
+sp|Q09G35|YCF4_PLAOC: 1 glycosites
+sp|Q09G57|RR2_PLAOC: 2 glycosites
+sp|Q09G58|ATPI_PLAOC: 2 glycosites
+sp|Q09G60|ATPF_PLAOC: 4 glycosites
+sp|Q09G65|MATK_PLAOC: 7 glycosites

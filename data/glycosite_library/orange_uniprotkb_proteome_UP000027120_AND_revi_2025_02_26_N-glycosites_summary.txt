@@ -1,0 +1,21 @@
+Glycosite Summary for orange_uniprotkb_proteome_UP000027120_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 35
+Total Proteins with Glycosites: 15
+
+Glycosites per Protein:
+sp|D0UZK2|TPS1_CITSI: 2 glycosites
+sp|A0A067DDU9|OSC3_CITSI: 5 glycosites
+sp|A0A067DE75|C6AD2_CITSI: 1 glycosites
+sp|A0A067DFU5|MOI1_CITSI: 1 glycosites
+sp|A0A067DKP1|L1AT_CITSI: 5 glycosites
+sp|A0A067DT54|C8A37_CITSI: 3 glycosites
+sp|A0A067E1K2|C8A51_CITSI: 1 glycosites
+sp|A0A067EES0|L21AT_CITSI: 1 glycosites
+sp|A0A067ELB0|C71C1_CITSI: 2 glycosites
+sp|A0A067ETA8|L7AT_CITSI: 5 glycosites
+sp|A0A067F4I6|C1BQ4_CITSI: 2 glycosites
+sp|A0A067FI21|OSC2_CITSI: 1 glycosites
+sp|A0A067GFT7|C1CD1_CITSI: 1 glycosites
+sp|P0DXH0|LFS_CITSI: 4 glycosites
+sp|P0DXG9|AKR_CITSI: 1 glycosites

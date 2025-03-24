@@ -1,0 +1,9 @@
+Glycosite Summary for dugbe_uniprotkb_proteome_UP000000278_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 31
+Total Proteins with Glycosites: 3
+
+Glycosites per Protein:
+sp|Q66431|L_DUGBA: 19 glycosites
+sp|Q02004|GP_DUGBA: 10 glycosites
+sp|Q8V336|NCAP_DUGBA: 2 glycosites

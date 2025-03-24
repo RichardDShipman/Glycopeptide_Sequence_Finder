@@ -1,0 +1,44 @@
+Glycosite Summary for whiskfern_uniprotkb_taxonomy_id_3240_AND_reviewed_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 118
+Total Proteins with Glycosites: 38
+
+Glycosites per Protein:
+sp|P48714|RBL_PSINU: 2 glycosites
+sp|Q8WI36|PSBA_PSINU: 3 glycosites
+sp|O03081|ATPB_PSINU: 2 glycosites
+sp|P0CD36|NU2C1_PSINU: 1 glycosites
+sp|P0CD37|NU2C2_PSINU: 1 glycosites
+sp|P58765|PSAB_PSINU: 4 glycosites
+sp|Q8W8H5|NU5C_PSINU: 7 glycosites
+sp|Q8W8V0|RR7_PSINU: 2 glycosites
+sp|Q8WHX3|NDHH_PSINU: 2 glycosites
+sp|Q8WHX6|NU6C_PSINU: 1 glycosites
+sp|Q8WHX8|NU4C_PSINU: 2 glycosites
+sp|Q8WHZ1|RPOA_PSINU: 4 glycosites
+sp|Q8WHZ4|PSBH_PSINU: 1 glycosites
+sp|Q8WI14|NDHK_PSINU: 2 glycosites
+sp|Q8WI19|PSBD_PSINU: 1 glycosites
+sp|Q8WI20|PSBC_PSINU: 4 glycosites
+sp|Q8WI24|RPOB_PSINU: 4 glycosites
+sp|Q8WI25|RPOC1_PSINU: 3 glycosites
+sp|Q8WI26|RPOC2_PSINU: 8 glycosites
+sp|Q8WI30|ATPA_PSINU: 1 glycosites
+sp|Q95CA6|RR4_PSINU: 1 glycosites
+sp|Q9MUJ2|PSAA_PSINU: 4 glycosites
+sp|P60152|PSBL_PSINU: 1 glycosites
+sp|Q8W8J2|RK32_PSINU: 1 glycosites
+sp|Q8WHW9|YCF2_PSINU: 25 glycosites
+sp|Q8WHX1|TI214_PSINU: 9 glycosites
+sp|Q8WHY6|RK14_PSINU: 1 glycosites
+sp|Q8WHZ0|RR11_PSINU: 1 glycosites
+sp|Q8WI06|PSBJ_PSINU: 1 glycosites
+sp|Q8WI07|CYF_PSINU: 2 glycosites
+sp|Q8WI08|CEMA_PSINU: 2 glycosites
+sp|Q8WI09|YCF4_PSINU: 1 glycosites
+sp|Q8WI12|ATPE_PSINU: 2 glycosites
+sp|Q8WI27|RR2_PSINU: 2 glycosites
+sp|Q8WI28|ATPI_PSINU: 2 glycosites
+sp|Q8WI29|ATPF_PSINU: 1 glycosites
+sp|Q8WI35|MATK_PSINU: 4 glycosites
+sp|Q9SLX9|VPS_PSINU: 3 glycosites

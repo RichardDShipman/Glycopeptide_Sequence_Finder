@@ -1,9 +1,0 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName
-sp|P02254|H1_SALTR,67,NNS,,,
-sp|P19618|NCPR_SALTR,271,NNT,Salmo trutta,8032,por
-sp|P29671|CYB_SALTR,26,NIS,Salmo trutta,8032,mt-cyb
-sp|P29671|CYB_SALTR,172,NAT,Salmo trutta,8032,mt-cyb
-sp|P29671|CYB_SALTR,255,NFT,Salmo trutta,8032,mt-cyb
-sp|P45653|GON3_SALTR,5,NRT,Salmo trutta,8032,gnrh3
-sp|Q36967|ATP6_SALTR,46,NLT,Salmo trutta,8032,mt-atp6
-sp|Q91487|RL13A_SALTR,28,NIS,Salmo trutta,8032,rpl13a

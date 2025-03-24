@@ -1,6 +1,74 @@
-# Glycopeptide_Sequence_Finder
+# Glycopeptide Sequence Finder
 
-17JAN2025 -- Richard Shipman
+A tool for identifying and analyzing glycopeptide sequences from protein FASTA files.
+
+# Quick Start Guide
+
+## Project Structure
+
+The project follows a standard Python package structure:
+
+```
+Glycopeptide_Sequence_Finder/
+├── data/                           # Data directory containing all input/output files
+│   ├── test_proteomes/            # Input FASTA files
+│   ├── digested_peptide_library/  # Output peptide library
+│   ├── digested_glycopeptide_library/  # Output glycopeptide library
+│   ├── logs/                      # Log files
+│   └── glycan_library/            # Glycan library files
+├── src/                           # Source code directory
+│   └── glycopeptide_sequence_finder_cmd.py  # Main script
+├── scripts/                       # Utility scripts
+│   └── batch_glycopeptide_sequence_finder.sh  # Batch processing script
+├── Dockerfile                     # Container configuration
+└── requirements.txt               # Python dependencies
+```
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/Glycopeptide_Sequence_Finder.git
+cd Glycopeptide_Sequence_Finder
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+### Command Line Interface
+
+Run the script from the project root directory:
+
+```bash
+python src/glycopeptide_sequence_finder_cmd.py -i data/test_proteomes/your_input.fasta -o data/digested_glycopeptide_library/output.csv
+```
+
+### Batch Processing
+
+Run the batch script to process multiple FASTA files:
+
+```bash
+./scripts/batch_glycopeptide_sequence_finder.sh
+```
+
+### Docker
+
+Build the Docker image:
+```bash
+docker build -t glycopeptide-finder .
+```
+
+Run the container:
+```bash
+docker run -v "$(pwd)/data/test_proteomes:/app/data/test_proteomes" \
+           -v "$(pwd)/data/digested_glycopeptide_library:/app/data/digested_glycopeptide_library" \
+           glycopeptide-finder -i /app/data/test_proteomes/phosvitin_uniprotkb_2025_03_20.fasta \
+           -o /app/data/digested_glycopeptide_library/phosvitin_output.csv -v
+```
 
 ## Overview
 
@@ -8,7 +76,7 @@ Welcome to the Glycopeptide Sequence Finder!
 
 This tool aims to facilitate the theoretical study of glycopeptide sequences found in various species across the tree of life. It can be used with publicly available curated data from protein sequence databases or by uploading your own protein FASTA sequences files.
 
-![MockMassSpectrumOfAN-GlycopeptideFromAPig!](mock_mass_spectra/sp_P01042_KNG1_HUMAN_205_ITYSIVQTNCSK_G62765YT_mock_mass_spectrum.png)
+![MockMassSpectrumOfAN-GlycopeptideFromAPig!](/data/mock_mass_spectra/sp_P01042_KNG1_HUMAN_205_ITYSIVQTNCSK_G62765YT_mock_mass_spectrum.png)
 
 *Example above*: Calculated mass spectrum for glycopeptide Kininogen-1 (P01042) KNG1_HUMAN - ITYSIVQTNCSK - 205 - G62765YT - HexNAc(2)Hex(8) created `plot_mock_mass_spectra.py`. Note: This is a basic N-glycan structure fragment under are minimum sequential fragmentation of Hex(8) down to HexHAc(2) core N-glycan.
 
@@ -126,7 +194,7 @@ The output file will be dynamically named:
 
 ### Example CSV Content
 
-Ion series data can be generated with `--ion-series` arguement flag, example below. Prototype at the moment. Work in progress.
+Ion series data can be generated with `--ion-series` arguement flag, example below. Prototype at the moment. Work in progress. Moving to separate function.
 
 ```CSV
 ProteinID,Site,GlyToucan_AC,Composition,ShorthandGlycan,Peptide,Start,End,Length,Sequon,GlycopeptideMass,PeptideMass,GlycanMass,Hydrophobicity,pI,z2,Charge,IonSeries
@@ -197,7 +265,7 @@ G41247ZX,HexNAc(2)Hex(6) % 1378.475686,HexNAc(2)Hex(6),N2H6,NNHHHHHH
 
 # Plot Mock Mass Spectrum
 
-![PiggieGlycopeptides](mock_mass_spectra/sp_P02763_A1AG1_HUMAN_103_ENGTISR_G62765YT_mock_mass_spectrum.png)
+![PiggieGlycopeptides](/data/mock_mass_spectra/sp_P02763_A1AG1_HUMAN_103_ENGTISR_G62765YT_mock_mass_spectrum.png)
 
 plot_mock_mass_spectra.py
 
@@ -298,9 +366,15 @@ G31852PQ,HexNAc(2)Hex(7) % 1540.528510,HexNAc(2)Hex(7),N2H7,NNHHHHHHH,HexNAc(2)H
 G41247ZX,HexNAc(2)Hex(6) % 1378.475686,HexNAc(2)Hex(6),N2H6,NNHHHHHH,HexNAc(2)Hex(6),1378.475686
 ```
 
+The output CSV will contain glycans ranked by their weighted adjusted HF score.
+
 # Batch Processing Scripts
 
 Shell scripts for batch processing.
+
+## Batch Run for FASTA Processing
+
+batch_glycopeptide_sequence_finder.sh
 
 To process multiple FASTA files in parallel using all proteases, run the following command:
 
@@ -330,66 +404,6 @@ The script includes a function to merge all CSV files from a specified directory
 ```sh
 python merge_digested_glycopeptide_library.py
 ```
-
-## Dockerfile
-
-- Docker Setup for Glycopeptide Sequence Finder
-
-This section explains how to build and run the Docker container for the Glycopeptide Sequence Finder.
-
-1. Build the Docker Image
-
-To create the Docker image, run the following command in the directory containing your Dockerfile and requirements.txt:
-
-```sh
-docker build -t gsf .
-```
-
-This will:
-- Use the official Python 3.10-slim image.
-- Set /app as the working directory.
-- Install dependencies from requirements.txt.
-- Copy the glycopeptide_sequence_finder_cmd.py script into the container.
-- Set the entrypoint so that the script can be executed with arguments.
-
-2. Run the Docker Container
-
-To execute the script with test data, use:
-
-```sh
-docker run --rm \
-    -v "$(pwd)/test_proteomes:/app/test_proteomes" \
-    -v "$(pwd)/output:/app/digested_glycopeptide_library" \
-    gsf \
-    -i test_proteomes/apple_uniprotkb_proteome_UP000290289_AND_revi_2025_02_04.fasta \
-    -g N \
-    -o digested_glycopeptide_library/test.csv \
-    -p chymotrypsin \
-    -c 0 \
-    -v
-```
-
-Explanation of Flags:
-- --rm → Removes the container after execution.
-- -v "$(pwd)/test_proteomes:/app/test_proteomes" → Mounts the input FASTA files.
-- -v "$(pwd)/output:/app/digested_glycopeptide_library" → Mounts the output directory.
-- gsf → Runs the built image.
-- -i → Specifies the input FASTA file.
-- -g → Sets the glycosylation type (default: N).
-- -o → Defines the output file.
-- -p → Specifies the protease (e.g., chymotrypsin).
-- -c → Defines the missed cleavages.
-- -v → Enables verbose mode.
-
-3. Access the Output
-
-The output files will be saved in the mounted directory on your local machine:
-
-```sh
-ls output/digested_glycopeptide_library/
-```
-
-Your results should be inside output/digested_glycopeptide_library/test.csv.
 
 # Machine Learning (experimental)
 
@@ -434,6 +448,7 @@ The output file will be dynamically named:
 ### Example CSV Content
 
 ```CSV
+ProteinID,Site,GlyToucan_AC,Composition,ShorthandGlycan,Peptide,Start,End,Length,Sequon,GlycopeptideMass,PeptideMass,GlycanMass,Hydrophobicity,pI,z2,Charge,IonSeries,Glycan_Composition_Sequence,One_Hot_Encoding
 ProteinID,Site,GlyToucan_AC,Composition,ShorthandGlycan,Peptide,Start,End,Length,Sequon,GlycopeptideMass,PeptideMass,GlycanMass,Hydrophobicity,pI,z2,Charge,IonSeries
 sp|O95445|APOM_HUMAN,135.0,G22768VO,HexNAc(2)Hex(3),N2H3,TELFSSSCPGGIMLNETGQGYQR,121.0,143.0,23.0,NET,3690.543457999999,2474.1205949999994,1216.422863,-0.47826,4.26,1846.2790049999996,2,"{'b': [102.055, 231.0975, 344.1816, 491.25, 578.282, 665.3141, 752.3461, 855.3553, 952.4081, 1009.4295, 1066.451, 1179.535, 1310.5755, 1423.6596, 1537.7025, 1666.7451, 1767.7928, 1824.8142, 1952.8728, 2009.8943, 2172.9576, 2301.0162], 'y': [175.119, 303.1775, 466.2409, 523.2623, 651.3209, 708.3424, 809.39, 938.4326, 1052.4756, 1165.5596, 1296.6001, 1409.6842, 1466.7056, 1523.7271, 1620.7799, 1723.789, 1810.8211, 1897.8531, 1984.8851, 2131.9535, 2245.0376, 2374.0802], 'c': [119.0815, 248.124, 361.2081, 508.2765, 595.3085, 682.3406, 769.3726, 872.3818, 969.4346, 1026.456, 1083.4775, 1196.5615, 1327.602, 1440.6861, 1554.729, 1683.7716, 1784.8193, 1841.8407, 1969.8993, 2026.9208, 2189.9841, 2318.0427], 'z': [140.0819, 268.1405, 431.2038, 488.2253, 616.2838, 673.3053, 774.353, 903.3956, 1017.4385, 1130.5226, 1261.563, 1374.6471, 1431.6686, 1488.69, 1585.7428, 1688.752, 1775.784, 1862.816, 1949.8481, 2096.9165, 2210.0005, 2339.0431], 'Y': {'Y0': 2475.1279, 'Y1': 2678.2073, 'Y2': 2881.2867, 'Y3': 3043.3395, 'Y4': 3205.3923, 'Y5': 3367.4451}, '2Y': {'2Y0': 1237.5639, '2Y1': 1339.1036, '2Y2': 1440.6433, '2Y3': 1521.6697, '2Y4': 1602.6961, '2Y5': 1683.7225}, 'B': {'B_HexNAc_1': 204.0867, 'B_HexNAc_2': 407.1661, 'B_Hex_1': 569.2189, 'B_Hex_2': 731.2717, 'B_Hex_3': 893.3245}, 'oxonium': {'ox_HexNAc': 204.0867, 'ox_Hex': 163.0601}}"
 sp|P00450|CERU_HUMAN,138.0,G22768VO,HexNAc(2)Hex(3),N2H3,EHEGAIYPDNTTDFQR,129.0,144.0,16.0,NTT,3108.2565080000004,1891.8336450000002,1216.422863,-1.51875,3.95,1555.1355300000002,2,"{'b': [130.0499, 267.1088, 396.1514, 453.1728, 524.2099, 637.294, 800.3573, 897.4101, 1012.437, 1126.48, 1227.5276, 1328.5753, 1443.6023, 1590.6707, 1718.7292], 'y': [175.119, 303.1775, 450.2459, 565.2729, 666.3206, 767.3682, 881.4112, 996.4381, 1093.4909, 1256.5542, 1369.6383, 1440.6754, 1497.6968, 1626.7394, 1763.7983], 'c': [147.0764, 284.1353, 413.1779, 470.1993, 541.2364, 654.3205, 817.3838, 914.4366, 1029.4635, 1143.5065, 1244.5541, 1345.6018, 1460.6288, 1607.6972, 1735.7557], 'z': [140.0819, 268.1405, 415.2089, 530.2358, 631.2835, 732.3312, 846.3741, 961.401, 1058.4538, 1221.5171, 1334.6012, 1405.6383, 1462.6598, 1591.7024, 1728.7613], 'Y': {'Y0': 1892.8409, 'Y1': 2095.9203, 'Y2': 2298.9997, 'Y3': 2461.0525, 'Y4': 2623.1053, 'Y5': 2785.1581}, '2Y': {'2Y0': 946.4205, '2Y1': 1047.9602, '2Y2': 1149.4999, '2Y3': 1230.5263, '2Y4': 1311.5527, '2Y5': 1392.5791}, 'B': {'B_HexNAc_1': 204.0867, 'B_HexNAc_2': 407.1661, 'B_Hex_1': 569.2189, 'B_Hex_2': 731.2717, 'B_Hex_3': 893.3245}, 'oxonium': {'ox_HexNAc': 204.0867, 'ox_Hex': 163.0601}}"
@@ -476,7 +491,7 @@ G41247ZX,HexNAc(2)Hex(6) % 1378.475686,HexNAc(2)Hex(6),N2H6,NNHHHHHH
 
 # Plot Mock Mass Spectrum
 
-![PiggieGlycopeptides](mock_mass_spectra/sp_P02763_A1AG1_HUMAN_103_ENGTISR_G62765YT_mock_mass_spectrum.png)
+![PiggieGlycopeptides](/data/mock_mass_spectra/sp_P02763_A1AG1_HUMAN_103_ENGTISR_G62765YT_mock_mass_spectrum.png)
 
 plot_mock_mass_spectra.py
 
@@ -504,7 +519,7 @@ The CSV file must contain the following required columns:
 - `GlyToucan_AC`: GlyToucan accession number.
 
 ```bash
-python script.py -i digested_glycopeptide_library/pig_uniprotkb_proteome_UP000008227_AND_revi_2025_02_01_trypsin_digested_mc0_z2_N-glycopeptides.csv
+python plot_mock_mass_spectra.py -i data/digested_glycopeptide_library/pig_uniprotkb_proteome_UP000008227_AND_revi_2025_02_01_trypsin_digested_mc0_z2_N-glycopeptides.csv
 ```
 
 This will process `example_data.csv` and save the mass spectrum plots in the `results/` directory.

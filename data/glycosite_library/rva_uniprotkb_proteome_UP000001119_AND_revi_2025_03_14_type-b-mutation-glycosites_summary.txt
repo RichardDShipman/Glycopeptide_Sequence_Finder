@@ -1,0 +1,6 @@
+Glycosite Summary for rva_uniprotkb_proteome_UP000001119_AND_revi_2025_03_14
+Glycosylation Type: type-b-mutation
+Total Glycosites Found: 0
+Total Proteins with Glycosites: 0
+
+Glycosites per Protein:

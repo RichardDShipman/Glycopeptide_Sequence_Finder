@@ -1,0 +1,17 @@
+Glycosite Summary for rvc_uniprotkb_proteome_UP000007664_AND_revi_2025_03_14
+Glycosylation Type: N
+Total Glycosites Found: 58
+Total Proteins with Glycosites: 11
+
+Glycosites per Protein:
+sp|Q82040|VP4_ROTHC: 10 glycosites
+sp|Q82041|VP3_ROTHC: 5 glycosites
+sp|Q82055|NSP4_ROTHC: 4 glycosites
+sp|Q91E95|RDRP_ROTHC: 9 glycosites
+sp|Q9PY93|NSP2_ROTHC: 2 glycosites
+sp|P69481|VP6_ROTHC: 6 glycosites
+sp|Q00682|NSP5_ROTHC: 4 glycosites
+sp|Q89865|VP7_ROTHC: 3 glycosites
+sp|Q91E96|VP2_ROTHC: 7 glycosites
+sp|Q9PY94|NSP1_ROTHC: 3 glycosites
+sp|Q9PY95|NSP3_ROTHC: 5 glycosites

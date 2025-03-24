@@ -1,0 +1,10 @@
+Glycosite Summary for alpaca_uniprotkb_proteome_UP000504605_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 5
+Total Proteins with Glycosites: 4
+
+Glycosites per Protein:
+sp|P68228|HBB_VICPA: 1 glycosites
+sp|P67816|HBA_VICPA: 1 glycosites
+sp|Q1WBV0|RL34_VICPA: 1 glycosites
+sp|Q34916|CYB_VICPA: 2 glycosites

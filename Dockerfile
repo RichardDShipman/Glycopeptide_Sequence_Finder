@@ -8,8 +8,14 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the script into the container
-COPY glycopeptide_sequence_finder_cmd.py .
+# Create the necessary directory structure
+RUN mkdir -p /app/src /app/data/test_proteomes /app/data/digested_peptide_library /app/data/digested_glycopeptide_library /app/data/logs
+
+# Copy the source code
+COPY src/glycopeptide_sequence_finder_cmd.py /app/src/
 
 # Set the default entrypoint to allow passing arguments
-ENTRYPOINT ["python", "glycopeptide_sequence_finder_cmd.py"]
+ENTRYPOINT ["python", "/app/src/glycopeptide_sequence_finder_cmd.py"]
+
+# Add a default CMD to show usage instructions
+CMD ["--help"]

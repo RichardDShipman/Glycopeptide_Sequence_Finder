@@ -1,0 +1,14 @@
+Glycosite Summary for banana_uniprotkb_proteome_UP000012960_AND_revi_2025_03_15
+Glycosylation Type: N
+Total Glycosites Found: 10
+Total Proteins with Glycosites: 8
+
+Glycosites per Protein:
+sp|O22338|METK_MUSAC: 1 glycosites
+sp|P0DO54|TIP12_MUSAC: 2 glycosites
+sp|Q9XF47|F16P2_MUSAC: 1 glycosites
+sp|O22319|MT2_MUSAC: 1 glycosites
+sp|Q2THP9|PSBL_MUSAC: 1 glycosites
+sp|Q42362|RR8_MUSAC: 1 glycosites
+sp|Q9AXQ9|DHYS_MUSAC: 1 glycosites
+sp|Q9SDX3|UGPA_MUSAC: 2 glycosites

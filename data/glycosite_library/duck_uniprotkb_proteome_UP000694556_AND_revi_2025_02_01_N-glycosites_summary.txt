@@ -1,0 +1,11 @@
+Glycosite Summary for duck_uniprotkb_proteome_UP000694556_AND_revi_2025_02_01
+Glycosylation Type: N
+Total Glycosites Found: 10
+Total Proteins with Glycosites: 5
+
+Glycosites per Protein:
+sp|P14260|HBB_CAIMO: 1 glycosites
+sp|P02003|HBAD_CAIMO: 1 glycosites
+sp|P14261|HBE_CAIMO: 1 glycosites
+sp|Q7ZTV5|FSHR_CAIMO: 4 glycosites
+sp|P50666|COX2_CAIMO: 3 glycosites

@@ -1,9 +1,0 @@
-Glycosite Summary for datepalm_uniprotkb_proteome_UP000228380_AND_revi_2025_02_26
-Glycosylation Type: N
-Total Glycosites Found: 11
-Total Proteins with Glycosites: 3
-
-Glycosites per Protein:
-sp|Q85Y15|NDHI_PHODC: 3 glycosites
-sp|Q9BA86|ATPB_PHODC: 1 glycosites
-sp|Q9GHB2|MATK_PHODC: 7 glycosites

@@ -1,0 +1,14 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|Q83883|POLG_NVN68,20,NNS,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF1
+sp|Q83883|POLG_NVN68,1005,NYS,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF1
+sp|Q83883|POLG_NVN68,1412,NGT,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF1
+sp|Q83883|POLG_NVN68,1702,NHS,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF1
+sp|Q83884|CAPSD_NVN68,26,NAS,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF2
+sp|Q83884|CAPSD_NVN68,73,NNT,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF2
+sp|Q83884|CAPSD_NVN68,136,NLT,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF2
+sp|Q83884|CAPSD_NVN68,295,NGT,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF2
+sp|Q83884|CAPSD_NVN68,300,NLT,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF2
+sp|Q83884|CAPSD_NVN68,331,NMT,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF2
+sp|Q83885|VP2_NVN68,143,NYS,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF3
+sp|Q83885|VP2_NVN68,160,NSS,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF3
+sp|Q83885|VP2_NVN68,166,NLS,Norovirus (strain Human/NoV/United States/Norwalk/1968/GI),524364,ORF3

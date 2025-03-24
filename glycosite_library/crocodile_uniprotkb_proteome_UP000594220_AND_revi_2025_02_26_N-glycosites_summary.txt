@@ -1,8 +1,0 @@
-Glycosite Summary for crocodile_uniprotkb_proteome_UP000594220_AND_revi_2025_02_26
-Glycosylation Type: N
-Total Glycosites Found: 2
-Total Proteins with Glycosites: 2
-
-Glycosites per Protein:
-sp|A0A7G6KN55|DFB13_CROPO: 1 glycosites
-sp|O55245|TTHY_CROPO: 1 glycosites

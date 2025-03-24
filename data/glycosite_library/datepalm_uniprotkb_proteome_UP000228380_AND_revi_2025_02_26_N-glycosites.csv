@@ -1,0 +1,12 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|Q85Y15|NDHI_PHODC,10,NYS,Phoenix dactylifera,42345,ndhI
+sp|Q85Y15|NDHI_PHODC,96,NYS,Phoenix dactylifera,42345,ndhI
+sp|Q85Y15|NDHI_PHODC,143,NST,Phoenix dactylifera,42345,ndhI
+sp|Q9BA86|ATPB_PHODC,60,NVT,Phoenix dactylifera,42345,atpB
+sp|Q9GHB2|MATK_PHODC,38,NSS,Phoenix dactylifera,42345,matK
+sp|Q9GHB2|MATK_PHODC,53,NKS,Phoenix dactylifera,42345,matK
+sp|Q9GHB2|MATK_PHODC,78,NDS,Phoenix dactylifera,42345,matK
+sp|Q9GHB2|MATK_PHODC,202,NNS,Phoenix dactylifera,42345,matK
+sp|Q9GHB2|MATK_PHODC,333,NCS,Phoenix dactylifera,42345,matK
+sp|Q9GHB2|MATK_PHODC,419,NLS,Phoenix dactylifera,42345,matK
+sp|Q9GHB2|MATK_PHODC,512,NYS,Phoenix dactylifera,42345,matK

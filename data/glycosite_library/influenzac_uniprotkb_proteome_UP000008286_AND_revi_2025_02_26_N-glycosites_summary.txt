@@ -1,0 +1,14 @@
+Glycosite Summary for influenzac_uniprotkb_proteome_UP000008286_AND_revi_2025_02_26
+Glycosylation Type: N
+Total Glycosites Found: 34
+Total Proteins with Glycosites: 8
+
+Glycosites per Protein:
+sp|Q6I7B9|MAT_INCAA: 3 glycosites
+sp|P68762|HEMA_INCAA: 8 glycosites
+sp|Q01639|NS1_INCAA: 1 glycosites
+sp|Q6I7C2|PA_INCAA: 5 glycosites
+sp|Q01640|NEP_INCAA: 2 glycosites
+sp|Q6I7C0|NCAP_INCAA: 5 glycosites
+sp|Q6I7C3|RDRP_INCAA: 6 glycosites
+sp|Q6I7C4|PB2_INCAA: 4 glycosites

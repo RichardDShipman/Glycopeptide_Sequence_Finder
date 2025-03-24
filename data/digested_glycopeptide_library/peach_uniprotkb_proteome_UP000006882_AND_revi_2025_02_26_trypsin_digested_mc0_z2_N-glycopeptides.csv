@@ -1,0 +1,2 @@
+ProteinID,Site,Peptide,Start,End,Length,Sequon,PredictedMass,Hydrophobicity,pI
+sp|A0A251PW43|DRO1_PRUPE,79,ENAAESQDIQEDPTSSEEILDNFTPEEVGK,58,87,30,NFT,3320.469145,-1.23,3.11
