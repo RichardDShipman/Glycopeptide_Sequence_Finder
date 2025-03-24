@@ -11,11 +11,14 @@ The project follows a standard Python package structure:
 ```
 Glycopeptide_Sequence_Finder/
 ├── data/                           # Data directory containing all input/output files
-│   ├── test_proteomes/            # Input FASTA files
 │   ├── digested_peptide_library/  # Output peptide library
 │   ├── digested_glycopeptide_library/  # Output glycopeptide library
+│   ├── glycan_mass_library/       # Glycan mass library files
+│   ├── glycosite_library/         # Output glycosite library
 │   ├── logs/                      # Log files
-│   └── glycan_library/            # Glycan library files
+│   ├── mock_mass_spectra/         # Mock mass spectrometry data
+│   ├── glycan_library/            # Glycan library files
+│   └── test_proteomes/            # Input FASTA files
 ├── src/                           # Source code directory
 │   └── glycopeptide_sequence_finder_cmd.py  # Main script
 ├── scripts/                       # Utility scripts
