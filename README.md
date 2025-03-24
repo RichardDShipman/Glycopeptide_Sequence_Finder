@@ -1,6 +1,8 @@
 # Glycopeptide Sequence Finder
 
-A tool for identifying and analyzing glycopeptide sequences from protein FASTA files.
+A tool for identifying and analyzing glycopeptide sequences from protein FASTA files. 
+
+Check out the [wiki](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder/wiki)!
 
 # Quick Start Guide
 
