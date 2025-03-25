@@ -33,7 +33,7 @@ Glycopeptide_Sequence_Finder/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Glycopeptide_Sequence_Finder.git
+git clone https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder.git
 cd Glycopeptide_Sequence_Finder
 ```
 
