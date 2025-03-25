@@ -63,8 +63,9 @@ echo "$ascii_glycopeptide1"
 echo "Starting glycopeptide sequence finder..."
 echo "Please wait while the glycopeptide sequence finder is running..."
 
-# Process each FASTA file individually to better handle errors
-for fasta_file in "${PROJECT_ROOT}/${input_dir}"/*.fasta; do
+# Define the processing function
+process_fasta() {
+    local fasta_file="$1"
     echo "Processing $fasta_file..."
     
     # Generate output filename
@@ -85,9 +86,16 @@ for fasta_file in "${PROJECT_ROOT}/${input_dir}"/*.fasta; do
         echo "Successfully processed ${fasta_file}"
     else
         echo "Error processing ${fasta_file}. Check ${log_file} for details."
-        continue
     fi
-done
+}
+
+# Export the function and variables needed by it
+export -f process_fasta
+export PROJECT_ROOT protease glycosylation_type missed_cleavages charge_state max_peptide_length min_peptide_length timestamp log_file
+
+# Process each FASTA file in parallel using xargs
+find "${PROJECT_ROOT}/${input_dir}" -name "*.fasta" | \
+xargs -P ${cores} -I {} bash -c 'process_fasta "{}"'
 
 echo "Digested and tasted the glycoproteome. Yummy! 🍽️"
 

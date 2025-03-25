@@ -53,12 +53,12 @@ glycosylation = {
     "O-Glucose-2": ("C.S.[PA]C"),  # C-X-S-X-P/A-C
 
     # mutation glycosylation site motifs
-    "type-a-mutation": ("[^N][^P][ST]"),  # N-glycosylation mutation at first position
-    "type-b-mutation": ("NP[ST]"),  # N-glycosylation mutation at second pos
-    "type-c-mutation": ("N[^P][^S^T]"),  # N-glycosylation mutation at third pos
-    "type-a-extended-mutation": ("[^N][^P][STC]"),  # N-glycosylation mutation at first position
-    "type-b-extended-mutation": ("NP[STC]"),  # N-glycosylation mutation at second pos
-    "type-c-extended-mutation": ("N[^P][^S^T^C]"),  # N-glycosylation mutation at third pos extended to include C
+    "type-mutation-c": ("[^N][^P][ST]"),  # N-glycosylation mutation at first position
+    "type-mutation-b": ("NP[ST]"),  # N-glycosylation mutation at second pos
+    "type-mutation-a": ("N[^P][^S^T]"),  # N-glycosylation mutation at third pos
+    "type-extended-mutation-a": ("[^N][^P][STC]"),  # N-glycosylation mutation at first position
+    "type-extended-mutation-b": ("NP[STC]"),  # N-glycosylation mutation at second pos
+    "type-extended-mutation-c": ("N[^P][^S^T^C]"),  # N-glycosylation mutation at third pos extended to include C
 
 }
 
@@ -760,13 +760,40 @@ def scan_glycosites(file, glycosylation_type):
             site = match.start() + 1  # 1-based indexing
             sequon = sequence[site-1:site+2]  # Extract sequon
             
+            # Get the 21-amino acid sequence centered on the glycosite
+            # Calculate start and end positions (0-based)
+            start_pos = site - 11  # 10 residues before the site
+            end_pos = site + 9     # 10 residues after the site
+            
+            # Create padded sequence
+            seq21 = ""
+            if start_pos < 0:
+                # Add padding at the start
+                seq21 += "Z" * abs(start_pos)
+                seq21 += sequence[0:end_pos+1]
+            elif end_pos >= len(sequence):
+                # Add padding at the end
+                seq21 += sequence[start_pos:]
+                seq21 += "Z" * (end_pos - len(sequence) + 1)
+            else:
+                # No padding needed
+                seq21 = sequence[start_pos:end_pos+1]
+            
+            # Ensure the sequence is exactly 21 amino acids
+            if len(seq21) != 21:
+                if len(seq21) < 21:
+                    seq21 += "Z" * (21 - len(seq21))
+                else:
+                    seq21 = seq21[:21]
+            
             glycosites.append({
                 "ProteinID": protein_id,
                 "Site": site,
                 "Sequon": sequon,
                 "Species": os_value,
                 "TaxonID": ox_value,
-                "GeneName": gn_value
+                "GeneName": gn_value,
+                "seq21": seq21
             })
     
     return glycosites
@@ -774,7 +801,7 @@ def scan_glycosites(file, glycosylation_type):
 def write_glycosites_csv(output_file, data):
     """Writes glycosite results to a CSV file."""
     with open(output_file, mode="w", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=["ProteinID", "Site", "Sequon", "Species", "TaxonID", "GeneName"])
+        writer = csv.DictWriter(file, fieldnames=["ProteinID", "Site", "Sequon", "Species", "TaxonID", "GeneName", "seq21"])
         writer.writeheader()
         writer.writerows(data)
 

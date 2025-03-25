@@ -1,7 +1,0 @@
-Glycosite Summary for rvb_uniprotkb_proteome_UP000114294_2025_03_14
-Glycosylation Type: type-b-mutation
-Total Glycosites Found: 1
-Total Proteins with Glycosites: 1
-
-Glycosites per Protein:
-tr|D6NGF7|D6NGF7_ROTGA: 1 glycosites

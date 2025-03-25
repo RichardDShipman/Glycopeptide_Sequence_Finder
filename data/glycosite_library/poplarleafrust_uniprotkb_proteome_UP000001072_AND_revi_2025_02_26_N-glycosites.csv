@@ -1,8 +1,8 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName
-sp|A0A858E4Y8|TPS1_MELLP,170,NKT,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,ILTPS1
-sp|A0A858E7G0|GGDPS_MELLP,19,NLS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS
-sp|A0A858E7G0|GGDPS_MELLP,38,NIS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS
-sp|A0A858E7G0|GGDPS_MELLP,209,NKT,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS
-sp|A0A858E7G0|GGDPS_MELLP,253,NLS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS
-sp|A0A858E4Y6|TPS2_MELLP,107,NIS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,ILTPS2
-sp|A0A858E4Y6|TPS2_MELLP,162,NKT,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,ILTPS2
+ProteinID,Site,Sequon,Species,TaxonID,GeneName,seq21
+sp|A0A858E4Y8|TPS1_MELLP,170,NKT,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,ILTPS1,TEEEYLRMIHNKTGAIFRLPM
+sp|A0A858E7G0|GGDPS_MELLP,19,NLS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS,GKVDDKVEHHNLSSSSSSSSS
+sp|A0A858E7G0|GGDPS_MELLP,38,NIS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS,SSSSSSDTKFNISNRYGNFLQ
+sp|A0A858E7G0|GGDPS_MELLP,209,NKT,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS,TEEEYLQMVNNKTGGLFRIAI
+sp|A0A858E7G0|GGDPS_MELLP,253,NLS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,GGDPS,IIFQIRDDLLNLSSVYTKNKG
+sp|A0A858E4Y6|TPS2_MELLP,107,NIS,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,ILTPS2,ATYVFFDAYRNISKLTPFLKS
+sp|A0A858E4Y6|TPS2_MELLP,162,NKT,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7),747676,ILTPS2,TEEEYLRMIHNKTGAMFRLPI

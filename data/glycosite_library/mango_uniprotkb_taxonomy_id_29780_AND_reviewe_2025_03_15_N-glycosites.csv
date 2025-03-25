@@ -1,3 +1,3 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName
-sp|A0A0M4KE44|CGT_MANIN,84,NTT,Mangifera indica,29780,CGT
-sp|A0A0M4KE44|CGT_MANIN,365,NSS,Mangifera indica,29780,CGT
+ProteinID,Site,Sequon,Species,TaxonID,GeneName,seq21
+sp|A0A0M4KE44|CGT_MANIN,84,NTT,Mangifera indica,29780,CGT,HLLPFDPSTANTTDPFFLRWE
+sp|A0A0M4KE44|CGT_MANIN,365,NSS,Mangifera indica,29780,CGT,VGGFVTHGGWNSSMEAVWHGV
