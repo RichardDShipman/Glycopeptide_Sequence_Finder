@@ -1,0 +1,8 @@
+Glycosite Summary for blackbear_uniprotkb_taxonomy_id_9643_AND_reviewed_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 5
+Total Proteins with Glycosites: 2
+
+Glycosites per Protein:
+sp|A6XKM2|CXA1_URSAM: 2 glycosites
+sp|Q36194|CYB_URSAM: 3 glycosites

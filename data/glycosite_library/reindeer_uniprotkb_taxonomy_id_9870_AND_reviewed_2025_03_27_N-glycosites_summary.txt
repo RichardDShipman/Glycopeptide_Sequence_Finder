@@ -1,0 +1,8 @@
+Glycosite Summary for reindeer_uniprotkb_taxonomy_id_9870_AND_reviewed_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 4
+Total Proteins with Glycosites: 2
+
+Glycosites per Protein:
+sp|P21379|HBA_RANTA: 1 glycosites
+sp|P56448|MSHR_RANTA: 3 glycosites

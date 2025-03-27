@@ -1,0 +1,15 @@
+Glycosite Summary for dolphin_uniprotkb_proteome_UP000245320_AND_revi_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 20
+Total Proteins with Glycosites: 9
+
+Glycosites per Protein:
+sp|D7PC76|S26A5_TURTR: 5 glycosites
+sp|Q9BEA1|TNFA_TURTR: 1 glycosites
+sp|Q9TV67|IFNG_TURTR: 2 glycosites
+sp|O62798|OPSD_TURTR: 3 glycosites
+sp|P18978|HBA_TURTR: 1 glycosites
+sp|Q9TDJ9|CYB_TURTR: 2 glycosites
+sp|Q864Q0|SRY_TURTR: 1 glycosites
+sp|Q9GMZ4|IL1RA_TURTR: 2 glycosites
+sp|Q9XS58|IL4_TURTR: 3 glycosites

@@ -1,0 +1,7 @@
+Glycosite Summary for polarbear_uniprotkb_taxonomy_id_29073_AND_reviewe_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 2
+Total Proteins with Glycosites: 1
+
+Glycosites per Protein:
+sp|Q36082|CYB_URSMA: 2 glycosites

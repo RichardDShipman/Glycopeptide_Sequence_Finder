@@ -1,0 +1,8 @@
+Glycosite Summary for raccoon_uniprotkb_taxonomy_id_9654_AND_reviewed_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 2
+Total Proteins with Glycosites: 2
+
+Glycosites per Protein:
+sp|O18755|BDNF_PROLO: 1 glycosites
+sp|Q3L6Q6|NU4LM_PROLO: 1 glycosites

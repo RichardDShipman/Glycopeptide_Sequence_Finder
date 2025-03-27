@@ -1,0 +1,9 @@
+Glycosite Summary for cheetah_uniprotkb_taxonomy_id_32536_AND_reviewe_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 16
+Total Proteins with Glycosites: 3
+
+Glycosites per Protein:
+sp|A0A6J2ATK2|AMPQ_ACIJB: 13 glycosites
+sp|P0DSO9|APOA5_ACIJB: 1 glycosites
+sp|Q71RU1|CYB_ACIJB: 2 glycosites

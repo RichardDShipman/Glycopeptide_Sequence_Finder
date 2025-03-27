@@ -64,7 +64,7 @@ Run the batch script to process multiple FASTA files:
 
 Build the Docker image:
 ```bash
-docker build -t glycopeptide-finder .
+docker build -t glycopeptide-sequence-finder .
 ```
 
 Run the container:

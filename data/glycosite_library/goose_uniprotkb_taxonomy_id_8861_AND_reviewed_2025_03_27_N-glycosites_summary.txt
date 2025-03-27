@@ -1,0 +1,7 @@
+Glycosite Summary for goose_uniprotkb_taxonomy_id_8861_AND_reviewed_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 2
+Total Proteins with Glycosites: 1
+
+Glycosites per Protein:
+sp|P68151|IOVO_CHLPI: 2 glycosites

@@ -1,0 +1,20 @@
+Glycosite Summary for eel_uniprotkb_taxonomy_id_7937_AND_reviewed_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 27
+Total Proteins with Glycosites: 14
+
+Glycosites per Protein:
+sp|Q801X7|AJL1_ANGJA: 1 glycosites
+sp|P08899|SOMA_ANGJA: 1 glycosites
+sp|P18145|ANFC_ANGJA: 1 glycosites
+sp|P55202|ANPRB_ANGJA: 9 glycosites
+sp|Q6QHT9|CP19A_ANGJA: 3 glycosites
+sp|Q9I925|FUCL7_ANGJA: 1 glycosites
+sp|Q9I926|FUCL6_ANGJA: 1 glycosites
+sp|Q9I927|FUCL5_ANGJA: 1 glycosites
+sp|P22642|ANFV_ANGJA: 1 glycosites
+sp|Q7ZZV4|TSHB_ANGJA: 1 glycosites
+sp|Q9YGK3|GTHB1_ANGJA: 2 glycosites
+sp|P01262|CALC_ANGJA: 1 glycosites
+sp|Q60FX9|CCNB2_ANGJA: 1 glycosites
+sp|Q60FY0|CCNB1_ANGJA: 3 glycosites

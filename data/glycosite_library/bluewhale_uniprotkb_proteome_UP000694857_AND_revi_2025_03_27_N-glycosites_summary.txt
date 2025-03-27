@@ -1,0 +1,17 @@
+Glycosite Summary for bluewhale_uniprotkb_proteome_UP000694857_AND_revi_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 24
+Total Proteins with Glycosites: 11
+
+Glycosites per Protein:
+sp|P41293|COX1_BALMU: 5 glycosites
+sp|P41285|CYB_BALMU: 2 glycosites
+sp|P41291|ATP6_BALMU: 3 glycosites
+sp|P41292|ATP8_BALMU: 1 glycosites
+sp|P41294|COX2_BALMU: 2 glycosites
+sp|P41295|COX3_BALMU: 1 glycosites
+sp|P41296|NU1M_BALMU: 1 glycosites
+sp|P41297|NU2M_BALMU: 3 glycosites
+sp|P41298|NU4M_BALMU: 4 glycosites
+sp|P68307|NU3M_BALMU: 1 glycosites
+sp|Q864R0|SRY_BALMU: 1 glycosites

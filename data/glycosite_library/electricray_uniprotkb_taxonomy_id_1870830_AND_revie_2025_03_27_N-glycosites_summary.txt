@@ -1,0 +1,20 @@
+Glycosite Summary for electricray_uniprotkb_taxonomy_id_1870830_AND_revie_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 57
+Total Proteins with Glycosites: 14
+
+Glycosites per Protein:
+sp|P22127|RAB10_DIPOM: 2 glycosites
+sp|P24505|SY61_DIPOM: 4 glycosites
+sp|P24506|SY62_DIPOM: 5 glycosites
+sp|P22129|RB11B_DIPOM: 2 glycosites
+sp|P24507|SY63_DIPOM: 3 glycosites
+sp|P29240|5NTD_DIPOM: 4 glycosites
+sp|P47795|AP1M_DIPOM: 2 glycosites
+sp|P56698|CAC1B_DIPOM: 14 glycosites
+sp|P56699|CAC1E_DIPOM: 10 glycosites
+sp|P22124|RAL_DIPOM: 2 glycosites
+sp|P22125|RAB1_DIPOM: 1 glycosites
+sp|P22128|RAB8_DIPOM: 1 glycosites
+sp|Q90404|AGRIN_DIPOM: 5 glycosites
+sp|Q90405|MVP_DIPOM: 2 glycosites

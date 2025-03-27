@@ -1,0 +1,17 @@
+Glycosite Summary for belugawhale_uniprotkb_proteome_UP000248483_AND_revi_2025_03_27
+Glycosylation Type: N
+Total Glycosites Found: 35
+Total Proteins with Glycosites: 11
+
+Glycosites per Protein:
+sp|Q8SPZ3|P53_DELLE: 1 glycosites
+sp|Q8WNR1|TNFA_DELLE: 1 glycosites
+sp|Q8WNR2|IL1B_DELLE: 2 glycosites
+sp|Q95LD9|AHR_DELLE: 8 glycosites
+sp|Q9MYY3|VKGC_DELLE: 8 glycosites
+sp|Q9XS78|CD4_DELLE: 7 glycosites
+sp|Q9XS79|HEM1_DELLE: 2 glycosites
+sp|Q9XT75|HEM0_DELLE: 2 glycosites
+sp|Q9XT80|IL6_DELLE: 1 glycosites
+sp|O03812|CYB_DELLE: 2 glycosites
+sp|Q864Q3|SRY_DELLE: 1 glycosites

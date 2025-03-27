@@ -1,0 +1,2 @@
+ProteinID,Site,Peptide,Start,End,Length,Sequon,PredictedMass,Hydrophobicity,pI
+sp|P68151|IOVO_CHLPI,43,CNFCNAVVDSNGTLTLSHFGEC,33,54,22,NGT,2329.976575,0.29091,3.96
