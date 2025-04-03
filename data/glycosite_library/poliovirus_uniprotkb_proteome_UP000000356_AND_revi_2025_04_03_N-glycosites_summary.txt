@@ -1,0 +1,7 @@
+Glycosite Summary for poliovirus_uniprotkb_proteome_UP000000356_AND_revi_2025_04_03
+Glycosylation Type: N
+Total Glycosites Found: 18
+Total Proteins with Glycosites: 1
+
+Glycosites per Protein:
+sp|P03300|POLG_POL1M: 18 glycosites

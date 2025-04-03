@@ -1,0 +1,7 @@
+Glycosite Summary for rhinovirusa89_uniprotkb_proteome_UP000007070_AND_revi_2025_04_03
+Glycosylation Type: N
+Total Glycosites Found: 16
+Total Proteins with Glycosites: 1
+
+Glycosites per Protein:
+sp|P07210|POLG_HRV8A: 16 glycosites

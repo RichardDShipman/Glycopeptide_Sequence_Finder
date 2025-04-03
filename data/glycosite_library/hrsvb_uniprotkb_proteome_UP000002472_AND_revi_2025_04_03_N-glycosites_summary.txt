@@ -1,0 +1,16 @@
+Glycosite Summary for hrsvb_uniprotkb_proteome_UP000002472_AND_revi_2025_04_03
+Glycosylation Type: N
+Total Glycosites Found: 45
+Total Proteins with Glycosites: 10
+
+Glycosites per Protein:
+sp|O36634|FUS_HRSVB: 6 glycosites
+sp|O36635|L_HRSVB: 24 glycosites
+sp|O36632|SH_HRSVB: 2 glycosites
+sp|O36633|GLYC_HRSVB: 4 glycosites
+sp|O42038|NS2_HRSVB: 1 glycosites
+sp|O42049|MATRX_HRSVB: 1 glycosites
+sp|O42050|M21_HRSVB: 1 glycosites
+sp|O42053|NCAP_HRSVB: 3 glycosites
+sp|O42062|PHOSP_HRSVB: 2 glycosites
+sp|O42083|NS1_HRSVB: 1 glycosites
