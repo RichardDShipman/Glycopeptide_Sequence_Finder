@@ -25,13 +25,15 @@ import pandas as pd
 # Define protease cleavage rules
 proteases = {
     "trypsin": ("[KR]", "P"),  # Cleaves after K or R unless followed by P
-    "chymotrypsin": ("[FWY]", "P"),  # Cleaves after F, W, or Y unless followed by P
-    "glu-c": ("E", None),  # Cleaves after E
-    "lys-c": ("K", None),  # Cleaves after K
-    "arg-c": ("R", None),  # Cleaves after R
-    "pepsin": ("[FLWY]", None),  # Cleaves after F, W, or Y
+    "chymotrypsin": ("[FLWY]", "P"),  # Cleaves after F, L, W, or Y unless followed by P
+    "glu-c": ("[DE]", "P"),  # Cleaves after E
+    "lys-c": ("K", "P"),  # Cleaves after K unless followed by P
+    "arg-c": ("R", "P"),  # Cleaves after R
+    "pepsin": ("[FWY]", None),  # Cleaves after F, W, or Y
     "asp-n": ("D", None),  # Cleaves **before** Asp (D)
     "proteinase-k": ("[AFILVWY]", None),  # Cleaves after A, F, I, L, V, W, Y
+    "operator" : ("[ST]", None), # Cleaves after glycosylated S or T # set missed cleavage to 10 # for O glycopeptides
+    "thermolysin": ("[ALIVFM]", "[DE]") # Cleaves after A, L, I, V, F, M unless followed by D or E
 }
 
 # Define glycosylation sequon rules
