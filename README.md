@@ -1,6 +1,6 @@
 # Glycopeptide Sequence Finder
 
-A tool for identifying and analyzing glycopeptide sequences from protein FASTA files. 
+A tool for identifying and analyzing in silico generated digested glycopeptide sequences from protein FASTA files. 
 
 Check out the [wiki](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder/wiki)!
 
@@ -79,7 +79,7 @@ docker run -v "$(pwd)/data/test_proteomes:/app/data/test_proteomes" \
 
 Welcome to the Glycopeptide Sequence Finder! 
 
-This tool aims to facilitate the theoretical study of glycopeptide sequences found in various species across the tree of life. It can be used with publicly available curated data from protein sequence databases or by uploading your own protein FASTA sequences files.
+This tool aims to facilitate the theoretical in silico study of digested glycopeptide sequences found in various species across the tree of life. It can be used with publicly available curated data from protein sequence databases or by uploading your own protein FASTA sequences files.
 
 ![MockMassSpectrumOfAN-GlycopeptideFromAPig!](/data/mock_mass_spectra/sp_P01042_KNG1_HUMAN_205_ITYSIVQTNCSK_G62765YT_mock_mass_spectrum.png)
 
