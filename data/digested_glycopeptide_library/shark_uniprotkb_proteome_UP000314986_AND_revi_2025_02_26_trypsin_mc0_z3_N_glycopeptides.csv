@@ -1,0 +1,2 @@
+ProteinID,Site,Peptide,Start,End,Length,Sequon,PredictedMass,Hydrophobicity,pI
+sp|P0C5A2|DUS29_CALMI,157,NMTVVDAIQEVIQR,157,170,14,NMT,1614.839925,0.18571,3.97

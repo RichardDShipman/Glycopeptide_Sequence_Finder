@@ -1,0 +1,2026 @@
+================================================================================
+Glycopeptide Finder - Run Summary Report
+Run Date: 2025-06-08 10:02:08
+================================================================================
+
+--- Global Parameters ---
+Protease(s): trypsin
+Glycosylation Type: N
+Missed Cleavages: 0
+Peptide Length Range: 5-25
+Glycan Library: None
+Ion Series Calculation: Disabled
+
+
+--- Species/Group: Lion ---
+
+  File: lion_uniprotkb_taxonomy_id_9689_AND_reviewed_2025_03_27.fasta
+  - Total Proteins Processed: 6
+  - Total Potential Glycosites Found: 7
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 7
+      - Glycopeptides after Length Filter: 4
+
+
+--- Species/Group: Blacktruffle ---
+
+  File: blacktruffle_uniprotkb_proteome_UP000006911_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 14
+  - Total Potential Glycosites Found: 24
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 20
+      - Glycopeptides after Length Filter: 15
+
+
+--- Species/Group: Hamster ---
+
+  File: hamster_uniprotkb_proteome_UP000189706_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 276
+  - Total Potential Glycosites Found: 553
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 507
+      - Glycopeptides after Length Filter: 332
+
+
+--- Species/Group: Cuttlefish ---
+
+  File: cuttlefish_uniprotkb_taxonomy_id_6610_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 17
+  - Total Potential Glycosites Found: 11
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 11
+      - Glycopeptides after Length Filter: 7
+
+
+--- Species/Group: Lettuce ---
+
+  File: lettuce_uniprotkb_taxonomy_id_4236_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 91
+  - Total Potential Glycosites Found: 150
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 122
+      - Glycopeptides after Length Filter: 83
+
+
+--- Species/Group: Spinach ---
+
+  File: spinach_uniprotkb_taxonomy_id_3562_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 288
+  - Total Potential Glycosites Found: 394
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 347
+      - Glycopeptides after Length Filter: 247
+
+
+--- Species/Group: Westernbalsampoplar ---
+
+  File: westernbalsampoplar_uniprotkb_taxonomy_id_3694_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 143
+  - Total Potential Glycosites Found: 238
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 212
+      - Glycopeptides after Length Filter: 141
+
+
+--- Species/Group: Pear ---
+
+  File: pear_uniprotkb_taxonomy_id_23211_AND_reviewe_2025_03_15.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 15
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 14
+      - Glycopeptides after Length Filter: 9
+
+
+--- Species/Group: Gorilla ---
+
+  File: gorilla_uniprotkb_proteome_UP000001519_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 282
+  - Total Potential Glycosites Found: 629
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 568
+      - Glycopeptides after Length Filter: 315
+
+
+--- Species/Group: Liverwort ---
+
+  File: liverwort_uniprotkb_taxonomy_id_3197_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 164
+  - Total Potential Glycosites Found: 249
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 208
+      - Glycopeptides after Length Filter: 138
+
+
+--- Species/Group: Malaria ---
+
+  File: malaria_uniprotkb_taxonomy_id_5833_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 468
+  - Total Potential Glycosites Found: 4302
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 3664
+      - Glycopeptides after Length Filter: 2651
+
+
+--- Species/Group: Carrot ---
+
+  File: carrot_uniprotkb_taxonomy_id_4039_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 188
+  - Total Potential Glycosites Found: 322
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 292
+      - Glycopeptides after Length Filter: 192
+
+
+--- Species/Group: Duck ---
+
+  File: duck_uniprotkb_proteome_UP000694556_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 18
+  - Total Potential Glycosites Found: 10
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 10
+      - Glycopeptides after Length Filter: 5
+
+
+--- Species/Group: Norovirus ---
+
+  File: norovirus_uniprotkb_proteome_UP000000826_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 13
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 13
+      - Glycopeptides after Length Filter: 5
+
+
+--- Species/Group: Mango ---
+
+  File: mango_uniprotkb_taxonomy_id_29780_AND_reviewe_2025_03_15.fasta
+  - Total Proteins Processed: 2
+  - Total Potential Glycosites Found: 2
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2
+      - Glycopeptides after Length Filter: 1
+
+
+--- Species/Group: Redseaweed ---
+
+  File: redseaweed_uniprotkb_taxonomy_id_2787_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 217
+  - Total Potential Glycosites Found: 321
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 276
+      - Glycopeptides after Length Filter: 186
+
+
+--- Species/Group: Fruitfly ---
+
+  File: fruitfly_uniprotkb_proteome_UP000000803_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 3776
+  - Total Potential Glycosites Found: 15358
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 13793
+      - Glycopeptides after Length Filter: 7947
+
+
+--- Species/Group: Tiger ---
+
+  File: tiger_uniprotkb_taxonomy_id_74533_AND_reviewe_2025_03_27.fasta
+  - Total Proteins Processed: 9
+  - Total Potential Glycosites Found: 6
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 5
+      - Glycopeptides after Length Filter: 4
+
+
+--- Species/Group: Reindeer ---
+
+  File: reindeer_uniprotkb_taxonomy_id_9870_AND_reviewed_2025_03_27.fasta
+  - Total Proteins Processed: 9
+  - Total Potential Glycosites Found: 4
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 3
+      - Glycopeptides after Length Filter: 2
+
+
+--- Species/Group: Saharascorpion ---
+
+  File: saharascorpion_uniprotkb_taxonomy_id_6858_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 33
+  - Total Potential Glycosites Found: 6
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 6
+      - Glycopeptides after Length Filter: 6
+
+
+--- Species/Group: Hemp ---
+
+  File: hemp_uniprotkb_proteome_UP000583929_AND_revi_2025_02_25.fasta
+  - Total Proteins Processed: 14
+  - Total Potential Glycosites Found: 37
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 30
+      - Glycopeptides after Length Filter: 25
+
+
+--- Species/Group: Dicty ---
+
+  File: dicty_uniprotkb_proteome_UP000002195_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 4135
+  - Total Potential Glycosites Found: 28180
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 25564
+      - Glycopeptides after Length Filter: 12027
+
+
+--- Species/Group: Fissionyeast ---
+
+  File: fissionyeast_uniprotkb_taxonomy_id_4896_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 5131
+  - Total Potential Glycosites Found: 18047
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 16288
+      - Glycopeptides after Length Filter: 10171
+
+
+--- Species/Group: Zebra ---
+
+  File: zebra_uniprotkb_taxonomy_id_89252_AND_reviewe_2025_03_27.fasta
+  - Total Proteins Processed: 9
+  - Total Potential Glycosites Found: 9
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 8
+      - Glycopeptides after Length Filter: 4
+
+
+--- Species/Group: Alpaca ---
+
+  File: alpaca_uniprotkb_proteome_UP000504605_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 8
+  - Total Potential Glycosites Found: 5
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 4
+      - Glycopeptides after Length Filter: 2
+
+
+--- Species/Group: Hrsvb ---
+
+  File: hrsvb_uniprotkb_proteome_UP000002472_AND_revi_2025_04_03.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 45
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 43
+      - Glycopeptides after Length Filter: 32
+
+
+--- Species/Group: Polarbear ---
+
+  File: polarbear_uniprotkb_taxonomy_id_29073_AND_reviewe_2025_03_27.fasta
+  - Total Proteins Processed: 6
+  - Total Potential Glycosites Found: 2
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2
+      - Glycopeptides after Length Filter: 0
+
+
+--- Species/Group: Electricray ---
+
+  File: electricray_uniprotkb_taxonomy_id_1870830_AND_revie_2025_03_27.fasta
+  - Total Proteins Processed: 16
+  - Total Potential Glycosites Found: 57
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 50
+      - Glycopeptides after Length Filter: 37
+
+
+--- Species/Group: Wildrice ---
+
+  File: wildrice_uniprotkb_proteome_UP000006591_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 82
+  - Total Potential Glycosites Found: 78
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 73
+      - Glycopeptides after Length Filter: 46
+
+
+--- Species/Group: Dolphin ---
+
+  File: dolphin_uniprotkb_proteome_UP000245320_AND_revi_2025_03_27.fasta
+  - Total Proteins Processed: 16
+  - Total Potential Glycosites Found: 20
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 19
+      - Glycopeptides after Length Filter: 15
+
+
+--- Species/Group: Strawberry ---
+
+  File: strawberry_uniprotkb_taxonomy_id_3747_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 47
+  - Total Potential Glycosites Found: 50
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 50
+      - Glycopeptides after Length Filter: 34
+
+
+--- Species/Group: Urchin ---
+
+  File: urchin_uniprotkb_proteome_UP000007110_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 111
+  - Total Potential Glycosites Found: 270
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 247
+      - Glycopeptides after Length Filter: 145
+
+
+--- Species/Group: Marv ---
+
+  File: marv_uniprotkb_proteome_UP000180448_AND_revi_2025_03_24.fasta
+  - Total Proteins Processed: 7
+  - Total Potential Glycosites Found: 54
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 52
+      - Glycopeptides after Length Filter: 35
+
+
+--- Species/Group: Poplarleafrust ---
+
+  File: poplarleafrust_uniprotkb_proteome_UP000001072_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 6
+  - Total Potential Glycosites Found: 7
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 3
+      - Glycopeptides after Length Filter: 3
+
+
+--- Species/Group: Greenalga ---
+
+  File: greenalga_uniprotkb_proteome_UP000006906_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 108
+  - Total Potential Glycosites Found: 292
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 252
+      - Glycopeptides after Length Filter: 190
+
+
+--- Species/Group: Sorghum ---
+
+  File: sorghum_uniprotkb_proteome_UP000000768_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 137
+  - Total Potential Glycosites Found: 137
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 127
+      - Glycopeptides after Length Filter: 70
+
+
+--- Species/Group: Chimp ---
+
+  File: chimp_uniprotkb_proteome_UP000002277_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 692
+  - Total Potential Glycosites Found: 1800
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 1636
+      - Glycopeptides after Length Filter: 960
+
+
+--- Species/Group: Honeybee ---
+
+  File: honeybee_uniprotkb_proteome_UP000005203_AND_revi_2025_02_02.fasta
+  - Total Proteins Processed: 78
+  - Total Potential Glycosites Found: 137
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 114
+      - Glycopeptides after Length Filter: 81
+
+
+--- Species/Group: Macaque ---
+
+  File: macaque_uniprotkb_proteome_UP000006718_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 365
+  - Total Potential Glycosites Found: 754
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 676
+      - Glycopeptides after Length Filter: 400
+
+
+--- Species/Group: Lemon ---
+
+  File: lemon_uniprotkb_taxonomy_id_2708_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 8
+  - Total Potential Glycosites Found: 23
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 20
+      - Glycopeptides after Length Filter: 15
+
+
+--- Species/Group: Chameleon ---
+
+  File: chameleon_uniprotkb_proteome_UP000001646_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 7
+  - Total Potential Glycosites Found: 23
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 20
+      - Glycopeptides after Length Filter: 11
+
+  File: chameleon_uniprotkb_taxonomy_id_28377_AND_reviewe_2025_03_27.fasta
+  - Total Proteins Processed: 7
+  - Total Potential Glycosites Found: 23
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 20
+      - Glycopeptides after Length Filter: 11
+
+
+--- Species/Group: Spikemoss ---
+
+  File: spikemoss_uniprotkb_proteome_UP000001514_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 39
+  - Total Potential Glycosites Found: 56
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 53
+      - Glycopeptides after Length Filter: 34
+
+
+--- Species/Group: Mulberry ---
+
+  File: mulberry_uniprotkb_taxonomy_id_248361_AND_review_2025_03_15.fasta
+  - Total Proteins Processed: 80
+  - Total Potential Glycosites Found: 128
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 108
+      - Glycopeptides after Length Filter: 71
+
+
+--- Species/Group: Cjejuni ---
+
+  File: cjejuni_uniparc_proteome_UP000000436_2025_02_01.fasta
+  - Total Proteins Processed: 1836
+  - Total Potential Glycosites Found: 3680
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 3279
+      - Glycopeptides after Length Filter: 2611
+
+
+--- Species/Group: Diatom ---
+
+  File: diatom_uniprotkb_proteome_UP000001449_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 12
+  - Total Potential Glycosites Found: 17
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 12
+      - Glycopeptides after Length Filter: 8
+
+
+--- Species/Group: Mouse ---
+
+  File: mouse_uniprotkb_proteome_UP000000589_AND_revi_2025_01_17.fasta
+  - Total Proteins Processed: 17223
+  - Total Potential Glycosites Found: 50403
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 44887
+      - Glycopeptides after Length Filter: 28070
+
+
+--- Species/Group: Muskmelon ---
+
+  File: muskmelon_uniprotkb_taxonomy_id_3656_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 20
+  - Total Potential Glycosites Found: 49
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 47
+      - Glycopeptides after Length Filter: 35
+
+
+--- Species/Group: Arabidopsis ---
+
+  File: arabidopsis_uniprotkb_proteome_UP000006548_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 16318
+  - Total Potential Glycosites Found: 44406
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 39511
+      - Glycopeptides after Length Filter: 25641
+
+
+--- Species/Group: Fallarmyworm ---
+
+  File: fallarmyworm_uniprotkb_proteome_UP000829999_AND_revi_2025_03_07.fasta
+  - Total Proteins Processed: 49
+  - Total Potential Glycosites Found: 45
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 40
+      - Glycopeptides after Length Filter: 32
+
+
+--- Species/Group: Locust ---
+
+  File: locust_uniprotkb_taxonomy_id_7004_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 93
+  - Total Potential Glycosites Found: 63
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 55
+      - Glycopeptides after Length Filter: 22
+
+
+--- Species/Group: Soybean ---
+
+  File: soybean_uniprotkb_taxonomy_id_3847_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 436
+  - Total Potential Glycosites Found: 719
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 645
+      - Glycopeptides after Length Filter: 414
+
+
+--- Species/Group: Cabbage ---
+
+  File: cabbage_uniprotkb_taxonomy_id_3712_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 70
+  - Total Potential Glycosites Found: 134
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 114
+      - Glycopeptides after Length Filter: 82
+
+
+--- Species/Group: Lemur ---
+
+  File: lemur_uniprotkb_proteome_UP000694394_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 16
+  - Total Potential Glycosites Found: 65
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 53
+      - Glycopeptides after Length Filter: 26
+
+
+--- Species/Group: Hhv1 ---
+
+  File: hhv1_uniprotkb_proteome_UP000009294_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 73
+  - Total Potential Glycosites Found: 121
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 110
+      - Glycopeptides after Length Filter: 58
+
+
+--- Species/Group: Aspergillusnidulans ---
+
+  File: aspergillusnidulans_uniprotkb_proteome_UP000000560_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 1021
+  - Total Potential Glycosites Found: 3045
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2758
+      - Glycopeptides after Length Filter: 1639
+
+
+--- Species/Group: Sftsv ---
+
+  File: sftsv_uniprotkb_proteome_UP000201130_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 6
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 5
+      - Glycopeptides after Length Filter: 4
+
+
+--- Species/Group: Wasp ---
+
+  File: wasp_uniprotkb_proteome_UP000002358_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 7
+  - Total Potential Glycosites Found: 17
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 15
+      - Glycopeptides after Length Filter: 12
+
+
+--- Species/Group: Pig ---
+
+  File: pig_uniprotkb_proteome_UP000008227_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 1459
+  - Total Potential Glycosites Found: 2995
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2692
+      - Glycopeptides after Length Filter: 1689
+
+
+--- Species/Group: Maize ---
+
+  File: maize_uniprotkb_proteome_UP000007305_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 831
+  - Total Potential Glycosites Found: 1089
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 982
+      - Glycopeptides after Length Filter: 633
+
+
+--- Species/Group: Grape ---
+
+  File: grape_uniprotkb_proteome_UP000009183_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 131
+  - Total Potential Glycosites Found: 194
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 168
+      - Glycopeptides after Length Filter: 119
+
+
+--- Species/Group: Bluewhale ---
+
+  File: bluewhale_uniprotkb_proteome_UP000694857_AND_revi_2025_03_27.fasta
+  - Total Proteins Processed: 14
+  - Total Potential Glycosites Found: 24
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 21
+      - Glycopeptides after Length Filter: 3
+
+
+--- Species/Group: Turkey ---
+
+  File: turkey_uniprotkb_proteome_UP000001645_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 57
+  - Total Potential Glycosites Found: 95
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 80
+      - Glycopeptides after Length Filter: 48
+
+
+--- Species/Group: Influenzac ---
+
+  File: influenzac_uniprotkb_proteome_UP000008286_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 8
+  - Total Potential Glycosites Found: 34
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 30
+      - Glycopeptides after Length Filter: 25
+
+
+--- Species/Group: Oyster ---
+
+  File: oyster_uniprotkb_proteome_UP000005408_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 16
+  - Total Potential Glycosites Found: 16
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 15
+      - Glycopeptides after Length Filter: 11
+
+
+--- Species/Group: Cornsmut ---
+
+  File: cornsmut_uniprotkb_proteome_UP000000561_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 393
+  - Total Potential Glycosites Found: 1147
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 999
+      - Glycopeptides after Length Filter: 617
+
+
+--- Species/Group: Datepalm ---
+
+  File: datepalm_uniprotkb_proteome_UP000228380_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 6
+  - Total Potential Glycosites Found: 11
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 10
+      - Glycopeptides after Length Filter: 8
+
+
+--- Species/Group: Donkey ---
+
+  File: donkey_uniprotkb_proteome_UP000694387_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 37
+  - Total Potential Glycosites Found: 55
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 53
+      - Glycopeptides after Length Filter: 20
+
+
+--- Species/Group: Coffee ---
+
+  File: coffee_uniprotkb_taxonomy_id_13443_AND_reviewe_2025_03_15.fasta
+  - Total Proteins Processed: 97
+  - Total Potential Glycosites Found: 139
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 127
+      - Glycopeptides after Length Filter: 90
+
+
+--- Species/Group: Vzv ---
+
+  File: vzv_uniprotkb_proteome_UP000002602_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 69
+  - Total Potential Glycosites Found: 226
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 202
+      - Glycopeptides after Length Filter: 114
+
+
+--- Species/Group: Goldfish ---
+
+  File: goldfish_uniprotkb_taxonomy_id_7957_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 104
+  - Total Potential Glycosites Found: 183
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 158
+      - Glycopeptides after Length Filter: 103
+
+
+--- Species/Group: Rhinovirusa89 ---
+
+  File: rhinovirusa89_uniprotkb_proteome_UP000007070_AND_revi_2025_04_03.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 16
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 16
+      - Glycopeptides after Length Filter: 9
+
+
+--- Species/Group: Bushbaby ---
+
+  File: bushbaby_uniprotkb_proteome_UP000005225_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 26
+  - Total Potential Glycosites Found: 82
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 67
+      - Glycopeptides after Length Filter: 42
+
+
+--- Species/Group: Goose ---
+
+  File: goose_uniprotkb_taxonomy_id_8861_AND_reviewed_2025_03_27.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 2
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 1
+      - Glycopeptides after Length Filter: 1
+
+
+--- Species/Group: Hrsvs2 ---
+
+  File: hrsvs2_uniprotkb_proteome_UP000113393_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 5
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 4
+      - Glycopeptides after Length Filter: 3
+
+
+--- Species/Group: Tobacco ---
+
+  File: tobacco_uniprotkb_taxonomy_id_4097_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 505
+  - Total Potential Glycosites Found: 777
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 690
+      - Glycopeptides after Length Filter: 485
+
+
+--- Species/Group: Olive ---
+
+  File: olive_uniprotkb_taxonomy_id_4146_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 110
+  - Total Potential Glycosites Found: 23
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 21
+      - Glycopeptides after Length Filter: 12
+
+
+--- Species/Group: Brineshrimp ---
+
+  File: brineshrimp_uniprotkb_taxonomy_id_6661_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 25
+  - Total Potential Glycosites Found: 50
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 45
+      - Glycopeptides after Length Filter: 18
+
+
+--- Species/Group: Cheetah ---
+
+  File: cheetah_uniprotkb_taxonomy_id_32536_AND_reviewe_2025_03_27.fasta
+  - Total Proteins Processed: 12
+  - Total Potential Glycosites Found: 16
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 15
+      - Glycopeptides after Length Filter: 8
+
+
+--- Species/Group: Porcupine ---
+
+  File: porcupine_uniprotkb_taxonomy_id_34844_AND_reviewe_2025_03_27.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 0
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 0
+      - Glycopeptides after Length Filter: 0
+
+
+--- Species/Group: Wnv ---
+
+  File: wnv_uniprotkb_proteome_UP000008600_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 13
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 13
+      - Glycopeptides after Length Filter: 6
+
+
+--- Species/Group: Carp ---
+
+  File: carp_uniprotkb_taxonomy_id_7962_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 91
+  - Total Potential Glycosites Found: 140
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 126
+      - Glycopeptides after Length Filter: 80
+
+
+--- Species/Group: Crap.fasta ---
+
+  File: crap.fasta
+  - Total Proteins Processed: 116
+  - Total Potential Glycosites Found: 125
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 114
+      - Glycopeptides after Length Filter: 59
+
+
+--- Species/Group: Human ---
+
+  File: human_uniprotkb_proteome_UP000005640_AND_revi_2025_01_17.fasta
+  - Total Proteins Processed: 20406
+  - Total Potential Glycosites Found: 59060
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 52426
+      - Glycopeptides after Length Filter: 32942
+
+
+--- Species/Group: Kiwi ---
+
+  File: kiwi_uniprotkb_taxonomy_id_3627_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 25
+  - Total Potential Glycosites Found: 26
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 22
+      - Glycopeptides after Length Filter: 17
+
+
+--- Species/Group: Cryptococcus ---
+
+  File: cryptococcus_uniprotkb_proteome_UP000002149_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 375
+  - Total Potential Glycosites Found: 776
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 691
+      - Glycopeptides after Length Filter: 420
+
+
+--- Species/Group: Pea ---
+
+  File: pea_uniprotkb_taxonomy_id_3888_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 402
+  - Total Potential Glycosites Found: 674
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 605
+      - Glycopeptides after Length Filter: 390
+
+
+--- Species/Group: Pufferfish ---
+
+  File: pufferfish_uniprotkb_proteome_UP000005226_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 175
+  - Total Potential Glycosites Found: 421
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 382
+      - Glycopeptides after Length Filter: 226
+
+
+--- Species/Group: Zebu ---
+
+  File: zebu_uniprotkb_proteome_UP000515132_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 17
+  - Total Potential Glycosites Found: 32
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 29
+      - Glycopeptides after Length Filter: 9
+
+
+--- Species/Group: Zebrafinch ---
+
+  File: zebrafinch_uniprotkb_proteome_UP000007754_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 39
+  - Total Potential Glycosites Found: 29
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 19
+      - Glycopeptides after Length Filter: 15
+
+
+--- Species/Group: Bloodfluke ---
+
+  File: bloodfluke_uniprotkb_taxonomy_id_6183_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 104
+  - Total Potential Glycosites Found: 283
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 250
+      - Glycopeptides after Length Filter: 132
+
+
+--- Species/Group: Raccoon ---
+
+  File: raccoon_uniprotkb_taxonomy_id_9654_AND_reviewed_2025_03_27.fasta
+  - Total Proteins Processed: 4
+  - Total Potential Glycosites Found: 2
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2
+      - Glycopeptides after Length Filter: 2
+
+
+--- Species/Group: Nematode ---
+
+  File: nematode_uniprotkb_proteome_UP000008549_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 579
+  - Total Potential Glycosites Found: 1677
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 1493
+      - Glycopeptides after Length Filter: 1052
+
+
+--- Species/Group: Bakersyeast ---
+
+  File: bakersyeast_uniprotkb_taxonomy_id_559292_AND_review_2025_03_15.fasta
+  - Total Proteins Processed: 6733
+  - Total Potential Glycosites Found: 26971
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 23891
+      - Glycopeptides after Length Filter: 15642
+
+
+--- Species/Group: Influenzab ---
+
+  File: influenzab_uniprotkb_proteome_UP000008158_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 45
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 36
+      - Glycopeptides after Length Filter: 27
+
+
+--- Species/Group: Hepatitisa ---
+
+  File: hepatitisa_uniprotkb_proteome_UP000006724_AND_revi_2025_04_03.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 13
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 13
+      - Glycopeptides after Length Filter: 6
+
+
+--- Species/Group: Squirrel ---
+
+  File: squirrel_uniprotkb_proteome_UP000005215_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 21
+  - Total Potential Glycosites Found: 34
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 30
+      - Glycopeptides after Length Filter: 19
+
+
+--- Species/Group: Hiv2 ---
+
+  File: hiv2_uniprotkb_proteome_UP000002242_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 9
+  - Total Potential Glycosites Found: 33
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 27
+      - Glycopeptides after Length Filter: 22
+
+
+--- Species/Group: Kluyveromyceslactis ---
+
+  File: kluyveromyceslactis_uniprotkb_proteome_UP000000598_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 896
+  - Total Potential Glycosites Found: 3052
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2718
+      - Glycopeptides after Length Filter: 1827
+
+
+--- Species/Group: Lobster ---
+
+  File: lobster_uniprotkb_taxonomy_id_6706_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 41
+  - Total Potential Glycosites Found: 29
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 26
+      - Glycopeptides after Length Filter: 18
+
+
+--- Species/Group: Charcoalrot ---
+
+  File: charcoalrot_uniprotkb_proteome_UP000007129_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 19
+  - Total Potential Glycosites Found: 50
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 45
+      - Glycopeptides after Length Filter: 24
+
+
+--- Species/Group: Hiv1 ---
+
+  File: hiv1_uniprotkb_proteome_UP000007420_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 9
+  - Total Potential Glycosites Found: 40
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 38
+      - Glycopeptides after Length Filter: 23
+
+
+--- Species/Group: Potato ---
+
+  File: potato_uniprotkb_proteome_UP000011115_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 408
+  - Total Potential Glycosites Found: 652
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 585
+      - Glycopeptides after Length Filter: 395
+
+
+--- Species/Group: Psilocybecubensis ---
+
+  File: psilocybecubensis_uniprotkb_taxonomy_id_181762_AND_review_2025_03_17.fasta
+  - Total Proteins Processed: 8
+  - Total Potential Glycosites Found: 16
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 14
+      - Glycopeptides after Length Filter: 8
+
+
+--- Species/Group: Sunflower ---
+
+  File: sunflower_uniprotkb_taxonomy_id_4232_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 145
+  - Total Potential Glycosites Found: 178
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 160
+      - Glycopeptides after Length Filter: 115
+
+
+--- Species/Group: Sycamore ---
+
+  File: sycamore_uniprotkb_taxonomy_id_4403_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 70
+  - Total Potential Glycosites Found: 127
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 110
+      - Glycopeptides after Length Filter: 79
+
+
+--- Species/Group: Sars-cov ---
+
+  File: SARS-CoV_uniprotkb_proteome_UP000000354_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 15
+  - Total Potential Glycosites Found: 86
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 82
+      - Glycopeptides after Length Filter: 41
+
+
+--- Species/Group: Rvc ---
+
+  File: rvc_uniprotkb_proteome_UP000007664_AND_revi_2025_03_14.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 58
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 47
+      - Glycopeptides after Length Filter: 28
+
+
+--- Species/Group: Rat ---
+
+  File: rat_uniprotkb_proteome_UP000002494_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 8203
+  - Total Potential Glycosites Found: 21755
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 19458
+      - Glycopeptides after Length Filter: 12243
+
+
+--- Species/Group: Orangutan ---
+
+  File: orangutan_uniprotkb_proteome_UP000001595_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 2218
+  - Total Potential Glycosites Found: 4774
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 4212
+      - Glycopeptides after Length Filter: 2755
+
+
+--- Species/Group: Phosvitin ---
+
+  File: phosvitin_uniprotkb_2025_03_20.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 2
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 1
+      - Glycopeptides after Length Filter: 0
+
+
+--- Species/Group: Candida ---
+
+  File: candida_uniprotkb_proteome_UP000000559_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 1142
+  - Total Potential Glycosites Found: 5237
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 4647
+      - Glycopeptides after Length Filter: 2582
+
+
+--- Species/Group: Measles ---
+
+  File: measles_uniprotkb_proteome_UP000008699_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 8
+  - Total Potential Glycosites Found: 28
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 27
+      - Glycopeptides after Length Filter: 20
+
+
+--- Species/Group: Watermelon ---
+
+  File: watermelon_uniprotkb_taxonomy_id_3654_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 8
+  - Total Potential Glycosites Found: 10
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 10
+      - Glycopeptides after Length Filter: 6
+
+
+--- Species/Group: Orange ---
+
+  File: orange_uniprotkb_taxonomy_id_2711_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 113
+  - Total Potential Glycosites Found: 182
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 153
+      - Glycopeptides after Length Filter: 106
+
+  File: orange_uniprotkb_proteome_UP000027120_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 18
+  - Total Potential Glycosites Found: 35
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 29
+      - Glycopeptides after Length Filter: 22
+
+
+--- Species/Group: Chicken ---
+
+  File: chicken_uniprotkb_proteome_UP000000539_AND_revi_2025_01_29.fasta
+  - Total Proteins Processed: 2309
+  - Total Potential Glycosites Found: 6241
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 5564
+      - Glycopeptides after Length Filter: 3577
+
+
+--- Species/Group: Peach ---
+
+  File: peach_uniprotkb_taxonomy_id_3760_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 21
+  - Total Potential Glycosites Found: 29
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 24
+      - Glycopeptides after Length Filter: 16
+
+
+--- Species/Group: Rvb ---
+
+  File: rvb_uniprotkb_proteome_UP000114294_2025_03_14.fasta
+  - Total Proteins Processed: 12
+  - Total Potential Glycosites Found: 47
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 42
+      - Glycopeptides after Length Filter: 32
+
+
+--- Species/Group: Frog ---
+
+  File: frog_uniprotkb_proteome_UP000186698_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3507
+  - Total Potential Glycosites Found: 9523
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 8352
+      - Glycopeptides after Length Filter: 5446
+
+
+--- Species/Group: Aspergillusfumigata ---
+
+  File: aspergillusfumigata_uniprotkb_proteome_UP000002530_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 937
+  - Total Potential Glycosites Found: 2728
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2456
+      - Glycopeptides after Length Filter: 1415
+
+
+--- Species/Group: Crocodile ---
+
+  File: crocodile_uniprotkb_proteome_UP000594220_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 2
+  - Total Potential Glycosites Found: 2
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2
+      - Glycopeptides after Length Filter: 1
+
+
+--- Species/Group: Whiskfern ---
+
+  File: whiskfern_uniprotkb_taxonomy_id_3240_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 82
+  - Total Potential Glycosites Found: 118
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 102
+      - Glycopeptides after Length Filter: 70
+
+
+--- Species/Group: Apple ---
+
+  File: apple_uniprotkb_proteome_UP000290289_AND_revi_2025_02_04.fasta
+  - Total Proteins Processed: 4
+  - Total Potential Glycosites Found: 11
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 11
+      - Glycopeptides after Length Filter: 7
+
+
+--- Species/Group: Teaplant ---
+
+  File: teaplant_uniprotkb_taxonomy_id_4442_AND_reviewed_2025_03_17.fasta
+  - Total Proteins Processed: 18
+  - Total Potential Glycosites Found: 31
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 31
+      - Glycopeptides after Length Filter: 19
+
+
+--- Species/Group: Lentil ---
+
+  File: lentil_uniprotkb_taxonomy_id_3864_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 15
+  - Total Potential Glycosites Found: 27
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 23
+      - Glycopeptides after Length Filter: 17
+
+
+--- Species/Group: Graywolf ---
+
+  File: graywolf_uniprotkb_taxonomy_id_9612_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 868
+  - Total Potential Glycosites Found: 2292
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2053
+      - Glycopeptides after Length Filter: 1254
+
+
+--- Species/Group: Brownalga ---
+
+  File: brownalga_uniprotkb_proteome_UP000002630_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 6
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 6
+      - Glycopeptides after Length Filter: 5
+
+
+--- Species/Group: Amoeba ---
+
+  File: amoeba_uniprotkb_proteome_UP000006671_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 7
+  - Total Potential Glycosites Found: 18
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 16
+      - Glycopeptides after Length Filter: 12
+
+
+--- Species/Group: Cat ---
+
+  File: cat_uniprotkb_proteome_UP000011712_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 232
+  - Total Potential Glycosites Found: 594
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 535
+      - Glycopeptides after Length Filter: 325
+
+
+--- Species/Group: Panda ---
+
+  File: panda_uniprotkb_taxonomy_id_9646_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 67
+  - Total Potential Glycosites Found: 153
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 142
+      - Glycopeptides after Length Filter: 86
+
+
+--- Species/Group: Sponge ---
+
+  File: sponge_uniprotkb_proteome_UP000007879_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 2
+  - Total Potential Glycosites Found: 14
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 14
+      - Glycopeptides after Length Filter: 6
+
+
+--- Species/Group: Pineapple ---
+
+  File: pineapple_uniprotkb_taxonomy_id_4615_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 13
+  - Total Potential Glycosites Found: 7
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 6
+      - Glycopeptides after Length Filter: 3
+
+
+--- Species/Group: Cotton ---
+
+  File: cotton_uniprotkb_taxonomy_id_3635_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 153
+  - Total Potential Glycosites Found: 224
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 197
+      - Glycopeptides after Length Filter: 128
+
+
+--- Species/Group: Dugbe ---
+
+  File: dugbe_uniprotkb_proteome_UP000000278_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 31
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 25
+      - Glycopeptides after Length Filter: 19
+
+
+--- Species/Group: Tilapia ---
+
+  File: tilapia_uniprotkb_proteome_UP000005207_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 21
+  - Total Potential Glycosites Found: 25
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 23
+      - Glycopeptides after Length Filter: 12
+
+
+--- Species/Group: Jev ---
+
+  File: jev_uniprotkb_proteome_UP000140283_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 11
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 11
+      - Glycopeptides after Length Filter: 6
+
+
+--- Species/Group: Opossum ---
+
+  File: opossum_uniprotkb_proteome_UP000002280_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 43
+  - Total Potential Glycosites Found: 52
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 51
+      - Glycopeptides after Length Filter: 35
+
+
+--- Species/Group: Penicillium ---
+
+  File: penicillium_uniprotkb_proteome_UP000000724_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 158
+  - Total Potential Glycosites Found: 449
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 422
+      - Glycopeptides after Length Filter: 270
+
+
+--- Species/Group: Eel ---
+
+  File: eel_uniprotkb_taxonomy_id_7937_AND_reviewed_2025_03_27.fasta
+  - Total Proteins Processed: 28
+  - Total Potential Glycosites Found: 27
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 24
+      - Glycopeptides after Length Filter: 17
+
+
+--- Species/Group: Clothofgoldconesnail ---
+
+  File: clothofgoldconesnail_uniprotkb_taxonomy_id_6494_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 101
+  - Total Potential Glycosites Found: 7
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 6
+      - Glycopeptides after Length Filter: 5
+
+
+--- Species/Group: Cucumber ---
+
+  File: cucumber_uniprotkb_taxonomy_id_3659_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 125
+  - Total Potential Glycosites Found: 182
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 167
+      - Glycopeptides after Length Filter: 119
+
+
+--- Species/Group: Anemone ---
+
+  File: anemone_uniprotkb_proteome_UP000001593_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 134
+  - Total Potential Glycosites Found: 207
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 185
+      - Glycopeptides after Length Filter: 126
+
+
+--- Species/Group: Elephant ---
+
+  File: elephant_uniprotkb_proteome_UP000007646_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 34
+  - Total Potential Glycosites Found: 96
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 80
+      - Glycopeptides after Length Filter: 36
+
+
+--- Species/Group: Sugarcane ---
+
+  File: sugarcane_uniprotkb_taxonomy_id_4547_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 87
+  - Total Potential Glycosites Found: 81
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 76
+      - Glycopeptides after Length Filter: 47
+
+
+--- Species/Group: Blackcherry ---
+
+  File: blackcherry_uniprotkb_taxonomy_id_23207_AND_reviewe_2025_03_15.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 41
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 39
+      - Glycopeptides after Length Filter: 11
+
+
+--- Species/Group: Silveira ---
+
+  File: silveira_uniprotkb_proteome_UP000002497_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 20
+  - Total Potential Glycosites Found: 44
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 39
+      - Glycopeptides after Length Filter: 28
+
+
+--- Species/Group: Platypus ---
+
+  File: platypus_uniprotkb_proteome_UP000002279_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 46
+  - Total Potential Glycosites Found: 96
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 88
+      - Glycopeptides after Length Filter: 43
+
+
+--- Species/Group: Douglasfur ---
+
+  File: douglasfur_uniprotkb_taxonomy_id_3357_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 71
+  - Total Potential Glycosites Found: 18
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 17
+      - Glycopeptides after Length Filter: 16
+
+
+--- Species/Group: Barley ---
+
+  File: barley_uniprotkb_taxonomy_id_4513_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 369
+  - Total Potential Glycosites Found: 395
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 355
+      - Glycopeptides after Length Filter: 216
+
+
+--- Species/Group: Bat ---
+
+  File: bat_uniprotkb_proteome_UP000001074_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 4
+  - Total Potential Glycosites Found: 3
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 3
+      - Glycopeptides after Length Filter: 0
+
+
+--- Species/Group: Grandfir ---
+
+  File: grandfir_uniprotkb_taxonomy_id_46611_AND_reviewe_2025_03_27.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 32
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 30
+      - Glycopeptides after Length Filter: 28
+
+
+--- Species/Group: Banana ---
+
+  File: banana_uniprotkb_proteome_UP000012960_AND_revi_2025_03_15.fasta
+  - Total Proteins Processed: 21
+  - Total Potential Glycosites Found: 10
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 9
+      - Glycopeptides after Length Filter: 7
+
+
+--- Species/Group: Lcmv ---
+
+  File: lcmv_uniprotkb_proteome_UP000002474_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 4
+  - Total Potential Glycosites Found: 29
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 26
+      - Glycopeptides after Length Filter: 14
+
+
+--- Species/Group: Zika ---
+
+  File: zika_uniprotkb_proteome_UP000054557_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 2
+  - Total Potential Glycosites Found: 11
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 11
+      - Glycopeptides after Length Filter: 7
+
+
+--- Species/Group: Peanut ---
+
+  File: peanut_uniprotkb_taxonomy_id_3818_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 41
+  - Total Potential Glycosites Found: 27
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 23
+      - Glycopeptides after Length Filter: 17
+
+
+--- Species/Group: Riceblast ---
+
+  File: riceblast_uniprotkb_proteome_UP000009058_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 365
+  - Total Potential Glycosites Found: 874
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 769
+      - Glycopeptides after Length Filter: 473
+
+
+--- Species/Group: Chinesebirdspider ---
+
+  File: chinesebirdspider_uniprotkb_taxonomy_id_209901_AND_review_2025_03_15.fasta
+  - Total Proteins Processed: 292
+  - Total Potential Glycosites Found: 33
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 15
+      - Glycopeptides after Length Filter: 15
+
+
+--- Species/Group: Deertick ---
+
+  File: deertick_uniprotkb_proteome_UP000001555_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 49
+  - Total Potential Glycosites Found: 45
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 43
+      - Glycopeptides after Length Filter: 28
+
+
+--- Species/Group: Monkey ---
+
+  File: monkey_uniprotkb_proteome_UP000233100_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 1176
+  - Total Potential Glycosites Found: 2585
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2296
+      - Glycopeptides after Length Filter: 1539
+
+
+--- Species/Group: Belugawhale ---
+
+  File: belugawhale_uniprotkb_proteome_UP000248483_AND_revi_2025_03_27.fasta
+  - Total Proteins Processed: 14
+  - Total Potential Glycosites Found: 35
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 31
+      - Glycopeptides after Length Filter: 14
+
+
+--- Species/Group: Ginseng ---
+
+  File: ginseng_uniprotkb_taxonomy_id_4054_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 135
+  - Total Potential Glycosites Found: 234
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 194
+      - Glycopeptides after Length Filter: 129
+
+
+--- Species/Group: Ricefish ---
+
+  File: ricefish_uniprotkb_proteome_UP000001038_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 93
+  - Total Potential Glycosites Found: 188
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 157
+      - Glycopeptides after Length Filter: 91
+
+
+--- Species/Group: Yak ---
+
+  File: yak_uniprotkb_proteome_UP000694520_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 31
+  - Total Potential Glycosites Found: 54
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 49
+      - Glycopeptides after Length Filter: 25
+
+
+--- Species/Group: Nakedmolerat ---
+
+  File: nakedmolerat_uniprotkb_proteome_UP000006813_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 5
+  - Total Potential Glycosites Found: 1
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 0
+      - Glycopeptides after Length Filter: 0
+
+
+--- Species/Group: Ferret ---
+
+  File: ferret_uniprotkb_proteome_UP000000715_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 33
+  - Total Potential Glycosites Found: 106
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 91
+      - Glycopeptides after Length Filter: 58
+
+
+--- Species/Group: Camel ---
+
+  File: camel_uniprotkb_proteome_UP000694950_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 26
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 24
+      - Glycopeptides after Length Filter: 18
+
+
+--- Species/Group: Kidneybean ---
+
+  File: kidneybean_uniprotkb_proteome_UP000000226_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 3
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 3
+      - Glycopeptides after Length Filter: 3
+
+
+--- Species/Group: Silkmoth ---
+
+  File: silkmoth_uniprotkb_proteome_UP000005204_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 241
+  - Total Potential Glycosites Found: 356
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 305
+      - Glycopeptides after Length Filter: 209
+
+
+--- Species/Group: Trout ---
+
+  File: trout_uniprotkb_proteome_UP000472277_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 10
+  - Total Potential Glycosites Found: 8
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 6
+      - Glycopeptides after Length Filter: 2
+
+
+--- Species/Group: Guineapig ---
+
+  File: guineapig_uniprotkb_proteome_UP000005447_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 306
+  - Total Potential Glycosites Found: 677
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 618
+      - Glycopeptides after Length Filter: 373
+
+
+--- Species/Group: Rva ---
+
+  File: rva_uniprotkb_proteome_UP000001119_AND_revi_2025_03_14.fasta
+  - Total Proteins Processed: 12
+  - Total Potential Glycosites Found: 52
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 47
+      - Glycopeptides after Length Filter: 26
+
+
+--- Species/Group: Cow ---
+
+  File: cow_uniprotkb_proteome_UP000009136_AND_revi_2025_01_29.fasta
+  - Total Proteins Processed: 6048
+  - Total Potential Glycosites Found: 11477
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 10216
+      - Glycopeptides after Length Filter: 6719
+
+
+--- Species/Group: Cytomegalovirus ---
+
+  File: cytomegalovirus_uniprotkb_proteome_UP000000938_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 166
+  - Total Potential Glycosites Found: 487
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 452
+      - Glycopeptides after Length Filter: 244
+
+
+--- Species/Group: Chinchilla ---
+
+  File: chinchilla_uniprotkb_proteome_UP000694398_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 14
+  - Total Potential Glycosites Found: 10
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 9
+      - Glycopeptides after Length Filter: 9
+
+
+--- Species/Group: Shark ---
+
+  File: shark_uniprotkb_proteome_UP000314986_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 2
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2
+      - Glycopeptides after Length Filter: 1
+
+
+--- Species/Group: Dengue ---
+
+  File: dengue_uniprotkb_proteome_UP000002500_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 1
+  - Total Potential Glycosites Found: 14
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 14
+      - Glycopeptides after Length Filter: 9
+
+
+--- Species/Group: Tomato ---
+
+  File: tomato_uniprotkb_proteome_UP000004994_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 508
+  - Total Potential Glycosites Found: 1067
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 958
+      - Glycopeptides after Length Filter: 653
+
+
+--- Species/Group: Octopus ---
+
+  File: octopus_uniprotkb_taxonomy_id_6645_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 21
+  - Total Potential Glycosites Found: 29
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 26
+      - Glycopeptides after Length Filter: 16
+
+
+--- Species/Group: Starfish ---
+
+  File: starfish_uniprotkb_taxonomy_id_7594_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 26
+  - Total Potential Glycosites Found: 99
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 88
+      - Glycopeptides after Length Filter: 31
+
+
+--- Species/Group: Snake ---
+
+  File: snake_uniprotkb_proteome_UP000472273_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 32
+  - Total Potential Glycosites Found: 41
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 35
+      - Glycopeptides after Length Filter: 24
+
+
+--- Species/Group: Mosquito ---
+
+  File: mosquito_uniprotkb_proteome_UP000007062_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 292
+  - Total Potential Glycosites Found: 676
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 592
+      - Glycopeptides after Length Filter: 374
+
+
+--- Species/Group: Rabbit ---
+
+  File: rabbit_uniprotkb_proteome_UP000001811_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 978
+  - Total Potential Glycosites Found: 2115
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 1893
+      - Glycopeptides after Length Filter: 1211
+
+
+--- Species/Group: Ebola ---
+
+  File: ebola_uniprotkb_proteome_UP000007209_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 9
+  - Total Potential Glycosites Found: 57
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 52
+      - Glycopeptides after Length Filter: 37
+
+
+--- Species/Group: Dog ---
+
+  File: dog_uniprotkb_proteome_UP000805418_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 854
+  - Total Potential Glycosites Found: 2264
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2025
+      - Glycopeptides after Length Filter: 1251
+
+
+--- Species/Group: Rice ---
+
+  File: rice_uniprotkb_proteome_UP000059680_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 4176
+  - Total Potential Glycosites Found: 8665
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 7754
+      - Glycopeptides after Length Filter: 4753
+
+
+--- Species/Group: Softshellturtle ---
+
+  File: softshellturtle_uniprotkb_proteome_UP000007267_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 9
+  - Total Potential Glycosites Found: 31
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 27
+      - Glycopeptides after Length Filter: 18
+
+
+--- Species/Group: Celegans ---
+
+  File: celegans_uniprotkb_proteome_UP000001940_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 4485
+  - Total Potential Glycosites Found: 14510
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 12825
+      - Glycopeptides after Length Filter: 8515
+
+
+--- Species/Group: Ant ---
+
+  File: ant_uniprotkb_proteome_UP000000311_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 21
+  - Total Potential Glycosites Found: 9
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 7
+      - Glycopeptides after Length Filter: 6
+
+
+--- Species/Group: Paramecium ---
+
+  File: paramecium_uniprotkb_proteome_UP000000600_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 55
+  - Total Potential Glycosites Found: 112
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 93
+      - Glycopeptides after Length Filter: 61
+
+
+--- Species/Group: Seal ---
+
+  File: seal_uniprotkb_taxonomy_id_9720_AND_reviewed_2025_03_27.fasta
+  - Total Proteins Processed: 30
+  - Total Potential Glycosites Found: 33
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 29
+      - Glycopeptides after Length Filter: 9
+
+
+--- Species/Group: Poliovirus ---
+
+  File: poliovirus_uniprotkb_proteome_UP000000356_AND_revi_2025_04_03.fasta
+  - Total Proteins Processed: 2
+  - Total Potential Glycosites Found: 18
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 17
+      - Glycopeptides after Length Filter: 13
+
+
+--- Species/Group: Blackbear ---
+
+  File: blackbear_uniprotkb_taxonomy_id_9643_AND_reviewed_2025_03_27.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 5
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 5
+      - Glycopeptides after Length Filter: 2
+
+
+--- Species/Group: Wheat ---
+
+  File: wheat_uniprotkb_proteome_UP000019116_AND_revi_2025_02_25.fasta
+  - Total Proteins Processed: 381
+  - Total Potential Glycosites Found: 410
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 376
+      - Glycopeptides after Length Filter: 229
+
+
+--- Species/Group: Sheep ---
+
+  File: sheep_uniprotkb_proteome_UP000002356_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 461
+  - Total Potential Glycosites Found: 847
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 761
+      - Glycopeptides after Length Filter: 453
+
+
+--- Species/Group: Redalga ---
+
+  File: redalga_uniprotkb_proteome_UP000007014_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 104
+  - Total Potential Glycosites Found: 88
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 74
+      - Glycopeptides after Length Filter: 45
+
+
+--- Species/Group: Horse ---
+
+  File: horse_uniprotkb_proteome_UP000002281_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 291
+  - Total Potential Glycosites Found: 545
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 509
+      - Glycopeptides after Length Filter: 331
+
+
+--- Species/Group: Goat ---
+
+  File: goat_uniprotkb_proteome_UP000291000_AND_revi_2025_02_01.fasta
+  - Total Proteins Processed: 120
+  - Total Potential Glycosites Found: 173
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 156
+      - Glycopeptides after Length Filter: 98
+
+
+--- Species/Group: Avocado ---
+
+  File: avocado_uniprotkb_taxonomy_id_3435_AND_reviewed_2025_03_15.fasta
+  - Total Proteins Processed: 11
+  - Total Potential Glycosites Found: 24
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 23
+      - Glycopeptides after Length Filter: 13
+
+
+--- Species/Group: Lasv ---
+
+  File: lasv_uniprotkb_proteome_UP000002473_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 4
+  - Total Potential Glycosites Found: 27
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 24
+      - Glycopeptides after Length Filter: 14
+
+
+--- Species/Group: Debaryomyceshansenii ---
+
+  File: debaryomyceshansenii_uniprotkb_proteome_UP000000599_AND_revi_2025_02_26.fasta
+  - Total Proteins Processed: 653
+  - Total Potential Glycosites Found: 2856
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 2494
+      - Glycopeptides after Length Filter: 1642
+
+
+--- Species/Group: Zebrafish ---
+
+  File: zebrafish_uniprotkb_proteome_UP000000437_AND_revi_2025_01_17.fasta
+  - Total Proteins Processed: 3348
+  - Total Potential Glycosites Found: 9035
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 8054
+      - Glycopeptides after Length Filter: 5123

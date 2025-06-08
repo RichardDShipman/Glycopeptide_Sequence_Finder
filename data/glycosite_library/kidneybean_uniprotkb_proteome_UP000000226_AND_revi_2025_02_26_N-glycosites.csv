@@ -1,4 +1,4 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName,seq21
-sp|V7BSD0|IF4E1_PHAVU,185,NAS,Phaseolus vulgaris,3885,eIF4E,RQDKISIWTKNASNEAAQMSI
-sp|P02234|LGBA_PHAVU,13,NSS,Phaseolus vulgaris,3885,LBA,AFTEKQEALVNSSWEAFKGNI
-sp|P02234|LGBA_PHAVU,99,NDS,Phaseolus vulgaris,3885,LBA,LGSIHSQKGVNDSQFLVVKEA
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|V7BSD0|IF4E1_PHAVU,185,NAS,Phaseolus vulgaris,3885,eIF4E
+sp|P02234|LGBA_PHAVU,13,NSS,Phaseolus vulgaris,3885,LBA
+sp|P02234|LGBA_PHAVU,99,NDS,Phaseolus vulgaris,3885,LBA

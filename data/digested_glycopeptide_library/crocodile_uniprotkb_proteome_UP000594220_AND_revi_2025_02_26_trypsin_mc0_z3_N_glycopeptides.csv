@@ -1,0 +1,2 @@
+ProteinID,Site,Peptide,Start,End,Length,Sequon,PredictedMass,Hydrophobicity,pI
+sp|O55245|TTHY_CROPO,121,ALGLSPFHEYADVVFTANDSGHR,104,126,23,NDS,2502.192735,-0.16957,5.07

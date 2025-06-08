@@ -1,3 +1,3 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName,seq21
-sp|Q36082|CYB_URSMA,15,NNS,Ursus maritimus,29073,MT-CYB,RKTHPLAKIINNSFIDLPTPS
-sp|Q36082|CYB_URSMA,26,NIS,Ursus maritimus,29073,MT-CYB,NSFIDLPTPSNISAWWNFGSL
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|Q36082|CYB_URSMA,15,NNS,Ursus maritimus,29073,MT-CYB
+sp|Q36082|CYB_URSMA,26,NIS,Ursus maritimus,29073,MT-CYB

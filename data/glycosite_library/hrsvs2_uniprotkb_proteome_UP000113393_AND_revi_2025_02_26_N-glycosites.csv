@@ -1,6 +1,6 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName,seq21
-sp|P0DOE4|SH_HRSS2,3,NTS,Human respiratory syncytial virus A (strain S-2),410078,SH,ZZZZZZZZMENTSITIEFSSK
-sp|P0DOE4|SH_HRSS2,52,NKT,Human respiratory syncytial virus A (strain S-2),410078,SH,NKLCEYNVFHNKTFELPRARV
-sp|P0DOE6|MATRX_HRSS2,93,NVS,Human respiratory syncytial virus A (strain S-2),410078,M,QMPSKFTICANVSLDERSKLA
-sp|P0DOE6|MATRX_HRSS2,179,NIT,Human respiratory syncytial virus A (strain S-2),410078,M,VRNKDLNTLENITTTEFKNAI
-sp|P0DOE8|NS1_HRSS2,76,NFT,Human respiratory syncytial virus A (strain S-2),410078,1C,CPNNNIVVKSNFTTMPVLQNG
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|P0DOE4|SH_HRSS2,3,NTS,Human respiratory syncytial virus A (strain S-2),410078,SH
+sp|P0DOE4|SH_HRSS2,52,NKT,Human respiratory syncytial virus A (strain S-2),410078,SH
+sp|P0DOE6|MATRX_HRSS2,93,NVS,Human respiratory syncytial virus A (strain S-2),410078,M
+sp|P0DOE6|MATRX_HRSS2,179,NIT,Human respiratory syncytial virus A (strain S-2),410078,M
+sp|P0DOE8|NS1_HRSS2,76,NFT,Human respiratory syncytial virus A (strain S-2),410078,1C

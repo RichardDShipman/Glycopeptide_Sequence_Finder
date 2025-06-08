@@ -1,9 +1,0 @@
-Glycosite Summary for lion_uniprotkb_taxonomy_id_9689_AND_reviewed_2025_03_27
-Glycosylation Type: N
-Total Glycosites Found: 7
-Total Proteins with Glycosites: 3
-
-Glycosites per Protein:
-sp|Q35506|CYB_PANLE: 3 glycosites
-sp|Q3BCR0|TPMT_PANLE: 2 glycosites
-sp|P08481|IPSG_PANLE: 2 glycosites

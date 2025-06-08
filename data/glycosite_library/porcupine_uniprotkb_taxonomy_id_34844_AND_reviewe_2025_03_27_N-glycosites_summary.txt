@@ -1,6 +1,0 @@
-Glycosite Summary for porcupine_uniprotkb_taxonomy_id_34844_AND_reviewe_2025_03_27
-Glycosylation Type: N
-Total Glycosites Found: 0
-Total Proteins with Glycosites: 0
-
-Glycosites per Protein:

@@ -1,7 +1,0 @@
-Glycosite Summary for hepatitisa_uniprotkb_proteome_UP000006724_AND_revi_2025_04_03
-Glycosylation Type: N
-Total Glycosites Found: 13
-Total Proteins with Glycosites: 1
-
-Glycosites per Protein:
-sp|P08617|POLG_HAVHM: 13 glycosites

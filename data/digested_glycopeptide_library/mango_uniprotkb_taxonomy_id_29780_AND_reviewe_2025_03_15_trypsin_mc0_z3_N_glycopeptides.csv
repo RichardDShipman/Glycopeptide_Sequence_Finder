@@ -1,0 +1,2 @@
+ProteinID,Site,Peptide,Start,End,Length,Sequon,PredictedMass,Hydrophobicity,pI
+sp|A0A0M4KE44|CGT_MANIN,84,QFHLLPFDPSTANTTDPFFLR,72,92,21,NTT,2463.222255,-0.2381,4.99

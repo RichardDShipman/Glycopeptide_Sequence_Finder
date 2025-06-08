@@ -1,7 +1,0 @@
-Glycosite Summary for nakedmolerat_uniprotkb_proteome_UP000006813_AND_revi_2025_02_26
-Glycosylation Type: N
-Total Glycosites Found: 1
-Total Proteins with Glycosites: 1
-
-Glycosites per Protein:
-sp|G5AY81|HYAS2_HETGA: 1 glycosites

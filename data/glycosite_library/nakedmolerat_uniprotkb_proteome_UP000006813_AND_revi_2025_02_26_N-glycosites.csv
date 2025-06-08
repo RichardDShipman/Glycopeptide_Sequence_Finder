@@ -1,2 +1,2 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName,seq21
-sp|G5AY81|HYAS2_HETGA,82,NKT,Heterocephalus glaber,10181,Has2,KKSLETPIKLNKTVALCIAAY
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|G5AY81|HYAS2_HETGA,82,NKT,Heterocephalus glaber,10181,Has2

@@ -1,7 +1,7 @@
-ProteinID,Site,Sequon,Species,TaxonID,GeneName,seq21
-sp|D8LQS7|HPB_ECTSI,171,NAT,Ectocarpus siliculosus,2880,HPB,RVPFAQSAMTNATDTFYKNLR
-sp|D8LQS7|HPB_ECTSI,183,NGT,Ectocarpus siliculosus,2880,HPB,TDTFYKNLRDNGTGDYTVVYD
-sp|D1J722|FTSH_ECTSI,3,NQT,Ectocarpus siliculosus,2880,ftsH,ZZZZZZZZMKNQTTKNIILVF
-sp|D1J722|FTSH_ECTSI,29,NFT,Ectocarpus siliculosus,2880,ftsH,LSGFVYLKWDNFTDVGTNLIN
-sp|D1J722|FTSH_ECTSI,119,NSS,Ectocarpus siliculosus,2880,ftsH,RPIGVKIPVRNSSLILTLRDY
-sp|D1J722|FTSH_ECTSI,445,NDS,Ectocarpus siliculosus,2880,ftsH,IIAGLEGVLLNDSRNKRLVAY
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|D8LQS7|HPB_ECTSI,171,NAT,Ectocarpus siliculosus,2880,HPB
+sp|D8LQS7|HPB_ECTSI,183,NGT,Ectocarpus siliculosus,2880,HPB
+sp|D1J722|FTSH_ECTSI,3,NQT,Ectocarpus siliculosus,2880,ftsH
+sp|D1J722|FTSH_ECTSI,29,NFT,Ectocarpus siliculosus,2880,ftsH
+sp|D1J722|FTSH_ECTSI,119,NSS,Ectocarpus siliculosus,2880,ftsH
+sp|D1J722|FTSH_ECTSI,445,NDS,Ectocarpus siliculosus,2880,ftsH
