@@ -28,13 +28,14 @@ log_file="${PROJECT_ROOT}/data/logs/batch_run_${timestamp}.log"
 
 # Protease (-p)
 #protease="trypsin"  # Cleaves after K or R unless followed by P
-#protease="chymotrypsin"  # Cleaves after F, W, or Y unless followed by P
+#protease="chymotrypsin"  # Cleaves after F, W, L, or Y unless followed by P
 #protease="pepsin"  # Cleaves after F, W, or Y
 #protease="glu-c"  # Cleaves after E
 #protease="lys-c"  # Cleaves after K
 #protease="arg-c"  # Cleaves after R
 #protease="asp-n"  # Cleaves before Asp (D)
 #protease="proteinase-k"  # Cleaves after A, F, I, L, V, W, Y
+#protease="operator" # cleaves after glycosylated S or T, for O-glycans
 #protease="all" # all proteases
 
 # Glycosylation type (-g)
