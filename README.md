@@ -892,6 +892,7 @@ I used these test proteomes to generate a zoo of glycopeptides under constrained
 | Ant | Camponotus floridanus | 104421 |
 | Apple         | Malus domestica                                                                 | 3750                    |
 | Arabidopsis   | Arabidopsis thaliana                                                            | 3702                    |
+| ASFV   | African swine fever virus (strain Badajoz 1971 Vero-adapted)                                                            | 10498                    |
 | Aspergillus fumigata | Aspergillus fumigata (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) | 330879 |
 | Aspergillus nidulans | Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) | 227321 |
 | Avocado | Persea americana | 3435 |
