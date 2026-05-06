@@ -1,0 +1,22 @@
+================================================================================
+Glycopeptide Finder - Run Summary Report
+Run Date: 2026-05-06 10:35:28
+================================================================================
+
+--- Global Parameters ---
+Protease(s): trypsin
+Glycosylation Type: N
+Missed Cleavages: 0
+Peptide Length Range: 5-25
+Glycan Library: None
+Ion Series Calculation: Disabled
+
+
+--- Species/Group: Andv ---
+
+  File: andv_uniprotkb_proteome_UP000204348_AND_revi_2026_05_05.fasta
+  - Total Proteins Processed: 3
+  - Total Potential Glycosites Found: 17
+    - Stats for Protease 'trypsin':
+      - Initial Glycopeptide Candidates: 14
+      - Glycopeptides after Length Filter: 11

@@ -887,6 +887,7 @@ I used these test proteomes to generate a zoo of glycopeptides under constrained
 |---------------|---------------------------------------------------------------------------------|-------------------------|
 | Alpaca | Vicugna pacos | 30538 |
 | Amoeba | Naegleria gruberi | 5762 |
+| ANDV | Andes orthohantavirus (hantavirus boat 26) | 1980456 |
 | Anemone | Nematostella vectensis | 45351 |
 | Ant | Camponotus floridanus | 104421 |
 | Apple         | Malus domestica                                                                 | 3750                    |

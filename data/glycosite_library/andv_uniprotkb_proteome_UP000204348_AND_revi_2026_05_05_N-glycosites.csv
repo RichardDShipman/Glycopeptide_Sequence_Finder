@@ -1,0 +1,18 @@
+ProteinID,Site,Sequon,Species,TaxonID,GeneName
+sp|O36307|NCAP_ANDV,10,NIT,Andes orthohantavirus,1980456,N
+sp|O36307|NCAP_ANDV,40,NKS,Andes orthohantavirus,1980456,N
+sp|O36307|NCAP_ANDV,273,NES,Andes orthohantavirus,1980456,N
+sp|Q9E005|L_ANDV,167,NIS,,,
+sp|Q9E005|L_ANDV,283,NES,,,
+sp|Q9E005|L_ANDV,436,NAS,,,
+sp|Q9E005|L_ANDV,443,NKT,,,
+sp|Q9E005|L_ANDV,828,NIS,,,
+sp|Q9E005|L_ANDV,858,NRS,,,
+sp|Q9E005|L_ANDV,1033,NHS,,,
+sp|Q9E005|L_ANDV,1788,NQT,,,
+sp|Q9E005|L_ANDV,2072,NFS,,,
+sp|Q9E006|GP_ANDV,138,NQT,Andes orthohantavirus,1980456,GP
+sp|Q9E006|GP_ANDV,350,NHS,Andes orthohantavirus,1980456,GP
+sp|Q9E006|GP_ANDV,402,NIS,Andes orthohantavirus,1980456,GP
+sp|Q9E006|GP_ANDV,524,NES,Andes orthohantavirus,1980456,GP
+sp|Q9E006|GP_ANDV,930,NLT,Andes orthohantavirus,1980456,GP

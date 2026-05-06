@@ -10,7 +10,7 @@ protease="trypsin"
 glycosylation_type="N"
 missed_cleavages=0
 charge_state=2
-max_peptide_length=50
+max_peptide_length=25
 min_peptide_length=5
 cores=4
 
