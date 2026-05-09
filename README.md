@@ -1,8 +1,10 @@
 # Glycopeptide Sequence Finder
 
+Author: Richard Shipman [GitHub](https://github.com/RichardDShipman)
+
 A tool for identifying and analyzing in silico generated digested glycopeptide sequences from protein FASTA files. 
 
-Check out the [wiki](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder/wiki)!
+Check out the [wiki](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder/wiki)! Work in progress...
 
 # Quick Start Guide
 
